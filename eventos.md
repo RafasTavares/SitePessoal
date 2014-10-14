@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papos
+title: Eventos
 ---
 <hr/>
 
