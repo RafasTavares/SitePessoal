@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Papos
+title: Eventos
 ---
 <hr/>
 
 <ul>
   <li>
-    <a href="/talks/dont-be-an-asshole">Don't Be An A**hole</a>
+    <a href="/talks/webmaker-papi-unit">Webmaker PAPI UNIT</a>
   </li>
   <li>
   <a href="/talks/tao-of-documentation">Tao Of Documentation</a>
