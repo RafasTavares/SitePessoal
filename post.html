@@ -2,7 +2,6 @@
 layout: page
 title: Posts
 ---
-
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -11,14 +10,11 @@ title: Posts
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
+    <span class="post-date">{{ post.date | date_to_string }}</span
     {{ post.content }}
   </div>
   {% endfor %}
 </div>
-
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="/page{{paginator.next_page}}">Anterior</a>
