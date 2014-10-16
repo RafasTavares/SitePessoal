@@ -3,8 +3,7 @@ layout: page
 title: Sobre
 ---
 
-<div>
-<a class="btn btn-social-icon btn-twitter">
-    <i class="fa fa-twitter"></i>
-  </a>
+<div class="">
+    
 </div>
+<h1>Olá, sou Rafael Tavares desenvolvedor Web/mobile.  Sou <em>rafasmusic</em> nas redes sociais.</h1>
