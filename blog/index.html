@@ -1,14 +1,14 @@
 ---
-layout: page
-title: Posts
+layout: default
+title: Blog
 ---
 
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
+      <a href="{{ ../page.url }}">
+        {{ post.title }} 
       </a>
     </h1>
 
@@ -21,7 +21,7 @@ title: Posts
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Anterior</a>
+    <a class="pagination-item older" href="../page{{paginator.next_page}}">Anterior</a>
   {% else %}
     <span class="pagination-item older">Anterior</span>
   {% endif %}
@@ -29,7 +29,7 @@ title: Posts
     {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="/">Novo</a>
     {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Novo</a>
+      <a class="pagination-item newer" href="../page{{paginator.previous_page}}">Novo</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Novo</span>

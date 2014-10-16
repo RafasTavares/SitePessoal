@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Teste do pprimeiro Post"
-date: 2014-09-10 13:26
+date: 2014-07-11 13:26
 ---
 
-teste
+aqui
 
 Esse é um post teste
