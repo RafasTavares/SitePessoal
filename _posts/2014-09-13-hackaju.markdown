@@ -1,0 +1,21 @@
+---
+layout: post
+title: "HACKAJU - Primeiro Hackathon de Aracaju - SE"
+date: 2014-09-13 08:00
+---
+
+
+<p>
+    No dia 13 de agosto aconteceu o primeiro Hackathon de Aracaju-SE o <a href="https://hackaju.com.br"><b>HACKAJU</b></a> realizado na Universidade Tiradentes e organizado por mim, a coordenadora dos cursos de TI da UNIT e o também aluno, Elias.
+    O Hackaju começou a ser sonhado pelo Elias que por ter participado de alguns Hack pela Blackberry queria muito trazer essa experiência para uma universidade e depois de ter participado junto com Jenifer no Hackathon do BRAPPS e vivermos esse projeto tivemos a certeza que a galera de Aracaju iria adorar. E foi o que fizemos, em 1 mês começamos a desenvolver esse projeto, criamos site, separamos o espaço, conseguimos apoio de empresas e aconteceu.
+ </br>
+</p>
+</hr>
+<h3>
+    Pessoas que acreditaram em nossa ideia.
+</h3>
+<div>
+<img src="/public/img/talk_hackaju.png" alt="Parceiros do HACKAJU">
+</div>
+</br>
+<p>Mais fotos em <a href="https://www.facebook.com/hackaju">nossa página </a> no facebook ou busque por #hackaju nas redes sociais</p>

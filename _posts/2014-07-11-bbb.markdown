@@ -1,9 +1,0 @@
----
-layout: post
-title: "Teste do pprimeiro Post"
-date: 2014-07-11 13:26
----
-
-aqui
-
-Esse é um post teste
