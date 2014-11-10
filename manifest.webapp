@@ -12,6 +12,15 @@
     "60": "../public/img/icon60x60.png",
     "128": "../public/img/icon128x128.png"
   },
-  "type": "privileged",
-  "permissions": {}
+  "fullscreen": "true",
+"default_locale": "pt-BR",
+"orientation": ["portrait", "landscape-secondary"],
+"type": "privileged",
+"permissions": {
+"systemXHR": {
+"description": "Request card information from web service"
+}
+},
+"installs_allowed_from": ["*"],
+"version": "1.0"
 }
