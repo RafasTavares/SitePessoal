@@ -31,10 +31,3 @@ aside {
   padding: 15px 8px;
   font: normal small-caps normal 15px/120% Arial, Helvetica, sans-serif;
 }
-a {
-  color: #666666;
-}
-a:hover .soc {
-  -webkit-transform: scale(1.1);
-  -webkit-transform: rotate(-5deg); 
-}
