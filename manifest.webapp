@@ -13,14 +13,14 @@
     "128": "../public/img/icon128x128.png"
   },
   "fullscreen": "true",
-"default_locale": "pt-BR",
-"orientation": ["portrait", "landscape-secondary"],
-"type":,
-"permissions": {
-"systemXHR": {
-"description": "Request card information from web service"
-}
-},
-"installs_allowed_from": ["*"],
+    "default_locale": "pt-BR",
+    "orientation": ["portrait", "landscape-secondary"],
+    "type":
+    "permissions": {
+    "systemXHR": {
+    "description": "Request card information from web service"
+    }
+    },
+    "installs_allowed_from": ["*"],
 "version": "1.0"
 }
