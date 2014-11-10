@@ -15,7 +15,7 @@
   "fullscreen": "true",
     "default_locale": "pt-BR",
     "orientation": ["portrait", "landscape-secondary"],
-    "type":
+    "type": "certified",
     "permissions": {
     "systemXHR": {
     "description": "Request card information from web service"
