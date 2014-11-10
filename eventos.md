@@ -13,7 +13,7 @@ title: Eventos
 ## [Front in Maceió 2° Edição](http://frontinmaceio.com.br/)
 * **Quando:** 13 à 15 de novembro
 * **Onde:** Maceió - AL
-* **Participante**
+* **Mozilla Participante**
 
 ---
 ## Eventos Passados
@@ -36,7 +36,26 @@ title: Eventos
 * **Organizador**
 * **#hackaju**
 
+## [PhoneGap Bootcamp - Aracaju](http://phonegapbootcamp.io/#/about)
+* **Quando:** 07 e 08 de agosto
+* **Onde:** Aracaju - SE
+* **Participante**
+
 ## [Front in Aracaju - Rock and Code](http://frontinaracaju.com.br/)
 * **Quando:** 02 de agosto
 * **Onde:** Aracaju -SE
 * **Participante**
+
+
+## [Startup Weekend - Aracaju](http://aracaju.startupweekend.org/)
+* **Quando:** 30 de maio a 01 de junho
+* **Onde:** Aracaju -SE
+* **Participante**
+
+
+
+## [BRAPPS - Brazilian Applications Seminar](http://brappsbrasil.com/)
+* **Quando:** 25 e 26 de abril
+* **Onde:** Brasilia - DF
+* **Participante Seminário e Hackathon**
+
