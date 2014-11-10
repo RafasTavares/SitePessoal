@@ -10,11 +10,6 @@ title: Eventos
 ---
 ## Eventos Futuros
 ---
-## [14° edição da FEIVEST (Feira de Vestibuar da UNIT)](http://ww3.unit.br/feivest2013/)
-* **Quando:** 1° de novembro
-* **Onde:** Stands dos cursos de TI - UNIT Campus farolândia
-* **Aluno Organizador**
-
 ## [Front in Maceió 2° Edição](http://frontinmaceio.com.br/)
 * **Quando:** 13 à 15 de novembro
 * **Onde:** Maceió - AL
@@ -25,6 +20,11 @@ title: Eventos
 ---
 ~2014
 ---
+## [14° edição da FEIVEST (Feira de Vestibuar da UNIT)](http://ww3.unit.br/feivest2013/)
+* **Quando:** 1° de novembro
+* **Onde:** Stands dos cursos de TI - UNIT Campus farolândia
+* **Aluno Organizador**
+
 ## [DevFest Nordeste - Aracaju](http://2014.devfestne.com.br/)
 * **Quando:** 18 de outubro
 * **Onde:** Aracaju - SE
@@ -35,3 +35,8 @@ title: Eventos
 * **Onde:** Aracaju -SE
 * **Organizador**
 * **#hackaju**
+
+## [Front in Aracaju - Rock and Code](http://frontinaracaju.com.br/)
+* **Quando:** 02 de agosto
+* **Onde:** Aracaju -SE
+* **Participante**
