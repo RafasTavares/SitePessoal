@@ -7,10 +7,10 @@
 		"url": "http://rafaeltavares.co"
 	},
   "icons": {
-    "16": "../public/img/icon16x16.png",
-    "48": "../public/img/icon48x48.png",
-    "60": "../public/img/icon60x60.png",
-    "128": "../public/img/icon128x128.png"
+    "16": "public/img/icon16x16.png",
+    "48": "public/img/icon48x48.png",
+    "60": "public/img/icon60x60.png",
+    "128": "public/img/icon128x128.png"
   },
   "fullscreen": "true",
     "default_locale": "pt-BR",
