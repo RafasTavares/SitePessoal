@@ -22,6 +22,6 @@ paginate:         5
 github:
   repo:          https://github.com/rafastavares
   
-source:      .
+source:     .
 destination: ./_site
 paginate_path: 'blog/page:num'

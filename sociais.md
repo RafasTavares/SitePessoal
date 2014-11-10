@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre
+title: Sociais
 ---
 
 <div class="">
