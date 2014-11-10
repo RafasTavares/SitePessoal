@@ -186,8 +186,11 @@ tbody tr:nth-child(odd) th {
 }
 
 .lead {
-  font-size: 1.25rem;
-  font-weight: 300;
+     margin-bottom: 0;
+	text-transform: uppercase;
+	font-size: 12px;
+	letter-spacing: 2px;
+    margin-top: auto;
 }
 
 .message {

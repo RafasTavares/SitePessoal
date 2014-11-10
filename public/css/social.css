@@ -1,0 +1,40 @@
+i.soc {
+  width: 48px;
+  height: 48px;
+  background-repeat: no-repeat;
+  background-position: top left;
+  float: left;
+  /* -webkit-transition: all .2s ease-in-out; */
+}
+.facebook {
+  background:      url(../img/facebook_48.png);
+}
+.twitter {
+  background:      url(../img/twitter_48.png);
+}
+.www {
+  background:      url(../img/globe_48.png);
+}
+.email {
+  background:      url(../img/email_48.png);
+  margin-left: 10px;
+}
+.github {
+  background:      url(../img/github_48.png);
+}
+.google-plus {
+  background:      url(../img/google-plus_48.png);
+  margin-left: 5px;
+}
+aside {
+  clear: both;
+  padding: 15px 8px;
+  font: normal small-caps normal 15px/120% Arial, Helvetica, sans-serif;
+}
+a {
+  color: #666666;
+}
+a:hover .soc {
+  -webkit-transform: scale(1.1);
+  -webkit-transform: rotate(-5deg); 
+}
