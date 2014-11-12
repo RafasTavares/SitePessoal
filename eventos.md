@@ -41,6 +41,11 @@ title: Eventos
 * **Organizador**
 * **#hackaju**
 
+## [11° SEMINFO(Semana de Informática da UNIT)](http://www.unit.br/blog/noticias/seminfo-em-sua-11a-edicao/)
+* **Quando:** 11 e 12 de setembro
+* **Onde:** Aracaju - SE
+* **Participante e Aluno Organizador**
+
 ## [PhoneGap Bootcamp - Aracaju](http://phonegapbootcamp.io/#/about)
 * **Quando:** 07 e 08 de agosto
 * **Onde:** Aracaju - SE
@@ -58,9 +63,39 @@ title: Eventos
 * **Participante**
 
 
-
 ## [BRAPPS - Brazilian Applications Seminar](http://brappsbrasil.com/)
 * **Quando:** 25 e 26 de abril
 * **Onde:** Brasilia - DF
 * **Participante Seminário e Hackathon**
+
+---
+~2013
+---
+## [II Encontro de Redes de Computadores - ("Network Optical Day")](http://www.unit.br/blog/noticias/unit-realiza-a-10a-seminfo/)
+* **Quando:** 30 de novembro
+* **Onde:** Aracaju - SE
+* **Participante**
+
+## [10° SEMINFO(Semana de Informática da UNIT)](http://www.unit.br/blog/noticias/unit-realiza-a-10a-seminfo/)
+* **Quando:** 11 e 12 de setembro
+* **Onde:** Aracaju - SE
+* **Participante e Aluno Organizador**
+
+---
+~2012
+---
+
+
+---
+~2011
+---
+## [3Kg de TI v3](https://www.facebook.com/events/216807091697061/)
+* **Quando:** 12 e 13 de agosto
+* **Onde:** Aracaju - SE
+* **Participante Seminário**
+
+## [3Kg de TI v3](https://www.facebook.com/events/216807091697061/)
+* **Quando:** 24 a 26 de março
+* **Onde:** Aracaju - SE
+* **Participante Seminário**
 
