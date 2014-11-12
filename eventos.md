@@ -68,6 +68,11 @@ title: Eventos
 * **Onde:** Brasilia - DF
 * **Participante Seminário e Hackathon**
 
+## [8° SEMEX (Semana de Extensão da Unit) - CRIATIVIDADE E INOVAÇÃO PARA O DESENVOLVIMENTO LOCAL](http://brappsbrasil.com/)
+* **Quando:** 24 a 28 de março
+* **Onde:** Aracaju - SE
+* **Participante Seminário e Hackathon**
+
 ---
 ~2013
 ---
@@ -76,10 +81,17 @@ title: Eventos
 * **Onde:** Aracaju - SE
 * **Participante**
 
+
 ## [10° SEMINFO(Semana de Informática da UNIT)](http://www.unit.br/blog/noticias/unit-realiza-a-10a-seminfo/)
 * **Quando:** 11 e 12 de setembro
 * **Onde:** Aracaju - SE
 * **Participante e Aluno Organizador**
+
+## [Jornada Adobe - Aracaju](http://jornadaadobe.com/)
+* **Quando:** 26 e 27 de julho
+* **Onde:** Aracaju - SE
+* **Mobile Apps/HTML5 Básico e Avançado**
+* **Participante**
 
 ---
 ~2012
