@@ -15,6 +15,11 @@ title: Eventos
 * **Onde:** Maceió - AL
 * **Mozilla Participante**
 
+## [Meetup Mozilla Brasil 2014](https://wiki.mozilla.org/CommunityMeetupBrasil)
+* **Quando:** 13 e 14 de dezembro
+* **Onde:** Ribeirão Preto - SP 
+* **Mozilla Participante**
+
 ---
 ## Eventos Passados
 ---
