@@ -68,10 +68,10 @@ title: Eventos
 * **Onde:** Brasilia - DF
 * **Participante Seminário e Hackathon**
 
-## [8° SEMEX (Semana de Extensão da Unit) - CRIATIVIDADE E INOVAÇÃO PARA O DESENVOLVIMENTO LOCAL](http://brappsbrasil.com/)
+## [8° SEMEX (Semana de Extensão da Unit) - CRIATIVIDADE E INOVAÇÃO PARA O DESENVOLVIMENTO LOCAL](http://ww3.unit.br/semex2014/)
 * **Quando:** 24 a 28 de março
 * **Onde:** Aracaju - SE
-* **Participante Seminário e Hackathon**
+* **Participante**
 
 ---
 ~2013
@@ -93,9 +93,18 @@ title: Eventos
 * **Mobile Apps/HTML5 Básico e Avançado**
 * **Participante**
 
+## [7° SEMEX (Semana de Extensão da Unit) - A DIVERSIDADE NOS MOVE,AS EXTENSÕES NOS CONECTAM](http://ww3.unit.br/semex2014/)
+* **Quando:** 11 a 15 de março
+* **Onde:** Aracaju - SE
+* **Participante**
+
 ---
 ~2012
 ---
+## [6° SEMEX (Semana de Extensão da Unit) - DESENVOLVIMENTO INFANTIL E SEUS TRANSTORNOS](http://ww3.unit.br/semex/)
+* **Quando:** 12 a 16 de março
+* **Onde:** Aracaju - SE
+* **Participante**
 
 
 ---
@@ -106,8 +115,14 @@ title: Eventos
 * **Onde:** Aracaju - SE
 * **Participante Seminário**
 
+## [5° SEMEX (Semana de Extensão da Unit) - EXTENSÃO UNIVERSITÁRIA: A PRÁTICA ACADÊMICA MUDANDO CAMINHOS](http://ww3.unit.br/semex/)
+* **Quando:** 11 a 15 de abril
+* **Onde:** Aracaju - SE
+* **Participante**
+
 ## [3Kg de TI v3](https://www.facebook.com/events/216807091697061/)
 * **Quando:** 24 a 26 de março
 * **Onde:** Aracaju - SE
 * **Participante Seminário**
+
 
