@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hackathon Front In Maceió 1° Dia"
+title: "1° Dia - Hackathon Front In Maceió"
 date: 2014-11-13 09:00
 ---
 

@@ -10,11 +10,6 @@ title: Eventos
 ---
 ## Eventos Futuros
 ---
-## [Front in Maceió 2° Edição](http://frontinmaceio.com.br/)
-* **Quando:** 13 à 15 de novembro
-* **Onde:** Maceió - AL
-* **Mozilla Participante**
-
 ## [Meetup Mozilla Brasil 2014](https://wiki.mozilla.org/CommunityMeetupBrasil)
 * **Quando:** 13 e 14 de dezembro
 * **Onde:** Ribeirão Preto - SP 
@@ -25,6 +20,11 @@ title: Eventos
 ---
 ~2014
 ---
+## [Front in Maceió 2° Edição](http://frontinmaceio.com.br/)
+* **Quando:** 13 à 15 de novembro
+* **Onde:** Maceió - AL
+* **Mozilla Participante**
+
 ## [14° edição da FEIVEST (Feira de Vestibuar da UNIT)](http://ww3.unit.br/feivest2013/)
 * **Quando:** 1° de novembro
 * **Onde:** Stands dos cursos de TI - UNIT Campus farolândia
