@@ -2,10 +2,9 @@
 layout: page
 title: Eventos
 ---
-
-<h3>Alguns eventos e participações</h3>
-##
-* **Slides e talks**
+<p class="lead">
+    PARTICIPAÇÂO E ORGANIZAÇÔES
+</p>
 
 ---
 ## Eventos Futuros
@@ -13,7 +12,7 @@ title: Eventos
 ## [Meetup Mozilla Brasil 2014](https://wiki.mozilla.org/CommunityMeetupBrasil)
 * **Quando:** 13 e 14 de dezembro
 * **Onde:** Ribeirão Preto - SP 
-* **Mozilla Participante**
+* **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/)**
 
 ---
 ## Eventos Passados
@@ -23,7 +22,7 @@ title: Eventos
 ## [Front in Maceió 2° Edição](http://frontinmaceio.com.br/)
 * **Quando:** 13 à 15 de novembro
 * **Onde:** Maceió - AL
-* **Mozilla Participante**
+* **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/)**
 
 ## [14° edição da FEIVEST (Feira de Vestibuar da UNIT)](http://ww3.unit.br/feivest2013/)
 * **Quando:** 1° de novembro
