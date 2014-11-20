@@ -7,13 +7,17 @@ date: 2014-11-13 09:00
 <p>
 Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simultaneamente no Senai, o qual fiquei responsável pela oriantação e no IFAL com os Mozillians <a href="https://mozillians.org/pt-BR/u/mv.nsaad">Marcus</a> e <a href="https://pt-br.facebook.com/melissa.devens">Melissa</a> responsáveis pela orientação das equipes.
 </p>
+</br>
 ~Manhã - 09:00/12:00
+</br>
 <p>
     Depois de uma breve apresentação sobre o Firefox OS tentei levantar qual o nível de conhecimento da galera. Fiquei muito surpreso pois a média de idade entre os alunos era de 15 à 18 anos, sendo que a maioria já tinha algum app publicado ou em desenvolvimento, mostrando que os alunos eram bem interessados e tinha um bom conhecimento em programação. Particularmente foi uma das melhores turmas que já conversei em termos de conhecimento e disposição a aprender.
     </br>
     Depois de tentar realizar um <i>brainstorming</i> vi que o pessoal já tinham idéias de projetos na cabeça. Então já começamos a definir tarefas e a desenvolver.
 </p>
+</br>
 ~Tarde 13:00/17:00
+</br>
 <p>
     Logo após o almoço que a galera do SENAI iria ter uma prova fui dar um apoio ao pessoal do IFAL, chegando lá já estavam muito bem encaminhados e já estavam desenvolvendo os aplicativos, uns desenvolvendo APIs, outros desenvolvendo o Front-End, etc. 
 </p>
