@@ -24,10 +24,11 @@ Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simul
 
 ---
 ## Propostas de Projetos pelos alunos do SENAi
-* **[GO-IN](https://marketplace.firefox.com/app/face-agenda)** *
-* **FACE-AGENDA** *
-* **STICK-LANDS** *
----    
+* **[GO-IN](https://marketplace.firefox.com/app/face-agenda)**
+* **FACE-AGENDA**
+* **STICK-LANDS**
+
+</br>   
 <div>
        <img src="/public/img/1_dia_hackathon_front_in_maceio_1.jpg" alt="Pessoal do SENAI no Hackatthon do Front In Maceió">
         <img src="/public/img/1_dia_hackathon_front_in_maceio_2.jpg" alt="Pessoal do SENAI no Hackatthon do Front In Maceió">
