@@ -9,7 +9,7 @@ Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simul
 </p>
 ---
 ~Manhã - 09:00/12:00
----
+
 <p class="txt-post">
     Depois de uma breve apresentação sobre o Firefox OS tentei levantar qual o nível de conhecimento da galera. Fiquei muito surpreso pois a média de idade entre os alunos era de 15 à 18 anos, sendo que a maioria já tinha algum app publicado ou em desenvolvimento, mostrando que os alunos eram bem interessados e tinha um bom conhecimento em programação. Particularmente foi uma das melhores turmas que já conversei em termos de conhecimento e disposição a aprender.
     </br>
@@ -17,7 +17,7 @@ Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simul
 </p>
 ---
 ~Tarde 13:00/17:00
----
+
 <p class="txt-post">
     Logo após o almoço que a galera do SENAI iria ter uma prova fui dar um apoio ao pessoal do IFAL, chegando lá já estavam muito bem encaminhados e já estavam desenvolvendo os aplicativos, uns desenvolvendo APIs, outros desenvolvendo o Front-End, etc. 
 </p>
