@@ -19,7 +19,7 @@ Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simul
 </p>
 
 ---
-## Propostas de Projetos
+## Propostas de Projetos pelos alunos do SENAi
 * **[GO-IN](https://marketplace.firefox.com/app/face-agenda)** *
 * **FACE-AGENDA** *
 * **STICK-LANDS** *
