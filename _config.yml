@@ -2,6 +2,7 @@
 markdown:         redcarpet
 pygments:         true
 
+
 # Permalinks
 permalink:        pretty
 
@@ -25,3 +26,4 @@ github:
 source:     .
 destination: ./_site
 paginate_path: 'blog/page:num'
+atom_path : /atom.xml
