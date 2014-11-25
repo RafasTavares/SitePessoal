@@ -9,7 +9,7 @@ Enfim o grande dia começou, com uma maratona de palestras distribuidas em duas 
 </p>
 
 <img src="/public/img/stand-mozilla-front-in-maceio_1.jpg" alt="Mozillians conversando com os participantes do Front in Maceió">
-<img src="/public/img/stand-mozilla-front-in-maceio_2.jpg." alt="Mozillians conversando com os participantes do Front in Maceió">
+<img src="/public/img/stand-mozilla-front-in-maceio_2.jpg" alt="Mozillians conversando com os participantes do Front in Maceió">
 <h4>
    alera do SENAI participando do Hack do Front In Maceió #hackathon #frontinmaceio #firefoxos
 </h4>
