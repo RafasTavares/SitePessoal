@@ -19,14 +19,14 @@ Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simul
 ~Tarde 13:00/17:00
 
 <p class="txt-post">
-    Logo após o almoço que a galera do SENAI iria ter uma prova fui dar um apoio ao pessoal do IFAL, chegando lá já estavam muito bem encaminhados e já estavam desenvolvendo os aplicativos, uns desenvolvendo APIs, outros desenvolvendo o Front-End, etc. 
+    Logo após o almoço que a galera do SENAI iria ter uma prova fui dar um apoio ao pessoal do IFAL, chegando lá já estavam muito bem encaminhados e os aplicativos já estavam em desenvolvimento, uns desenvolvendo APIs, outros desenvolvendo o Front-End, etc. 
 </p>
 
 ---
 
 ## Propostas de Projetos pelos alunos do SENAi
-* **[GO-IN](https://marketplace.firefox.com/app/face-agenda)**
-* **FACE-AGENDA**
+* **GO-IN**
+* **[FACE-AGENDA](https://marketplace.firefox.com/app/face-agenda)**
 * **STICK-LANDS**
 
    
@@ -34,6 +34,10 @@ Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simul
        <img src="/public/img/1_dia_hackathon_front_in_maceio_1.jpg" alt="Pessoal do SENAI no Hackatthon do Front In Maceió">
         <img src="/public/img/1_dia_hackathon_front_in_maceio_2.jpg" alt="Pessoal do SENAI no Hackatthon do Front In Maceió">
        <h4>
-           Galera do SENAI participando do Hack do Front In Maceió #hackathon #frontinmaceió #firefoxos
+           Galera do SENAI participando do Hack do Front In Maceió #hackathon #frontinmaceio #firefoxos
+       </h4>
+       <img src="/public/img/1_dia_hackathon_front_in_maceio_3.jpg" alt="Marcus e Melissa desenvolvendo idéias com as equipes do IFAL">
+       <h4>
+           Marcus e Melissa discutindo idéias com as equipes do IFAL #hackathon #frontinmaceio #firefoxos
        </h4>
 </div>
