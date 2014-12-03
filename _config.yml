@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         redcarpet
 pygments:         true
-
+google-analytics-tracking-id: UA-57304637-1
 
 # Permalinks
 permalink:        pretty
