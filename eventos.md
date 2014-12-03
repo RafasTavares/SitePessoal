@@ -9,6 +9,11 @@ title: Eventos
 ---
 ## Eventos Futuros
 ---
+## [III Encontro de Redes de computadores - Security Day.](https://wwws.unit.br/Extensao/cursos/DetalhesAtividades.jsp?atev=%2BfTFrHmXxBn79Mq9eJfaC%2F790Kl3hcgJ%2FOHGr0Gm%2Fz4%3D&title=III%20Encontro%20de%20Redes%20de%20computadores%20-%20Security%20Day.%20ANO%202014/2)
+* **Quando:** 06 de dezembro
+* **Onde:** Universidade Tiradentes - Campus Farolândia - Aracaju -SE 
+* **Participante**
+
 ## [Meetup Mozilla Brasil 2014](https://wiki.mozilla.org/CommunityMeetupBrasil)
 * **Quando:** 13 e 14 de dezembro
 * **Onde:** Ribeirão Preto - SP 
