@@ -13,9 +13,18 @@ tagline:          @rafasmusic
 description:      Web e Mobile Developer
 url:              http://rafaeltavares.co
 
-author:
-  name:           'Rafael Tavares'
-  url:            https://twitter.com/rafasmusic
+
+author :
+  name : Rafael Tavares
+  email : suporte.rafas@gmail.com
+  flickr: Rafael Tavares
+  github : rafastavares
+  twitter : rafastavares
+  facebook: rafael.tavares.andrade
+  linkedin: Rafael Tavares
+  googleplus: RafaelTavaresAndrade
+  bitbucket: rafastavares
+  stackoverflow:rafasmusic
 
 paginate:         5
 
