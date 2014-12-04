@@ -1,26 +1,26 @@
 ---
 layout: default
 ---
-<div style="width:80%">
-  <div class="post">
-    <h1 class="post-title">{{ page.title }}</h1> 
-    <span class="post-date">{{ page.date | date_to_string }}</span>
-    {{ content }}
-  </div>
-  
-  <div class="related">
-    <h4>Related Posts</h4>
-    <ul class="related-posts">
-      {% for post in site.related_posts limit:3 %}
-        <li>
-          <h6>
-            <a href="{{ post.url }}">
-              {{ post.title }}
-              <small>{{ post.date | date_to_string }}</small>
-            </a>
-          </h6>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1> 
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
 </div>
+
+<div class="related">
+  <h4>Related Posts</h4>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h6>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h6>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
