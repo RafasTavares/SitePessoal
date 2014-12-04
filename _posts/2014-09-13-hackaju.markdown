@@ -8,6 +8,7 @@ date: 2014-09-13 08:00
     No dia 13 de agosto aconteceu o primeiro Hackathon de Aracaju-SE o <a href="https://hackaju.com.br"><b>HACKAJU</b></a> realizado na Universidade Tiradentes e organizado por mim, 
     <a href="https://github.com/eliasdevelop">Elias</a> e a cordenadora dos cusros de TI <a href="http://lattes.cnpq.br/9297698513235759">Jenifer</a>.
 </p>
+<<<<<<< HEAD
 
 <p class="txt-post">
 	O Hackaju começou a ser sonhado por Elias depois de ter participado de alguns Hacks pela Blackberry que pensou muito trazer essa experiência para uma universidade. Logo após exerimentei junto com Jenifer o Hackathon do <a href="http://brappsbrasil.com/">BRAPPS</a>, depois de dois dias tentando conciliar hackathon e seminarios tivemos a certeza que a galera de Aracaju iria adorar.
@@ -28,6 +29,25 @@ date: 2014-09-13 08:00
 <p class="txt-post">
 	Mais nem tudo são flores, como na maioria dos lugares contavamos com 48 participantes e tivemos 30, grande parte foram empresas ou desenvolvedores já experientes. Sempre com poucos acadêmicos deixando mais uma vez de aquiquirir novas experiências. Apesar de tudo foi um evento fantástico que já esta sendo planejado para o próximo ano tembém após a Seminfo.
 </p>
+=======
+<p class="txt-post">
+	O Hackaju começou a ser sonhado por Elias depois de ter participado de alguns Hacks pela Blackberry que pensou muito trazer essa experiência para uma universidade. Logo após exerimentei junto com Jenifer o Hackathon do <a href="http://brappsbrasil.com/">BRAPPS</a>, depois de dois dias tentando conciliar hackathon e seminarios tivemos a certeza que a galera de Aracaju iria adorar.
+</p>
+<p class="txt-post">>
+	Nossa idéia foi realizar o Hackaju logo após a Semana de Informática da Unit que contou com palestrantes do Facebook, Firefox e outros com seminários e minicursos que apoiariam os participante para escolherem a plataforma que iriam desenvolver como iriam chegar na ideia além do nosso apoio na hora do evento. 
+	Contamos com uma estrutura bem descontraida no Mini-Shopping da Unit, tivemos muita música eletrônica e muita pizza para os participantes. Com a duração de 12 horas começando as 08:00 às 20:00 horas para desenvolver parcialmente ou completamente um aplicativo dentro dos temas para as premiação que foram:
+</p>
+---
+* **Melhor Aplicativo Unit** com premiação de $1.500,00 reais
+* **Melhor App usando as APIs do Twitter** premiado com dois Raspberry PI
+* **Melhor App e-Commerce** tendo como prêmio a incubação do projeto no <a href="http://www.sergipetec.se.gov.br/">SergipeTec</a>
+
+---
+
+<p class="txt-post">
+	Mais nem tudo são flores, como na maioria dos lugares contavamos com 48 participantes e tivemos 30, grande parte foram empresas ou desenvolvedores já experientes. Sempre com poucos acadêmicos deixando mais uma vez de aquiquirir novas experiências. Apesar de tudo foi um evento fantástico que já esta sendo planejado para o próximo ano tembém após a Seminfo.
+</p>
+>>>>>>> master
 
 ---
 <h3>
