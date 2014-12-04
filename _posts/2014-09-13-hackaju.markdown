@@ -16,9 +16,10 @@ date: 2014-09-13 08:00
 	Contamos com uma estrutura bem descontraida no Mini-Shopping da Unit, tivemos muita música eletrônica e muita pizza para os participantes. Com a duração de 12 horas começando as 08:00 às 20:00 horas para desenvolver parcialmente ou completamente um aplicativo dentro dos temas para as premiação que foram:
 </p>
 ---
-* Melhor Aplicativo Unit com premiação de $1.500,00 reais
-* Melhor App usando as APIs do Twitter premiado com dois Raspberry PI
-* Melhor App e-Commerce  tendo como prêmio a incubação do projeto no <a href="http://www.sergipetec.se.gov.br/">SergipeTec</a>
+* **Melhor Aplicativo Unit** com premiação de $1.500,00 reais
+* **Melhor App usando as APIs do Twitter** premiado com dois Raspberry PI
+* **Melhor App e-Commerce** tendo como prêmio a incubação do projeto no <a href="http://www.sergipetec.se.gov.br/">SergipeTec</a>
+
 ---
 
 <p class="text-post">
