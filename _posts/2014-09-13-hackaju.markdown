@@ -19,6 +19,7 @@ date: 2014-09-13 08:00
 * **Melhor Aplicativo Unit** com premiação de $1.500,00 reais
 * **Melhor App usando as APIs do Twitter** premiado com dois Raspberry PI
 * **Melhor App e-Commerce** tendo como prêmio a incubação do projeto no <a href="http://www.sergipetec.se.gov.br/">SergipeTec</a>
+
 ---
 
 <p class="txt-post">
