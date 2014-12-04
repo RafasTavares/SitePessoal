@@ -5,7 +5,7 @@ date: 2014-09-13 08:00
 ---
 
 <p class="text-post">
-    No dia 13 de agosto aconteceu o primeiro Hackathon de Aracaju-SE o <a href="https://hackaju.com.br"><b>HACKAJU</b></a> realizado na Universidade Tiradentes e organizado por mim, 
+	No dia 13 de agosto aconteceu o primeiro Hackathon de Aracaju-SE o <a href="https://hackaju.com.br"><b>HACKAJU</b></a> realizado na Universidade Tiradentes e organizado por mim, 
     <a href="https://github.com/eliasdevelop">Elias</a> e a cordenadora dos cusros de TI <a href="http://lattes.cnpq.br/9297698513235759">Jenifer</a>.
 </p>
 <p class="text-post">
