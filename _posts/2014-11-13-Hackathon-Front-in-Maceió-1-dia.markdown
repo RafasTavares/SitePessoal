@@ -28,10 +28,12 @@ Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simul
 * **GO-IN - DEMO**
 * **[FACE-AGENDA](https://marketplace.firefox.com/app/face-agenda)**
 * **STICK-LANDS**
+* 
 ---
 ## Propostas de Projetos pelos alunos do IFAL
 * **EVENTSFOX  - DEMO**
 * **MURAL-IFAL  - DEMO**
+* 
 ---
    
 
