@@ -15,7 +15,7 @@ Nossa idéia foi realizar o Hackaju logo após a Semana de Informática da Unit 
 Contamos com uma estrutura bem descontraida no Mini-Shopping da Unit, tivemos muita música eletrônica e muita pizza para os participantes. Com a duração de 12 horas começando as 08:00 às 20:00 horas para desenvolver parcialmente ou completamente um aplicativo dentro dos temas para as premiação que foram:
 **Melhor Aplicativo Unit com premiação de $1.500,00 reais
 **Melhor App usando as APIs do Twitter premiado com dois Raspberry PI
-**Melhor App e-Commerce tendo como prêmio a incubação do projeto no <a href="http://www.sergipetec.se.gov.br/">SergipeTec
+**Melhor App e-Commerce tendo como prêmio a incubação do projeto no <a href="http://www.sergipetec.se.gov.br/">SergipeTec</a>
 Mais nem tudo são flores, como na maioria dos lugares contavamos com 48 participantes e tivemos 30, grande parte foram empresas ou desenvolvedores já experientes. Sempre com poucos acadêmicos deixando mais uma vez de aquiquirir novas experiências. Apesar de tudo foi um evento fantástico que já esta sendo planejado para o próximo ano tembém após a Seminfo.
 </p>
 </hr>
