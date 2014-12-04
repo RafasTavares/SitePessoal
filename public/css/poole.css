@@ -163,7 +163,8 @@ blockquote p:last-child {
 }
 
 img {
-  
+  max-width:80%;
+  height:auto;
   margin: 0 0 1rem;
   border-radius: 5px;
 }
@@ -201,7 +202,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .container {
-  max-width: 38rem;
+  max-width: 80%;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
