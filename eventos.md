@@ -20,7 +20,7 @@ title: Eventos
 ---
 ~2014
 ---
-## [III Encontro de Redes de computadores - Security Day.]()
+## [III Encontro de Redes de Computadores - Security Day.]()
 * **Quando:** 06 de dezembro
 * **Onde:** Universidade Tiradentes - Campus Farolândia - Aracaju -SE 
 * **Participante**

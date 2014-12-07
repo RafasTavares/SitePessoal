@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Security Day - 3° Encontro de Redes de Computadores"
-date: 2014-09-13 08:00
+date: 2014-12-06 08:00
 ---
 
 <p id="txt-post">
