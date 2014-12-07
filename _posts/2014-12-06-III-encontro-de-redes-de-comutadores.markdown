@@ -18,7 +18,9 @@ date: 2014-12-06 08:00
 
 <p id="txt-post">
   Palestrantes chegando, som testado, projetor Ok e nada dos participantes chegar :(
+   </br>
     Enfim tivemos que cancelar as palestras e se desculpar com os palestrantes, mais ficamos com a esperança de que vinhesse alguém para os minicursos a tarde !(já que acordar sábado pela manhã é tenso para ir a um evento grátis). E assim se fez a tarde tivemos os minicursos com alguns participantes distribuídos entre as salas. Nos deixando mais animados já que tínhamos mais de 70 inscritos e apareceram dois pela manhã.
+    </br>
     Apesar de tudo temos a sensação de dever cumprido.
 </p>
 
