@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Security Day" - III Encontro de Redes de Computadores.
+title: "Security Day - 3° Encontro de Redes de Computadores"
 date: 2014-09-13 08:00
 ---
 
@@ -9,7 +9,7 @@ date: 2014-09-13 08:00
 </p>
 
 ---
-<img src="/public/img/3-encontro-redes.png">
+<img src="/public/img/3-encontro-redes.png" alt="Agenda do evento">
 <h4>
     Agenda do evento
 </h4>
@@ -23,8 +23,8 @@ date: 2014-09-13 08:00
 </p>
 
 ---
-<img src="/public/img/3-encontro-redes-palestras%20(1).jpg">
-<img src="/public/img/3-encontro-redes-palestras%20(2).jpg">
+<img src="/public/img/3-encontro-redes-palestras%20(1).jpg" alt="Participantes das palestras">
+<img src="/public/img/3-encontro-redes-palestras%20(2).jpg" alt="Participantes das palestras">
 <h4>
     "Participantes" das palestras #2
 </h4>
