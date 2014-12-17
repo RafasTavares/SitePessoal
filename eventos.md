@@ -9,17 +9,21 @@ title: Eventos
 ---
 ## Eventos Futuros
 ---
-
-## [Meetup Mozilla Brasil 2014](https://wiki.mozilla.org/CommunityMeetupBrasil)
-* **Quando:** 13 e 14 de dezembro
-* **Onde:** Ribeirão Preto - SP 
-* **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/)**
+## [Campus Party 2015](http://beta.campus-party.org/ediciones/brasil/)
+* **Quando:** 3 e 7 de fevereiro
+* **Onde:** São Paulo - SP 
+* **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/) / Participante**
 
 ---
 ## Eventos Passados
 ---
 ~2014
 ---
+## [Meetup Mozilla Brasil 2014](https://wiki.mozilla.org/CommunityMeetupBrasil)
+* **Quando:** 13 e 14 de dezembro
+* **Onde:** Ribeirão Preto - SP 
+* **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/)**
+
 ## [III Encontro de Redes de Computadores - Security Day.]()
 * **Quando:** 06 de dezembro
 * **Onde:** Universidade Tiradentes - Campus Farolândia - Aracaju -SE 
