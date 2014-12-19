@@ -1,7 +1,6 @@
 .bodyG,
-.html {
-  width: 100%;
-  height: 100%;
+.htmlG {
+ 
   margin: 0;
   display: table;
   text-align: center;
@@ -15,13 +14,12 @@
   position: relative;
 }
 .background-circle {
-  width: 100vw;
+  width: 40vw;
   height: 400px;
   border-radius: 0%;
   overflow: hidden;
   z-index: -1;
   margin: 0 auto;
-  background: #FFE6E1;
   position: relative;
   -webkit-mask-image: -webkit-radial-gradient(#bada55, #bada55);
   -moz-mask-image: -webkit-radial-gradient(#bada55, #bada55);
@@ -367,7 +365,6 @@
 .triangle-dark {
   width: 400px;
   height: 600px;
-  background: #000000;
   opacity: 0.2;
   position: absolute;
   left: -60%;
