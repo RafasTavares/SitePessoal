@@ -1,4 +1,6 @@
-
+html {
+    height: 100%;
+}
 .bookshelf {
     width: 80%;
     height: 100%;
@@ -40,16 +42,19 @@
     background-color: #9ACD32;
     border-left: 2px solid #6B8E23;
     border-right: 2px solid #ADFF2F;
+    color: white;
 }
 .book-blue {
     background-color: #1E90FF;
     border-left: 2px solid #4169E1;
     border-right: 2px solid #00BFFF;
+    color: white;
 }
 .book-umber {
     background-color: #B8860B;
     border-left: 2px solid #66320f;
     border-right: 2px solid #422009;
+     color: white;
 }
 .book-yellow {
     background-color: #FFD700;
@@ -61,6 +66,7 @@
     background-color: #FF4500;
     border-left: 2px solid #FF6347;
     border-right: 2px solid #FF0000;
+    color: white;
 }
 .book h2 {
     padding: 0;
