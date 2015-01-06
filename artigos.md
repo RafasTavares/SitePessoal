@@ -4,7 +4,94 @@ title: Artigos
 ---
 
 ---
-<h5>
-Ops! Anida estou revisando, mais em breve estarei postando ;)
-</h5>
+<h1>
+        Cursos
+    </h1>
+    <div class="bookshelf">
+        <div class="book-tilted">
+            <div class="book book-green">
+                <h2>HTML Básico</h2>
+                <h3>Fundação Bradesco</h3>
+            </div>
+        </div>
+        <div class="book book-red">
+            <h2>HTML 5 Mobile Básico</h2>
+            <h3>Adobe Systems do Brasil</h3>
+        </div>
+        <div class="book book-red">
+            <h2>HTML 5 Mobile Avançado</h2>
+            <h3>Adobe Systems do Brasil</h3>
+        </div>
+        <div class="book book-blue">
+            <h2>MVA. Entendendo o Windows Azure</h2>
+        </div>
+        <div class="book book-blue">
+            <h2>MVA. Introdução à Business Intelligence</h2>
+        </div>
+        <div class="book book-blue">
+            <h2>MVA. Impl Segurança no Windows 8</h2>
+        </div>
+        <div class="book-tilted">
+            <div class="book book-umber">
+                <h2>HTML Avançado</h2>
+                <h3>Fundação Bradesco</h3>
+            </div>
+        </div>
+        <div class="book book-blue">
+            <h2>MVA. Migrando VM do AWS para o Azure</h2>
+        </div>
+        <div class="book book-blue">
+            <h2>MVA. Sites Fixos com IE 9</h2>
+        </div>
+        <div class="book book-blue">
+            <h2>MVA. Entendendo o desenv. para o WP 7</h2>
+        </div>
+        <div class="book book-red">
+            <h2>Inovando com CSS</h2>
+            <h3>Fundação Bradesco</h3>
+        </div>
+        <div class="book book-blue">
+            <h2>MVA. Fundamentos do desenv. de Soft.</h2>
+        </div>
+        <div class="book book-blue">
+            <h2>MVA. Fundamentos do EF 4</h2>
+        </div>
+        <div class="book book-blue">
+            <h2>MVA. HTML 5</h2>
+            <h3>Homologado pelo W3C</h3>
+        </div>
+        <div class="book book-blue">
+            <h2>MVA. Construindo app. com WebMatrix</h2>
+        </div>
+        <div class="book-tilted">
+            <div class="book book-red">
+                <h2>PhoneGap Bootcamp</h2>
+                <h3>Adobe Systems do Brasil</h3>
+            </div>
+        </div>
+        <div class="book book-green">
+            <h2>Desenvolvimento Android</h2>
+            <h3>Módulo I - Getinfo</h3>
+        </div>
+    </div>
+    <h1>
+         Ministrados
+    </h1>
+    <div class="bookshelf">
+        <div class="book book-umber">
+            <h2>Dev Apps para WP 8.1 Básico</h2>
+        </div>
+        <div class="book book-yellow">
+            <h2>Construct 2 - Dev. Jogos em HTML5</h2>
+        </div>
+    </div>
+    <h1>
+        Artigos
+    </h1>
+    <div class="bookshelf">
+        <div class="book book-blue">
+            <h2>Em revisão</h2>
+            <h3>Toledo RTA.</h3>
+        </div>
+    </div>
 ---
