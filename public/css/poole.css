@@ -62,11 +62,11 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
-/* Body text */
+/* Body text 
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-}
+}*/
 
 strong {
   color: #303030;
@@ -201,7 +201,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .container {
-  max-width: 80%;
+ /* max-width: 80%;*/
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
