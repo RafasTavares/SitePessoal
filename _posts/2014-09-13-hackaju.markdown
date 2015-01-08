@@ -35,7 +35,7 @@ date: 2014-09-13 08:00
     Apoiadores da ideia.
 </h3>
 <div>
-	<img src="/public/img/talk_hackaju.png" alt="Parceiros do HACKAJU">
+	<img src="http://rafaeltavares.co/public/img/talk_hackaju.png" alt="Parceiros do HACKAJU">
 </div>
 
 <p>Mais fotos em <a href="https://www.facebook.com/hackaju">nossa página </a> no facebook ou busque por #hackaju nas redes sociais</p>
