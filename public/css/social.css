@@ -26,6 +26,9 @@ i.soc {
   background:      url(../img/google-plus_48.png);
   margin-left: 5px;
 }
+.feed {
+  background:      url(../img/feed_48.png);
+}
 aside {
   clear: both;
   padding: 15px 8px;
