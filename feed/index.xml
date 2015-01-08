@@ -1,0 +1,28 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://rafaeltavares.co/blog</id>
+  <title>Blog - Rafael Tavares</title>
+  <icon>http://rafaeltavares.co/public/favicon.ico</icon>
+  <link href="http://rafaeltavares.co/feed/index.xml" rel="self" />
+  <link href="http://rafaeltavares.co/blog" />
+  {% for post in site.posts limit:10 %}
+  {% if post.layout == 'post' %}
+  <entry>
+    <id>http://rafaeltavares.co{{ post.id }}</id>
+    <title>{{ post.title | strip_html }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <link href="http://rafaeltavares.co{{ post.url }}" />
+    <author>
+      <name>Rafael Tavares</name>
+      <uri>http://rafaeltavares.co/</uri>
+    </author>
+    <content type="html">
+      {{ post.content | replace: "src='/assets/", "src='http://rafaeltavares.co/assets/" | xml_escape }}
+    </content>
+  </entry>
+  {% endif %}
+  {% endfor %}
+</feed>
