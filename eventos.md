@@ -9,7 +9,7 @@ title: Eventos
 ---
 ## Eventos Futuros
 ---
-## PAPI Unit - Palestra: "Envolva-se"
+## [PAPI Unit](http://www.unit.br/blog/noticias/unit-programa-recepcao-aos-calouros/) - "Envolva-se"
 * **Quando:** 23 de janeiro
 * **Onde:** Unit- Farolândia
 * **Palestrante**
