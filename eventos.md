@@ -9,6 +9,11 @@ title: Eventos
 ---
 ## Eventos Futuros
 ---
+## PAPI Unit - Palestra: "Envolva-se"
+* **Quando:** 23 de janeiro
+* **Onde:** Unit- Farolândia
+* **Palestrante**
+
 ## [Campus Party 2015](http://beta.campus-party.org/ediciones/brasil/)
 * **Quando:** 3 e 8 de fevereiro
 * **Onde:** São Paulo - SP 
