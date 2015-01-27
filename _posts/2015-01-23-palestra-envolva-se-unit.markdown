@@ -4,17 +4,24 @@ title: "Envolva-se com a Mozilla - PAPI Unit"
 date: 2015-01-23 20:00
 ---
 <p class="txt-post">
-    Mais uma vez tive um bate papo com os calouros de computação, da primeira vez foi um Maker Party o <a href="https://events.webmaker.org/events/4537">PAPI unit</a> agora decidi envolver-los com a mozilla com o intuito de trazer novos membros para a comunidade, mostrei como eles poderiam colaborar e entrar para a comunidade. A palestra já havia sido criada por outros Mozillians <a href="https://mozillians.org/pt-BR/u/mel/" >Melissa</a> e <a href="https://mozillians.org/pt-BR/u/panaggio/">Panaggio</a> e só fo adaptada à minha necessidade.    
+    Mais uma vez tive um bate papo com os calouros de computação, da primeira vez foi um Maker Party o <a href="https://events.webmaker.org/events/4537">PAPI unit</a> agora decidi envolvê-los com a mozilla com o intuito de trazer novos membros para a comunidade, mostrei como eles poderiam colaborar e entrar para a comunidade. A palestra já havia sido criada por outros Mozillians <a href="https://mozillians.org/pt-BR/u/mel/" >Melissa</a> e <a href="https://mozillians.org/pt-BR/u/panaggio/">Panaggio</a> e só fo adaptada à minha necessidade.    
 </p>
 
 <p class="txt-post">
-   Mais uma vez percebi que embora sejam menos alunos eles estão cada vez mais interessados, sempre ao conversar com os caluoros falo sobre temos ou exclareco dúvidas que gostaria que me falassem quando entrei na Universidade.
+   Mais uma vez percebi que embora sejam menos alunos eles estão cada vez mais interessados, sempre ao conversar com os calouros falo sobre temos ou esclareço dúvidas que gostaria que me falassem quando entrei na Universidade. A oportunidade de começar o curso e conhecer uma comunidade de software livre é fantástico, organizando eventos trocando conhecimentos com pessoas da área. 
+   Para 2015 pretendemos criar grupos de estudo de apps, ferramentas com reunições mensais (no mínimo) para trocando experiências.
 </p>
 
+<p class="txt-post"> 
+    Para minha surpresa das poucas palestras e mini-cursos que já ministrei foi a que o público estava mais interressado apesar de ser sexta as 20:00 ninguem dormiu ou saiu antes pelo contrario chegou às 22:00 horas e o pessoal ainda queria ficar conversando. Grandes promessas pro curso e pro mercado de TI.
+</p>
 
 <p class="txt-post">
     <h4><b>Alguns links:</b></h4>
     <ul>
+       <li>
+            <a href="http://rafastavares.github.io/Talk-Envolva-se"> Apresentação da Palestra </a>
+        </li>
         <li>
             <a href="http://www.mozilla.org"> Mozilla </a>
         </li>
