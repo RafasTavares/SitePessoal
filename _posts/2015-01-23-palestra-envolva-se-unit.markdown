@@ -22,6 +22,9 @@ Mais uma vez tive um bate papo com os calouros de computação, da primeira vez 
         <li>
             <a href="http://mozillabrasil.org.br/"> Mozilla Brasil</a>
         </li>
+         <li>
+            <a href="https://www.mozilla.org/pt-BR/contribute/"> Envolva-se </a>
+        </li>
         <li>
             <a href="http://fb.com/mozillabrasil"> FB | Mozilla Brasil</a>
         </li>
@@ -40,5 +43,19 @@ Mais uma vez tive um bate papo com os calouros de computação, da primeira vez 
         <li>
         <a href="http://support.mozilla.org/pt-BR/get-involved/army-of-awesome">SUMO - Exército dos Incríveis </a>
         </li>
+    </ul>
+</p>
+<p class="txt-post">
+    <b>Algumas Tags:</b>
+    
+    <ul>
+        <li><b>#</b>IAmAMozillian</li>
+        <li><b>#</b>mozilla-br</li>
+        <li><b>#</b>firefox-br</li>
+        <li><b>#</b>thunderbird-br</li>
+        <li><b>#</b>webmaker-br</li>
+        <li><b>#</b>openwebapps-br</li>
+        <li><b>#</b>developers-br</li>
+        <li><b>#</b>sumo-br</li>
     </ul>
 </p>
