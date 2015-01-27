@@ -115,6 +115,7 @@
   font-size: 11px;
   color: #666;
   line-height: 2px;
+    <!-- 24-->
 }
 
 .github-box .github-box-download .repo-update strong {
@@ -126,7 +127,8 @@
 .github-box .github-box-download .repo-download {
   position: absolute;
   display: block;
-  <!-- top: 10px; -->
+    <!-- 24-->
+   top: 1px; 
   right: 10px;
   height: 24px;
   line-height: 24px;
