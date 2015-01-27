@@ -13,7 +13,7 @@ date: 2015-01-23 20:00
 </p>
 
 <p class="txt-post"> 
-    Para minha surpresa das poucas palestras e mini-cursos que já ministrei foi a que o público estava mais interressado apesar de ser sexta as 20:00 ninguem dormiu ou saiu antes pelo contrario chegou às 22:00 horas e o pessoal ainda queria ficar conversando. Grandes promessas pro curso e pro mercado de TI.
+   Para minha surpresa das poucas palestras e minicursos que já ministrei foi a que o público estava mais interessado apesar de ser sexta as 20:00 ninguém dormiu ou saiu antes pelo contrario chegou às 22:00 horas e o pessoal ainda queria ficar conversando. Grandes promessas para o curso e o mercado de TI.
 </p>
 
 <p class="txt-post">
