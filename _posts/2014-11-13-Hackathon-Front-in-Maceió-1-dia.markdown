@@ -12,7 +12,7 @@ Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simul
 
 <p class="txt-post">
     Depois de uma breve apresentação sobre o Firefox OS tentei levantar qual o nível de conhecimento da galera. Fiquei muito surpreso pois a média de idade entre os alunos era de 15 à 18 anos, sendo que a maioria já tinha algum app publicado ou em desenvolvimento, mostrando que os alunos eram bem interessados e tinha um bom conhecimento em programação. Particularmente foi uma das melhores turmas que já conversei em termos de conhecimento e disposição a aprender.
-    </br>
+    <br/>
     Depois de tentar realizar um <i>brainstorming</i> vi que o pessoal já tinham idéias de projetos na cabeça. Então já começamos a definir tarefas e a desenvolver.
 </p>
 ---

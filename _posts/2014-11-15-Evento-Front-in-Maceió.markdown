@@ -8,7 +8,7 @@ date: 2014-11-15 08:00
 Enfim o grande dia começou, com uma maratona de palestras distribuidas em duas linhas de apresentação a Learn e a Code começando as 09:00 e terminando as 19:30. Acontecendo no Centro de Convenções de Maceió juntamente com outros eventos, como o <a href="http://www.nerdlegends.com/">Nerd Legends</a> o que foi fantástico pois tinhamos público de diferentes idades e porque nós Mozillians (Eu, Marcus , Panaggio e Melissa) estavamos com um mesa expondo as atividades e trocamos idéias com os participantes de ambos os eventos.
 </p>
 
-<p>
+<p class="txt-post">
 Desenvolvemos algumas dinâmicas com o pessoal, a "Caça ao Tesouro" criamos alguns vale brindes que quem encontrasse pelo espaço dos eventos trocaria por algum brinde definido, ou adesivo, ou bottons. Além disse estavamos aplicando tattoos do Firefox para quem vinha conversar sobre as tecnologias da Mozilla.
 </p>
 
