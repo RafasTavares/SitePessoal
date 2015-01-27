@@ -48,17 +48,11 @@ date: 2015-01-23 20:00
 <p class="txt-post">
     <h4><b>Fotos da palestra:</b></h4>
     <div style="text-align:center;">
----
         <img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-1.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
----
         <img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-2.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
----
         <img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-3.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
----
         <img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-4.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
----
         <img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-5.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
----
     </div>
 </p>
 

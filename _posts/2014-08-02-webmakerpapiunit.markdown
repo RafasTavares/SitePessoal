@@ -12,7 +12,7 @@ date: 2014-08-10 13:26
 </p>
 </hr>
 <h2>Fotos</h2>
-<div>
+<div style="text-align:center;">
 ---
 <img src="http://rafaeltavares.co/public/img/talk_webmaker_1.jpg" alt="webmaker papi unit"/>
 ---

@@ -36,7 +36,7 @@ Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simul
 
 ---
    
-
+<div style="text-align:center;">
 <img src="http://rafaeltavares.co/public/img/1_dia_hackathon_front_in_maceio_1.jpg" alt="Pessoal do SENAI no Hackatthon do Front In Maceió">
 <img src="http://rafaeltavares.co/public/img/1_dia_hackathon_front_in_maceio_2.jpg" alt="Pessoal do SENAI no Hackatthon do Front In Maceió">
 <h4>
@@ -47,3 +47,4 @@ Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simul
 <h4>
    Marcus e Melissa discutindo idéias com as equipes do IFAL #hackathon #frontinmaceio #firefoxos
 </h4>
+</div>
