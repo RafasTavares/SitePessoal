@@ -9,11 +9,11 @@ date: 2015-01-23 20:00
 
 <p class="txt-post">
    Mais uma vez percebi que embora sejam menos alunos eles estão cada vez mais interessados, sempre ao conversar com os calouros falo sobre temos ou esclareço dúvidas que gostaria que me falassem quando entrei na Universidade. A oportunidade de começar o curso e conhecer uma comunidade de software livre é fantástico, organizando eventos trocando conhecimentos com pessoas da área. 
-   Para 2015 pretendemos criar grupos de estudo de apps, ferramentas com reunições mensais (no mínimo) para trocando experiências.
+   Para 2015 pretendemos criar grupos de estudo de apps, ferramentas com reuniões mensais (no mínimo) para trocando experiências.
 </p>
 
 <p class="txt-post"> 
-   Para minha surpresa das poucas palestras e minicursos que já ministrei foi a que o público estava mais interessado apesar de ser sexta as 20:00 ninguém dormiu ou saiu antes pelo contrario chegou às 22:00 horas e o pessoal ainda queria ficar conversando. Grandes promessas para o curso e o mercado de TI.
+   Para minha surpresa das poucas palestras e minicursos que já ministrei foi a que o público estava mais interessado apesar de ser sexta as 20:00 ninguém dormiu ou saiu antes pelo contrário chegou às 22:00 horas e o pessoal ainda queria ficar conversando. Grandes promessas para o curso e o mercado de TI.
 </p>
 
 <p class="txt-post">
