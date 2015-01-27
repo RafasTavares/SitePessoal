@@ -1,26 +1,29 @@
 ---
 layout: page
-title: Eventos
+title: Events
 ---
 <p class="lead">
-    PARTICIPAÇÂO E ORGANIZAÇÔES
+    PARTICIPATIONS AND ORGANIZATIONS 
 </p>
 
 ---
-## Eventos Futuros
+## Upcoming Events
 ---
-## [PAPI Unit](http://www.unit.br/blog/noticias/unit-programa-recepcao-aos-calouros/) - "Envolva-se"
-* **Quando:** 23 de janeiro
-* **Onde:** Unit- Farolândia
-* **Palestrante**
-
 ## [Campus Party 2015](http://beta.campus-party.org/ediciones/brasil/)
 * **Quando:** 3 e 8 de fevereiro
 * **Onde:** São Paulo - SP 
 * **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/) / Participante**
 
 ---
-## Eventos Passados
+## Past Events
+---
+~2015
+---
+## [PAPI Unit](http://www.unit.br/blog/noticias/unit-programa-recepcao-aos-calouros/) - ["Envolva-se"](http://rafastavares.github.io/Talk-Envolva-se/)
+* **Quando:** 23 de janeiro
+* **Onde:** Unit- Farolândia
+* **Palestrante**
+
 ---
 ~2014
 ---
