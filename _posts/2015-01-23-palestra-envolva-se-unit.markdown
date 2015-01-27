@@ -11,14 +11,12 @@ Mais uma vez tive um bate papo com os calouros de computação, da primeira vez 
 </p>
 <p class="txt-post">
     <div>
-<img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-1.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit">
-<img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-2.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit">
-<img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-3.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit">
-<img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-4.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit">
-</div>
-    
+        <img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-1.JPG" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+        <img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-2.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+        <img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-3.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+        <img src="http://rafaeltavares.co/public/img/envolva-se-mozilla-unit-4.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+    </div>
 </p>
-
 <p class="txt-post">
    <b>Alguns links:</b>
     <ul>
