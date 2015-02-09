@@ -3,6 +3,7 @@ layout: post
 title: "Nova visão sobre a Baidu"
 date: 2015-02-05 09:00
 ---
+
 <p class="txt-post">
     Terceiro dia da Campus Party 2015 encontro a bancada da Baidu, o que me chamou a atenção porque queria tirar algumas dúvidas, já que usava o Baidu PC Fast quando instalei gostei muito do sistema mais sempre tive o receio de ser um programa mal intencionado pois ainda não conhecia a plataforma. Conversando com o pessoal entendi a proposta da empresa e conheci mais um novo produto! O Baidu Browser que facilita muito minha navegação com donwloads de torrent direto do browser e videos com um clique, muito mais prático e menos custoso do que ter uma extensão para cada funcionalidade.
 </p>

@@ -14,6 +14,7 @@ description:      Web e Mobile Developer
 url:              http://rafaeltavares.co
 feedburnerurl: http://feeds.feedburner.com/RafasTavares
 
+# Author
 author :
   name : Rafael Tavares
   email : suporte.rafas@gmail.com
@@ -29,7 +30,6 @@ author :
 paginate:         5
 
 # Custom vars
-
 github:
   repo:          https://github.com/rafastavares
   
