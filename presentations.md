@@ -16,7 +16,7 @@ title: Presentations
 ~2014
 ---
 
-### 22 NOV 2014 - Segurança de aplicações WEB
+### 22 NOV 2014 - Falsificação de solicitação entre sites - CSRF
 ---
 <iframe src="//www.slideshare.net/slideshow/embed_code/41874521" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 <h5>Trabalho da disciplina de Segurança de aplicações WEB, ministrada pelo professos Jornando em 2014.2.</h5>
