@@ -9,16 +9,19 @@ title: Events
 ---
 ## Upcoming Events
 ---
-## [Campus Party 2015](http://beta.campus-party.org/ediciones/brasil/)
-* **Quando:** 3 e 8 de fevereiro
-* **Onde:** São Paulo - SP 
-* **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/) / Participante**
 
 ---
 ## Past Events
 ---
 ~2015
 ---
+
+## [Campus Party 2015](http://beta.campus-party.org/ediciones/brasil/)
+* **Quando:** 3 e 8 de fevereiro
+* **Onde:** São Paulo - SP 
+* **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/) / Participante**
+
+
 ## [PAPI Unit](http://www.unit.br/blog/noticias/unit-programa-recepcao-aos-calouros/) - ["Envolva-se"](http://rafastavares.github.io/Talk-Envolva-se/)
 * **Quando:** 23 de janeiro
 * **Onde:** Unit- Farolândia
