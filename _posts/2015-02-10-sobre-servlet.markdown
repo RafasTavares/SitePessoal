@@ -11,6 +11,7 @@ Cada servlet é uma classe Java com elementos específicos. A principal função
 <strong>
 Alguns servidores que suportam servlets:
 </strong>
+ 
 * **Tomcat - Configurando e rodando uma aplicação básica
 * **Glassfish -  Open Source (OS), embora não seja muito usado
 * **Resin - possui uma versão OS (AS)
@@ -21,6 +22,7 @@ Alguns servidores que suportam servlets:
 * **iPlanet Web Server – Oracle
 * **Jaminid
 * **Enhydra
+
 </p>
 <p class="txt-post">
 Mais alguns Web Servers Open Source in Java
