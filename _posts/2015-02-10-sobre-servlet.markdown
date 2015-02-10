@@ -12,18 +12,16 @@ Cada servlet é uma classe Java com elementos específicos. A principal função
 Alguns servidores que suportam servlets:
 </strong>
 
----
-* **Tomcat - Configurando e rodando uma aplicação básica
-* **Glassfish -  Open Source (OS), embora não seja muito usado
-* **Resin - possui uma versão OS (AS)
-* **Jetty - já foi utilizado como servlet container do JBOSS - Tutorial
-* **IBM WebSphere - Tutorial
-* **WebLogic Server - Oracle Tutorial
-* **IIS – (precisa de add-nos) Deploying Servlet applications on IIS
-* **iPlanet Web Server – Oracle
-* **Jaminid
-* **Enhydra
----
+* Tomcat - Configurando e rodando uma aplicação básica
+* Glassfish -  Open Source (OS), embora não seja muito usado
+* Resin - possui uma versão OS (AS)
+* Jetty - já foi utilizado como servlet container do JBOSS - Tutorial
+* IBM WebSphere - Tutorial
+* WebLogic Server - Oracle Tutorial
+* IIS – (precisa de add-nos) Deploying Servlet applications on IIS
+* iPlanet Web Server – Oracle
+* Jaminid
+* Enhydra
 
 <p class="txt-post">
 Mais alguns Web Servers Open Source in Java
