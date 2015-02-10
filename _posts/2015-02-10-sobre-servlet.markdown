@@ -12,8 +12,8 @@ Cada servlet é uma classe Java com elementos específicos. A principal função
 Alguns servidores que suportam servlets:
 </strong>
 
-* Tomcat - Configurando e rodando uma aplicação básica
-* Glassfish -  Open Source (OS), embora não seja muito usado
+* [Tomcat](http://tomcat.apache.org/) - Configurando e rodando uma aplicação básica
+* Glassfish
 * Resin - possui uma versão OS (AS)
 * Jetty - já foi utilizado como servlet container do JBOSS - Tutorial
 * IBM WebSphere - Tutorial
@@ -23,8 +23,8 @@ Alguns servidores que suportam servlets:
 * Jaminid
 * Enhydra
 
-<p class="txt-post">
-Mais alguns Web Servers Open Source in Java
 
+[Mais alguns Web Servers Open Source in Java](http://java-source.net/open-source/web-servers)
+<p class="txt-post">
 Enquanto um web container é essencialmente um ambiente que controla servlets, nesse caso. Mais se refere a qualquer software que inclua um mini web server. Já um server application é um servidor que contem um web container, EJB container,  JDB ,entre outros formando assim um ambiente Java EE (Enterprise Edition).
 </p>
