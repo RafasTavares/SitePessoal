@@ -7,11 +7,12 @@ date: 2015-02-10 21:00
 Servlet é uma interface definida no pacote javax.servlet usado para estender as funcionalidades de um servidor. Sendo que um Servlet container é o recipiente para servlets dentro de um Servidor Web que é o responsável por gerar páginas Java, dinâmicas para o usuário.
 Cada servlet é uma classe Java com elementos específicos. A principal função do servlet container é encaminhar solicitações para o servlet  onde o JVM irá processa-los. 
 </p>
-<p class="txt-post">
+
 <strong>
 Alguns servidores que suportam servlets:
 </strong>
- ---
+
+---
 * **Tomcat - Configurando e rodando uma aplicação básica
 * **Glassfish -  Open Source (OS), embora não seja muito usado
 * **Resin - possui uma versão OS (AS)
@@ -23,7 +24,7 @@ Alguns servidores que suportam servlets:
 * **Jaminid
 * **Enhydra
 ---
-</p>
+
 <p class="txt-post">
 Mais alguns Web Servers Open Source in Java
 
