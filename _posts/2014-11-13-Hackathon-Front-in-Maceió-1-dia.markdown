@@ -5,7 +5,7 @@ date: 2014-11-13 09:00
 ---
 
 <p class="txt-post">
-Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simultaneamente no Senai, o qual fiquei responsável pela oriantação e no IFAL com os Mozillians <a href="https://mozillians.org/pt-BR/u/mv.nsaad">Marcus</a> e [Melissa](https://pt-br.facebook.com/melissa.devens) responsáveis pela orientação das equipes.
+Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simultaneamente no Senai, o qual fiquei responsável pela oriantação e no IFAL com os Mozillians <a href="https://mozillians.org/pt-BR/u/mv.nsaad">Marcus</a> e <a href="https://pt-br.facebook.com/melissa.devens">Melissa</a> responsáveis pela orientação das equipes.
 </p>
 ---
 ~Manhã - 09:00/12:00
