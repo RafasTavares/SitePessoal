@@ -16,7 +16,25 @@ date: asas 2015-02-08 20:00
 <p class="txt-post">
     <h2>Primeiro Dia - 03/02/15</h2>
     Na terça começa realmente nossa jornada à Campus Party, digo nossa porque estava com a melhor companhia que podia existir... minha esposa <a href="http://jenifervieira.com">Jefa</a> também da área de computação teve grande interesse no evento para fazer contatos para levar novidades para os cursos de computação da Unit (Universidade Tiradentes) o que foi muito proveitoso, pois esta a caminho grandes projetos para 2015 \o/. 
-    
+</p>
+<p class="txt-post">
+    <h2>Segundo Dia - 04/02/15</h2>
+</p>
+
+<p class="txt-post">
+    <h2>Terceiro Dia - 05/02/15</h2>
+</p>
+
+<p class="txt-post">
+    <h2>Quarto Dia - 06/02/15</h2>
+</p>
+
+<p class="txt-post">
+    <h2>Quinto Dia - 07/02/15</h2>
+</p>
+
+<p class="txt-post">
+    <h2>Sexto Dia - 08/02/15</h2>
 </p>
 
 ##Links Fotos Oficiais - C/BR8
