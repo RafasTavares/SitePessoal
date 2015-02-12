@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Campus Party Brasil 8"
-date: 2015-02-08 20:00
+date: asas 2015-02-08 20:00
 ---
 
 <p class="txt-post">
@@ -20,15 +20,15 @@ date: 2015-02-08 20:00
 </p>
 
 ##Links Fotos Oficiais - C/BR8
-*[Montagem](https://www.flickr.com/photos/campuspartybrasil/sets/72157650117353058/)
-*[Palestrantes](https://www.flickr.com/photos/campuspartybrasil/sets/72157650533270962/)
-*[Campuseiros](https://www.flickr.com/photos/campuspartybrasil/sets/72157650650324075/)
-*[1° DIA - 03/02/15 - Abertura](https://www.flickr.com/photos/campuspartybrasil/sets/72157650632843285/)
-*[2° DIA - 04/02/15](https://www.flickr.com/photos/campuspartybrasil/sets/72157648318399193/)
-*[3° DIA - 05/02/15](https://www.flickr.com/photos/campuspartybrasil/sets/72157650245624380/)
-*[4° DIA - 06/02/15](https://www.flickr.com/photos/campuspartybrasil/sets/72157650664689501/)
-*[5° DIA - 07/02/15](https://www.flickr.com/photos/campuspartybrasil/sets/72157650680175451/)
-*[6° DIA - 08/02/15 - Encerramento](https://www.flickr.com/photos/campuspartybrasil/sets/72157650276830649/)
-*[Saída dos Campuseiros](https://www.flickr.com/photos/campuspartybrasil/sets/72157650701680761/)
+* [Montagem](https://www.flickr.com/photos/campuspartybrasil/sets/72157650117353058/)
+* [Palestrantes](https://www.flickr.com/photos/campuspartybrasil/sets/72157650533270962/)
+* [Campuseiros](https://www.flickr.com/photos/campuspartybrasil/sets/72157650650324075/)
+* [1° DIA - 03/02/15 - Abertura](https://www.flickr.com/photos/campuspartybrasil/sets/72157650632843285/)
+* [2° DIA - 04/02/15](https://www.flickr.com/photos/campuspartybrasil/sets/72157648318399193/)
+* [3° DIA - 05/02/15](https://www.flickr.com/photos/campuspartybrasil/sets/72157650245624380/)
+* [4° DIA - 06/02/15](https://www.flickr.com/photos/campuspartybrasil/sets/72157650664689501/)
+* [5° DIA - 07/02/15](https://www.flickr.com/photos/campuspartybrasil/sets/72157650680175451/)
+* [6° DIA - 08/02/15 - Encerramento](https://www.flickr.com/photos/campuspartybrasil/sets/72157650276830649/)
+* [Saída dos Campuseiros](https://www.flickr.com/photos/campuspartybrasil/sets/72157650701680761/)
 
 
