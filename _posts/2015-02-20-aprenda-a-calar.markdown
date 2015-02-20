@@ -2,6 +2,7 @@
 layout: post
 title: "Aprenda a calar"
 date: 2015-02-20 10:00
+categories: Pessoal
 ---
 
 <p class="txt-post">
