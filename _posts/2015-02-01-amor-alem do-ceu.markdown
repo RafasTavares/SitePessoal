@@ -29,7 +29,7 @@ Caminhou pela vida transformando a seca da vida em caminhos de flores deixando s
 <p class="txt-post">
 Agora a chuva nos meus olhos cansados chove nos meus mares amados, nascendo em meu coração, purificando meu íntimo e minhas emoções. Deixando os ares do meu espírito mais puro.
 E esse incrível amor...
-E para que venham novos amores para seguirmos com nossa história é preciso devolver nossas joias por um momento para que possamos crescer SEMPRE TODOS JUNTOS...
+E para que venham novos amores para seguirmos com nossa história é preciso devolver nossas joias por um momento para que possamos crescer <b>SEMPRE TODOS JUNTOS... </b>
 </p>
 
 <img src="/public/img/posts/">
