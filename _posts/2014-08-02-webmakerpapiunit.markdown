@@ -14,9 +14,9 @@ date: 2014-08-10 13:26
 <h2>Fotos</h2>
 <div style="text-align:center;">
 ---
-<img src="http://rafaeltavares.co/public/img/talk_webmaker_1.jpg" alt="webmaker papi unit"/>
+<img src="http://rafaeltavares.co/public/img/posts/talk_webmaker_1.jpg" alt="webmaker papi unit"/>
 ---
-<img src="http://rafaeltavares.co/public/img/talk_webmaker_2.jpg" alt="webmaker papi unit"/>
+<img src="http://rafaeltavares.co/public/img/posts/talk_webmaker_2.jpg" alt="webmaker papi unit"/>
 ---
 </div>
 </br>

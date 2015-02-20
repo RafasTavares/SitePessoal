@@ -9,7 +9,7 @@ date: 2014-12-06 08:00
 </p>
 
 ---
-<img src="http://rafaeltavares.co/public/img/3-encontro-redes.png" alt="Agenda do evento">
+<img src="http://rafaeltavares.co/public/img/posts/3-encontro-redes.png" alt="Agenda do evento">
 <h4>
     Agenda do evento
 </h4>
@@ -26,8 +26,8 @@ date: 2014-12-06 08:00
 
 ---
 <div style="text-align:center;">
-<img src="http://rafaeltavares.co/public/img/3-encontro-redes-palestras%20(1).jpg" alt="Participantes das palestras">
-<img src="http://rafaeltavares.co/public/img/3-encontro-redes-palestras%20(2).jpg" alt="Participantes das palestras">
+<img src="http://rafaeltavares.co/public/img/posts/3-encontro-redes-palestras%20(1).jpg" alt="Participantes das palestras">
+<img src="http://rafaeltavares.co/public/img/posts/3-encontro-redes-palestras%20(2).jpg" alt="Participantes das palestras">
 <h4>
     "Participantes" das palestras #2
 </h4>
