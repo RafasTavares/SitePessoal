@@ -2,7 +2,7 @@
 layout: post
 title: "Security Day - 3° Encontro de Redes de Computadores"
 date: 2014-12-06 08:00
-categories: Eventos
+categories: "Eventos"
 ---
 
 <p id="txt-post">

@@ -2,6 +2,7 @@
 layout: post
 title: "Nova visão sobre a Baidu"
 date: 2015-02-05 09:00
+categories: "Ferramentas"
 ---
 
 <p class="txt-post">
