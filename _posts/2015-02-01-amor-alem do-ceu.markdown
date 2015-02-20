@@ -2,7 +2,7 @@
 layout: post
 title: "Amor além do céu..."
 date: 2015-02-01 21:00
-categories: "Pessoais"
+categories: Pessoais
 ---
 
 <p class="txt-post">
