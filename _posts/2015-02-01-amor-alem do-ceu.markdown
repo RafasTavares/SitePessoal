@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amor além do céu..."
-date: aaa 2015-02-01 21:00
+date: 2015-02-01 21:00
 ---
 <p class="txt-post">
 Amor Além do Céu
