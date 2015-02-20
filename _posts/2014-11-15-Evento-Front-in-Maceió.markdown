@@ -2,6 +2,7 @@
 layout: post
 title: "O Evento - Front in Maceió"
 date: 2014-11-15 08:00
+categories: Eventos
 ---
 
 <p class="txt-post">
