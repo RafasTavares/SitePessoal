@@ -5,6 +5,7 @@ date: 2015-02-08 20:00
 ---
 
 <p class="txt-post">
+<b>(Em Edição....)</b>
     Enfim acabou minha primeira Campus Party e foi fantástica.
     Mais vamos a uma rápida retrospectiva...
 </p>
