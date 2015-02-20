@@ -12,7 +12,7 @@ date: 2015-02-08 20:00
 <hr>
 
 <p class="txt-post">
-    <h2>Pré-evento</h2>
+    <h2 style="color:purple;">Pré-evento</h2>
     Não foi nada fácil se preparar para a Campus Party embora já estivesse tudo confirmado passagens, comida, ingresso mais minha avó há algumas semanas atrás estava na UTI a qual veio a falecer no domingo às 23 horas. Já estava um pouco desanimado por vim e o acontecido se desencadear na semana que estava fora, enfim essa história é outro post.
     Então decidimos ir...
 </p>
@@ -20,14 +20,14 @@ date: 2015-02-08 20:00
 <hr>
 
 <p class="txt-post">
-    <h2>Primeiro Dia - 03/02/15</h2>
+    <h2 style="color:purple;">Primeiro Dia - 03/02/15</h2>
     Na terça começa realmente nossa jornada à Campus Party, digo nossa porque estava com a melhor companhia que podia existir... Minha esposa <a href="http://jenifervieira.com">Jefa</a> também da área de computação teve grande interesse no evento para fazer contatos para levar novidades para os cursos de computação da Unit (Universidade Tiradentes) o que foi muito proveitoso, pois esta a caminho grandes projetos para 2015 \o/.
 </p>
 
 <hr>
 
 <p class="txt-post">
-    <h2>Segundo Dia - 04/02/15</h2>
+    <h2 style="color:purple;">Segundo Dia - 04/02/15</h2>
     Foi o dia de descobertas, todos os stands abertos com jogos, palestras, etc. Muito difícil, pois queríamos fazer tudo em um dia só... Decidimos só assistir palestras e ir dormir cedo porque dividir a carraca com uma mala e 5 mochilas e muito tenso.
      <img src="/public/img/cpbr8/cpbr8_petrobras.jpg"> 
      Stand da Petrobras
