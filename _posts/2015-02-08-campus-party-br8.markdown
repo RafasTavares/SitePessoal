@@ -9,16 +9,22 @@ date: 2015-02-08 20:00
     Mais vamos a uma rápida retrospectiva...
 </p>
 
+<hr>
+
 <p class="txt-post">
     <h2>Pré-evento</h2>
     Não foi nada fácil se preparar para a Campus Party embora já estivesse tudo confirmado passagens, comida, ingresso mais minha avó há algumas semanas atrás estava na UTI a qual veio a falecer no domingo às 23 horas. Já estava um pouco desanimado por vim e o acontecido se desencadear na semana que estava fora, enfim essa história é outro post.
     Então decidimos ir...
 </p>
 
+<hr>
+
 <p class="txt-post">
     <h2>Primeiro Dia - 03/02/15</h2>
     Na terça começa realmente nossa jornada à Campus Party, digo nossa porque estava com a melhor companhia que podia existir... Minha esposa <a href="http://jenifervieira.com">Jefa</a> também da área de computação teve grande interesse no evento para fazer contatos para levar novidades para os cursos de computação da Unit (Universidade Tiradentes) o que foi muito proveitoso, pois esta a caminho grandes projetos para 2015 \o/.
 </p>
+
+<hr>
 
 <p class="txt-post">
     <h2>Segundo Dia - 04/02/15</h2>
@@ -26,6 +32,8 @@ date: 2015-02-08 20:00
      <img src="/public/img/cpbr8/cpbr8_petrobras.jpg"> 
      Stand da Petrobras
 </p>
+
+<hr>
 
 <p class="txt-post">
     <h2 style="color:purple;">Terceiro Dia - 05/02/15</h2>
@@ -35,12 +43,17 @@ date: 2015-02-08 20:00
 <b style="color:#268bd2;">URC </b>
 </p>
 
+<hr>
+
 <p class="txt-post">
      <h2 style="color:purple;">Quarto Dia - 06/02/15</h2>
     Finalmente ganhei minha miniatura em 3D do Submarino, que ainda esta para chegar estou doido pra ver... Conhecemos o Qwant o qual gostei muito das propostas de premiar quem encontrava bugs, etc. Acredito que precisa evoluir um pouco mais e ter mais diferenciais em relação aos concorrentes. O mais tenso foi voltar para o camping e ver uma conta' kkkkk até asustei mais era um folder de uma empresa kkkkk ótima estratégia.
      <img src="/public/img/cpbr8/cpbr8_qwant.jpg">
+     
      <b style="color:#268bd2;">  Stand do Qwant </b>
+     
     <img src="/public/img/cpbr8/cpbr8_conta_barraca.jpg">
+    
     <b style="color:#268bd2;">Conta na barraca</b>
 </p>
 
@@ -50,12 +63,16 @@ date: 2015-02-08 20:00
     <img src="/public/img/cpbr8/cpbr8_paintball.jpg">
 </p>
 
+<hr>
+
 <p class="txt-post">
      <h2 style="color:purple;">Sexto Dia - 08/02/15</h2>
     Só correria, voo às 10 horas, saímos correndo às 7 para não pegar fila na saída e dar tempo tomar um café no aeroporto. Nesse café esqueci a bolsa com todos os brindes que ganhei durante o evento. Sorte que depois de 5 minutos ainda estava lá na mesa. :D
     <br/>
     Enfim chegamos em casa às 14 horas depois de ter passado em Brasília para chegar em Aracaju e uma das melhores sensações que sentir foi o calor, o sol. \o/
 </p>
+
+<hr>
 
 <p class="txt-post">
      <h2 style="color:purple;">Campus Party <3 </h2>
@@ -64,6 +81,8 @@ date: 2015-02-08 20:00
     Acredito que um acadêmico de computação DEVE ir pelo menos uma vez para a CP e com certeza não vai uma vez só.... #próóóóóóóóximo #cpbr8 \o/
  <img src="/public/img/cpbr8/cpbr8_grade.jpg">
 </p>
+
+<hr>
 
 ##Links Fotos Oficiais - #CPBR8
 * [Montagem](https://www.flickr.com/photos/campuspartybrasil/sets/72157650117353058/)
