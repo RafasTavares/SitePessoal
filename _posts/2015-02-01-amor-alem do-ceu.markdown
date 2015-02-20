@@ -8,11 +8,12 @@ categories: Pessoal
 <p class="txt-post">
 <h2>Amor Além do Céu</h2>
 <br/>
-Acredito que a única coisa que pode mudar o mundo é o amor e não há uma pessoa se quer que não ame alguma coisa ou alguém, além do mais o amor é muito relativo!
+Acredito que a única coisa que pode mudar o mundo é o amor e não há uma pessoa se quer que não ame alguma coisa ou alguém, além do mais o amor é muito relativo'!
 <br/>
-Falo simplesmente do sentimento AMOR ha essência divida.
+Falo simplesmente do sentimento AMOR, a essência divida.
 <br/>
-Sem olhar me percebe, sem falar me diz, sem me tocar me abraça, esse AMOR.
+<hr>
+Sem olhar me percebe, sem falar me diz, sem me tocar me abraça. Esse AMOR.
 </p>
 
 <p class="txt-post">
@@ -41,7 +42,4 @@ E esse incrível amor...
  <br/>
 E para que venham novos amores para seguirmos com nossa história é preciso devolver nossas joias por um momento para que possamos crescer <b>SEMPRE TODOS JUNTOS... </b>
 </p>
-<br/>
-
- <div id="disqus_thread"></div>
- 
+<br/> 
