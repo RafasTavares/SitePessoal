@@ -30,6 +30,8 @@ date: 2015-02-08 20:00
 <p class="txt-post">
     <h2>Terceiro Dia - 05/02/15</h2>
    No terceiro dia já estávamos querendo voltar para casa de tão cansado kkk... Mais foi só um desejozinho rápido quando acordei e vi a arena com todos aqueles conteúdos a vontade logo passou e tiramos o dia para ver algumas palestras e ir à caça de brindes kkkkk... Assistimos o URC o UFC dos robôs na arena do submarino, foi muito show \o/
+<img src="/public/img/cpbr8/cpbr8_URC.jpg">
+URC
 </p>
 
 <p class="txt-post">
@@ -45,7 +47,6 @@ date: 2015-02-08 20:00
     <h2>Quinto Dia - 07/02/15</h2>
     Depois de quatro dias de muitas palestras já estávamos quase esgotados fomos convidados para ir a um paintball, o que foi muito tenso porque a equipe dos convidados da campus party nunca tinha jogado enquanto a outra equipe era com os caras que treinava a policia federal. Embora eles pegaram muito leve ficava um pouco de medo kkkk... Gostaria de agradecer muito a galera da Baidu que foi quem nos convidou e estamos esperando para o próximo ano uma arena de paintball dentro da campus \o/
     <img src="/public/img/cpbr8/cpbr8_paintball.jpg">
-   
 </p>
 
 <p class="txt-post">
@@ -60,7 +61,7 @@ date: 2015-02-08 20:00
       Recomendo muuuuuito o evento para todas as áreas da tecnologia' desde robótica até a educação, para quem procura só jogar a arrumar emprego, participar de projetos, procurar funcionários, amigos....
     e para alguns preguiçosos só a Campus já é mais de 600 horas de extensão para a conclusão do curso, então basta ir a uma campus e já completou as horas para conclusão do curso.
     Acredito que um acadêmico de computação DEVE ir pelo menos uma vez para a CP e com certeza não vai uma vez só.... #próóóóóóóóximo #cpbr8 \o/
-
+ <img src="/public/img/cpbr8/cpbr8_grade.jpg">
 </p>
 
 ##Links Fotos Oficiais - #CPBR8
