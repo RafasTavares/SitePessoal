@@ -28,3 +28,15 @@ Alguns servidores que suportam servlets:
 <p class="txt-post">
 Enquanto um web container é essencialmente um ambiente que controla servlets, nesse caso. Mais se refere a qualquer software que inclua um mini web server. Já um server application é um servidor que contem um web container, EJB container,  JDB ,entre outros formando assim um ambiente Java EE (Enterprise Edition).
 </p>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'rafaeltavares'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
