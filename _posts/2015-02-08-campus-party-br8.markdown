@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Campus Party Brasil 8"
-date: asas 2015-02-08 20:00
+date: 2015-02-08 20:00
 ---
 
 <p class="txt-post">
@@ -19,6 +19,7 @@ date: asas 2015-02-08 20:00
 </p>
 <p class="txt-post">
     <h2>Segundo Dia - 04/02/15</h2>
+    Foi o dia de descobertas, todos os stands abertos com jogos, palestras, etc. Muito dificil pois queriamos fazer tudo em um dia só... Decidimos so assistir palestras e ir dormir cedo porque dividir a carraca com uma mala e 5 mochilas e muito tenso.
 </p>
 
 <p class="txt-post">
@@ -35,9 +36,12 @@ date: asas 2015-02-08 20:00
 
 <p class="txt-post">
     <h2>Sexto Dia - 08/02/15</h2>
+    Só correiria, voô às 10 hrs, saimos correndo às 7 para não pegar fila na  saida e dar tempo tomar um café no aeroporto. Nesse café esqueci a bolsa com todos os brindes que ganhei durante o evento. Sorte que depois de 5 minutos ainda estava lá na mesa. :D
+    <br/>
+    Enfim chegamos em casa as 14 hrs depois de ter passado em brasília para chegar em aracaju. --'
 </p>
 
-##Links Fotos Oficiais - C/BR8
+##Links Fotos Oficiais - #CPBR8
 * [Montagem](https://www.flickr.com/photos/campuspartybrasil/sets/72157650117353058/)
 * [Palestrantes](https://www.flickr.com/photos/campuspartybrasil/sets/72157650533270962/)
 * [Campuseiros](https://www.flickr.com/photos/campuspartybrasil/sets/72157650650324075/)
