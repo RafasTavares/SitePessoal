@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mensagem: "Aprenda a calar""
+title: "Mensagem: Aprenda a calar"
 date: 2015-02-20 10:00
 categories: Pessoais
 ---
