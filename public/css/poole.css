@@ -354,8 +354,6 @@ figure {
     position: relative;
 }
 figcaption{
-    font-size: 20px;
-    width: 100%;
     position: absolute;
     bottom: 0;
 }
@@ -364,6 +362,8 @@ figcaption {
     background-color: black;
     background-color: rgba(0, 0, 0, 0.8);
     color: white;
+    font-size: 20px;
+    width: 100%;
 }
 
 .foto {
