@@ -7,39 +7,39 @@ categories: Pessoais
 
 <p class="txt-post">
     Ouvindo essa mensagem tive a noção do quanto preciso aprender a calar... e gostaria de compartilhá-la.
-   
+    <br/>
     Aprenda a silenciar a palavra que sai gritada de seus lábios, ferindo a sensibilidade alheia e lhe deixando à mercê das companhias inferiores.
 </p>
-
+   <br/>
 <p class="txt-post">
     Aprenda a calar...
-
+   <br/>
     Aprenda a silenciar a palavra suave, mas cheia de ironia, que sai de sua boca ridicularizando, humilhando a quem se dirige e que lhe intoxica, provocando a dor de estômago, as náuseas ou a enxaqueca.
-
+   <br/>
     Aprenda a calar...
-
+   <br/>
     Aprenda a silenciar o murmúrio que sai entre dentes, destilando raiva e rancor e atingindo o alvo, que fere como punhal, ao tempo que lhe fragiliza a ponto de não se reconhecer, de se assustar consigo mesmo.
-
+   <br/>
     Aprenda a calar...
-
+   <br/>
     Aprenda a calar o pensamento cruel que lhe passa na mente e que, por invigilância, nele você se detém mais do que deveria. Você se assustaria se pudesse ver sua máscara espiritual distorcida.
-
+   <br/>
     Aprenda a calar...
-
+   <br/>
     Aprenda a calar o julgamento que extrapola o que vê e o que sabe, levando-o a conjeturar sobre o outro, o que não sabe e não viu, plasmando idéias infelizes que são aproveitadas pelos opositores daquele que é julgado.
-
+   <br/>
     Aprenda a calar...
-
+   <br/>
     Aprenda a calar todo e qualquer sentimento indigno, zelando pelas nascentes do seu coração, para que não macule e não seja maculado.
-
+   <br/>
     Aprenda a vigiar os sentimentos para que cada dia, mais atento e vigilante, saia da esfera mesquinha a que se aprisiona voluntariamente, e possa alçar voos mais altos e sublimes.
-
+   <br/>
     Aprenda a calar...
-
+   <br/>
     E, enquanto não consegue deixar de gritar, falar, murmurar, pensar cruelmente e julgar, insista em orar nesses momentos. Nem que as frases lhe pareçam desconexas e vazias de sentimento.
-
+   <br/>
     Insista na oração até que, um dia, orará não com palavras nem pensamentos, mas será sentimento por inteiro, amor, amor puro e verdadeiro em ação, dinâmico, envolvendo os outros e a si mesmo, verdadeiro discípulo que conseguirá ser.
-
+   <br/>
     Aprenda, definitivamente, a calar!
 </p>
 <p class="txt-post">
