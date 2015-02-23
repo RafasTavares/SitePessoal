@@ -31,9 +31,12 @@ categories: Eventos
     <h2 style="color:#268bd2;">Segundo Dia - 04/02/15</h2>
     Foi o dia de descobertas, todos os stands abertos com jogos, palestras, etc. Muito difícil, pois queríamos fazer tudo em um dia só... Decidimos só assistir palestras e ir dormir cedo porque dividir a carraca com uma mala e 5 mochilas e muito tenso.
     <br/>
-     <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_petrobras.jpg"> 
-     <br/>
-     Stand da Petrobras
+    <figure>
+         <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_petrobras.jpg" alt="Stand da petrobras na campus party 2015"> 
+         <figcaption>
+             Stand da Petrobras
+         </figcaption>
+     </figure>
 </p>
 
 <hr>
