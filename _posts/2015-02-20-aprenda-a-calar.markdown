@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aprenda a calar"
+title: "Mensagem: "Aprenda a calar""
 date: 2015-02-20 10:00
 categories: Pessoais
 ---
@@ -44,7 +44,10 @@ categories: Pessoais
 </p>
 <p class="txt-post">
     Redação do Momento Espírita, com base em mensagem do Espírito Stephano psicografada por Marie-Chantal Dufour Eisenbach, na Sociedade Espírita Renovação, em 14/03/2005.
+    <br/>
     Disponível no CD Momento Espírita, v. 11, ed. Fep
+    <br/>
     Em 31.01.2010.
+    <br/>
     <a href="http://www.momento.com.br/pt/ler_texto.php?id=1222&">Fonte.</a>
 </p>
