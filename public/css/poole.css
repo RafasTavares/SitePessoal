@@ -353,11 +353,14 @@ a.pagination-item:hover {
 figure {
     position: relative;
 }
-
-figcaption {
+figcaption{
     position: absolute;
     bottom: 0;
+}
+
+figcaption {
     background-color: black;
+    background-color: rgba:(0,0,0,0 .8);
     color: white;
 }
 
