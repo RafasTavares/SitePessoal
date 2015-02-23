@@ -7,7 +7,7 @@ categories: Pessoais
 
 <p class="txt-post">
     Ouvindo essa mensagem tive a noção do quanto preciso aprender a calar... e gostaria de compartilhá-la.
-    <br/><br/>
+    <br/>
     Aprenda a silenciar a palavra que sai gritada de seus lábios, ferindo a sensibilidade alheia e lhe deixando à mercê das companhias inferiores.
 </p>
    <br/>
