@@ -29,19 +29,22 @@ Logo após um o horário de almoço voltamos as 13:00 horas no IFAL e a galera j
 * **EVENTSFOX  - DEMO**
 * **MURAL-IFAL  - DEMO**
 ---
-   
-<img src="http://rafaeltavares.co/public/img/posts/2_dia_hackathon_front_in_maceio.jpg"/>
-<h4>
-    Equipe com o projeto de game Stick-Lands. #hackathon #frontinmaceio #firefoxos
-</h4>
----
-<img src="http://rafaeltavares.co/public/img/posts/2_dia_hackathon_front_in_maceio_2.jpg"/>
-<h4>
-    Equipe do IFAL reunida discutindo sobre o APP. #hackathon #frontinmaceio #firefoxos
-</h4>
----
-<img src="http://rafaeltavares.co/public/img/posts/2_dia_hackathon_front_in_maceio_3.png"/>
-<h4>
-    Finalizando o ultimo dia de trabalho do Hackathon do Front in Maceió. #hackathon #frontinmaceio #firefoxos
-</h4>
-#frontinmaceio
+<figure>
+    <img src="http://rafaeltavares.co/public/img/posts/2_dia_hackathon_front_in_maceio.jpg"/>
+    <figcaption>
+        Equipe com o projeto de game Stick-Lands. #hackathon #frontinmaceio #firefoxos
+    </figcaption>
+</figure>
+<figure>
+    <img src="http://rafaeltavares.co/public/img/posts/2_dia_hackathon_front_in_maceio_2.jpg"/>
+    <figcaption>
+        Equipe do IFAL reunida discutindo sobre o APP. #hackathon #frontinmaceio #firefoxos
+    </figcaption>
+</figure>
+<figure>
+    <img src="http://rafaeltavares.co/public/img/posts/2_dia_hackathon_front_in_maceio_3.png"/>
+    <figcaption>
+        Finalizando o ultimo dia de trabalho do Hackathon do Front in Maceió. #hackathon #frontinmaceio #firefoxos
+    </figcaption>
+</figure>
+

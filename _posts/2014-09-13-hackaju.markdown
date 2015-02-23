@@ -34,8 +34,8 @@ categories: Eventos
 <h3>
     Apoiadores da ideia.
 </h3>
-<div style="text-align:center;">
-<img src="http://rafaeltavares.co/public/img/posts/talk_hackaju.png" alt="Parceiros do HACKAJU"/>
-</div>
-
+<figure>
+    <img src="http://rafaeltavares.co/public/img/posts/talk_hackaju.png" alt="Parceiros do HACKAJU"/>
+    <figcaption>Parceiros do hackaju</figcaption>
+</figure>
 <p>Mais fotos em <a href="https://www.facebook.com/hackaju">nossa página </a> no facebook ou busque por #hackaju nas redes sociais</p>

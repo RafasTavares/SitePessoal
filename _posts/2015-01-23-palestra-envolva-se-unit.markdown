@@ -55,13 +55,26 @@ categories: Eventos
 
 <p class="txt-post">
     <h4><b>Fotos da palestra:</b></h4>
-    <div style="text-align:center;">
+    <figure>
         <img src="http://rafaeltavares.co/public/img/posts/envolva-se-mozilla-unit-1.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+        <figcaption> Envolva-se com a Mozilla</figcaption>
+    </figure>
+    <figure>
         <img src="http://rafaeltavares.co/public/img/posts/envolva-se-mozilla-unit-2.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+        <figcaption> Envolva-se com a Mozilla</figcaption>
+    </figure>
+    <figure>
         <img src="http://rafaeltavares.co/public/img/posts/envolva-se-mozilla-unit-3.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+        <figcaption> Envolva-se com a Mozilla</figcaption>
+    </figure>
+    <figure>
         <img src="http://rafaeltavares.co/public/img/posts/envolva-se-mozilla-unit-4.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+        <figcaption> Envolva-se com a Mozilla</figcaption>
+    </figure>
+    <figure>
         <img src="http://rafaeltavares.co/public/img/posts/envolva-se-mozilla-unit-5.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
-    </div>
+        <figcaption> Envolva-se com a Mozilla</figcaption>
+    <figure>
 </p>
 
 <p class="txt-post">

@@ -45,9 +45,12 @@ categories: Eventos
     <h2 style="color:#268bd2;">Terceiro Dia - 05/02/15</h2>
    No terceiro dia já estávamos querendo voltar para casa de tão cansado kkk... Mais foi só um desejozinho rápido quando acordei e vi a arena com todos aqueles conteúdos a vontade logo passou e tiramos o dia para ver algumas palestras e ir à caça de brindes kkkkk... Assistimos o URC o UFC dos robôs na arena do submarino, foi muito show \o/
    <br/>
-<img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_URC.jpg">
-<br/>
-<b style="color:#268bd2;">URC </b>
+   <figure>
+        <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_URC.jpg">
+        <figcaption>
+            URC
+        </figcaption>
+    </figure>
 </p>
 
 <hr>
@@ -56,20 +59,24 @@ categories: Eventos
      <h2 style="color:#268bd2;">Quarto Dia - 06/02/15</h2>
     Finalmente ganhei minha miniatura em 3D do Submarino, que ainda esta para chegar estou doido pra ver... Conhecemos o Qwant o qual gostei muito das propostas de premiar quem encontrava bugs, etc. Acredito que precisa evoluir um pouco mais e ter mais diferenciais em relação aos concorrentes. O mais tenso foi voltar para o camping e ver uma conta' kkkkk até asustei mais era um folder de uma empresa kkkkk ótima estratégia.
     <br/>
-     <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_qwant.jpg">
-     <br/>
-     <b style="color:#268bd2;">  Stand do Qwant </b>
-     <br/>
-    <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_conta_barraca.jpg">
-    <br/>
-    <b style="color:#268bd2;">Conta na barraca</b>
+    <figure>
+         <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_qwant.jpg">
+         <figcaption>  Stand do Qwant </figcaption>
+     </figure>
+      <figure>
+        <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_conta_barraca.jpg">
+        <figcaption>Conta na barraca </figcaption>
+     </figure>
 </p>
 
 <p class="txt-post">
      <h2 style="color:#268bd2;">Quinto Dia - 07/02/15</h2>
     Depois de quatro dias de muitas palestras já estávamos quase esgotados fomos convidados para ir a um paintball, o que foi muito tenso porque a equipe dos convidados da campus party nunca tinha jogado enquanto a outra equipe era com os caras que treinava a policia federal. Embora eles pegaram muito leve ficava um pouco de medo kkkk... Gostaria de agradecer muito a galera da Baidu que foi quem nos convidou e estamos esperando para o próximo ano uma arena de paintball dentro da campus \o/
     <br/>
-    <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_paintball.jpg">
+    <figure>
+        <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_paintball.jpg">
+        <figcaption>Paintball na cpbr8.</figcaption>
+    </figure>
 </p>
 
 <hr>
@@ -89,7 +96,10 @@ categories: Eventos
     e para alguns preguiçosos só a Campus já é mais de 600 horas de extensão para a conclusão do curso, então basta ir a uma campus e já completou as horas para conclusão do curso.
     Acredito que um acadêmico de computação DEVE ir pelo menos uma vez para a CP e com certeza não vai uma vez só.... #próóóóóóóóximo #cpbr8 \o/
     <br/>
- <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_grade.jpg">
+    <figure>
+         <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_grade.jpg">
+         <figcaption>Resumo diário de atividades.</figcaption>
+    </figure>
 </p>
 
 <hr>

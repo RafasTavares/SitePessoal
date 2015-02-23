@@ -14,11 +14,14 @@ categories: Eventos
 <hr>
 <h2>Fotos</h2>
 <div style="text-align:center;">
----
-<img src="http://rafaeltavares.co/public/img/posts/talk_webmaker_1.jpg" alt="webmaker papi unit">
----
-<img src="http://rafaeltavares.co/public/img/posts/talk_webmaker_2.jpg" alt="webmaker papi unit">
----
+    <figure>
+        <img src="http://rafaeltavares.co/public/img/posts/talk_webmaker_1.jpg" alt="webmaker papi unit">
+        <figcaption>#webmakerpapiunit</figcaption>
+    </figure>
+    <figure>
+        <img src="http://rafaeltavares.co/public/img/posts/talk_webmaker_2.jpg" alt="webmaker papi unit">
+        <figcaption>#webmakerpapiunit</figcaption>
+    </figure>
 </div>
 <br/>
 <h3>Galera dos primeiros períodos #webmakerpapiunit</h3>

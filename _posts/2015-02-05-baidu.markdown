@@ -24,4 +24,7 @@ categories: Ferramentas
     </ul>
 </p>
 
-<img src="http://www.androidguys.com/wp-content/uploads/2014/09/baidu.png">
+<figure>
+    <img src="http://www.androidguys.com/wp-content/uploads/2014/09/baidu.png">
+    <figcaption>Baidu Browser</figcaption>
+</figure>
