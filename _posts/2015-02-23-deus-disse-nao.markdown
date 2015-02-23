@@ -7,8 +7,10 @@ categories: Pessoais
 <p class="txt-post">
     Tentando entender algumas coisas rotineira ouvi essa mensagem, embora seja muito dificil tentar entender a resposta de Deus precisamos confirmar e trabalhar sempre...
 </p>
+
 <p class="txt-post">
     Deus disse não!
+    
     <br/><br/>
     Um homem que costumava fazer pedidos específicos a Deus, um dia conseguiu entender a Sua resposta e escreveu o seguinte:
     <br/><br/>

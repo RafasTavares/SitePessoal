@@ -10,7 +10,9 @@ categories: Pessoais
     <br/>
     Aprenda a silenciar a palavra que sai gritada de seus lábios, ferindo a sensibilidade alheia e lhe deixando à mercê das companhias inferiores.
 </p>
+
    <br/>
+   
 <p class="txt-post">
     Aprenda a calar...
    <br/><br/>
