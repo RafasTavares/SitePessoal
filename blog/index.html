@@ -2,15 +2,16 @@
 layout: default
 title: Blog
 ---
- <ul class="nav nav-tabs nav-justified">
- Pessoais
-</ul>
-<ul class="nav nav-pills nav-justified">
-  Profissionais / Estudos
-  
-  <div class="posts">
-  {% for post in paginator.posts %}
-   <hr><hr>
+    <ul class="tablist" role="tablist">
+      <li id="tab1" class="tablist__tab is-active" aria-controls="panel1" aria-selected="true" role="tab" tabindex="0">Eventos</li>
+      <li id="tab2" class="tablist__tab" aria-controls="panel2" aria-selected="false" role="tab" tabindex="0">Pessoais</li>
+    </ul>
+
+    <div id="panel1" class="tablist__panel" aria-labelledby="tab1" aria-hidden="false" role="tabpanel">
+      <div class="posts">
+  {% for post in posts %}
+          {% if post.categories == eventos  %}
+   <hr>
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.url }}{{post.url}}">
@@ -21,8 +22,34 @@ title: Blog
     {{ post.excerpt }}
    <h6><a href="{{ site.url }}{{post.url}}">Leia mais...</a></h6>
   </div>
+          {% endif %}
   {% endfor %}
 </div>
+    </div>
+    <div id="panel2" class="tablist__panel is-hidden" aria-labelledby="tab2" aria-hidden="true" role="tabpanel">
+      <div class="posts">
+  {% for post in posts %}
+          {% if post.categories == pessoais  %}
+   <hr>
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ site.url }}{{post.url}}">
+        {{ post.title }} 
+      </a>
+    </h1>
+    <span class="post-date">{{ post.date | date_to_string }} / {{ post.categories}}</span>
+    {{ post.excerpt }}
+   <h6><a href="{{ site.url }}{{post.url}}">Leia mais...</a></h6>
+  </div>
+          {% endif %}
+  {% endfor %}
+</div>
+    </div>
+ 
+ 
+ 
+  
+ 
 
 <div class="pagination">
   {% if paginator.next_page %}
@@ -41,4 +68,44 @@ title: Blog
   {% endif %}
 </div>
 
-</ul>
+<script>
+$(function() {
+  
+  // Cache selectors
+  var tabs = $('.tablist__tab'),
+      tabPanels = $('.tablist__panel');
+  
+  tabs.on('click', function() {
+  
+    // Cache selectors
+    var thisTab = $(this),
+        thisTabPanelId = thisTab.attr('aria-controls'),
+        thisTabPanel = $('#' + thisTabPanelId);
+
+    // De-select all the tabs
+    tabs.attr('aria-selected', 'false').removeClass('is-active');
+
+    // Select this tab
+    thisTab.attr('aria-selected', 'true').addClass('is-active');
+
+    // Hide all the tab panels
+    tabPanels.attr('aria-hidden', 'true').addClass('is-hidden');
+
+    // Show this tab panel
+    thisTabPanel.attr('aria-hidden', 'false').removeClass('is-hidden');
+
+  });
+  
+  // Add enter key to the basic click event
+  tabs.on('keydown', function(e) {
+    
+    var thisTab = $(this);
+    
+    if(e.which == 13) {
+      thisTab.click();
+    }
+    
+  });
+  
+});
+</script>

@@ -7,6 +7,7 @@ categories: Pessoais
 <p class="txt-post">
     Tentando entender algumas coisas rotineira ouvi essa mensagem, embora seja muito dificil tentar entender a resposta de Deus precisamos confirmar e trabalhar sempre...
 </p>
+
 <p class="txt-post">
     Deus disse não!
     <br/><br/>
@@ -42,6 +43,7 @@ categories: Pessoais
     <br/><br/>
     Foge a tristeza, volta a alegria.
 </p>
+
 <p class="txt-post">
 Redação do Momento Espírita, com base em texto de autoria desconhecida e mensagem do Espírito Eros, psicografia de Divaldo Pereira Franco.
 <br/>

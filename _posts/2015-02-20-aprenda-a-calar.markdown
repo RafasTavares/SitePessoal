@@ -10,6 +10,7 @@ categories: Pessoais
     <br/>
     Aprenda a silenciar a palavra que sai gritada de seus lábios, ferindo a sensibilidade alheia e lhe deixando à mercê das companhias inferiores.
 </p>
+
    <br/>
 <p class="txt-post">
     Aprenda a calar...
@@ -42,6 +43,7 @@ categories: Pessoais
    <br/><br/>
     Aprenda, definitivamente, a calar!
 </p>
+
 <p class="txt-post">
     Redação do Momento Espírita, com base em mensagem do Espírito Stephano psicografada por Marie-Chantal Dufour Eisenbach, na Sociedade Espírita Renovação, em 14/03/2005.
     <br/>
