@@ -8,9 +8,10 @@ title: Blog
     </ul>
 
     <div id="panel1" class="tablist__panel" aria-labelledby="tab1" aria-hidden="false" role="tabpanel">
+        <h3>Eventos</h3>
       <div class="posts">
   {% for post in posts %}
-          {% if post.categories == eventos  %}
+          {% if post.category != pessoais %}
    <hr>
   <div class="post">
     <h1 class="post-title">
@@ -27,9 +28,10 @@ title: Blog
 </div>
     </div>
     <div id="panel2" class="tablist__panel is-hidden" aria-labelledby="tab2" aria-hidden="true" role="tabpanel">
+      <h3>Pessoais</h3>
       <div class="posts">
   {% for post in posts %}
-          {% if post.categories == pessoais  %}
+          {% if post.category == "pessoais"  %}
    <hr>
   <div class="post">
     <h1 class="post-title">
