@@ -2,7 +2,7 @@
 layout: post
 title: "Mensagem: Deus disse não"
 date: 2015-02-23 11:00
-categories: Pessoais
+category: Pessoais
 ---
 <p class="txt-post">
     Tentando entender algumas coisas rotineira ouvi essa mensagem, embora seja muito dificil tentar entender a resposta de Deus precisamos confirmar e trabalhar sempre...
@@ -44,6 +44,7 @@ categories: Pessoais
     <br/><br/>
     Foge a tristeza, volta a alegria.
 </p>
+
 <p class="txt-post">
 Redação do Momento Espírita, com base em texto de autoria desconhecida e mensagem do Espírito Eros, psicografia de Divaldo Pereira Franco.
 <br/>
