@@ -2,7 +2,7 @@
 layout: post
 title: "Mensagem: Deus disse não"
 date: 2015-02-23 11:00
-categories: Pessoais
+category: Pessoais
 ---
 <p class="txt-post">
     Tentando entender algumas coisas rotineira ouvi essa mensagem, embora seja muito dificil tentar entender a resposta de Deus precisamos confirmar e trabalhar sempre...

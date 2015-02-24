@@ -2,7 +2,7 @@
 layout: post
 title: "Envolva-se com a Mozilla - PAPI Unit"
 date: 2015-01-23 20:00
-categories: Eventos
+category: Eventos
 ---
 <p class="txt-post">
     Mais uma palestra no PAPI Programa de Apoio Pedagógico e Integração de Calouros da UNIT com os Cursos de Computação, da primeira vez foi um Maker Party o <a href="https://events.webmaker.org/events/4537">PAPI unit</a> agora decidi envolvê-los com a mozilla com o intuito de trazer novos membros para a comunidade, mostrei como eles poderiam colaborar e entrar para a comunidade. A palestra já havia sido criada por outros Mozillians <a href="https://mozillians.org/pt-BR/u/mel/" >Melissa</a> e <a href="https://mozillians.org/pt-BR/u/panaggio/">Panaggio</a> e só fo adaptada à minha necessidade.    
