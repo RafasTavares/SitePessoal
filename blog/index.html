@@ -9,8 +9,8 @@ title: Blog
 <ul class="tablist" role="tablist">
     <li id="tab1" class="tablist__tab is-active" aria-controls="panel1" aria-selected="true" role="tab" tabindex="0">Eventos</li>
     <li id="tab2" class="tablist__tab" aria-controls="panel2" aria-selected="false" role="tab" tabindex="0">Pessoais</li>
-    <li id="tab2" class="tablist__tab" aria-controls="panel3" aria-selected="false" role="tab" tabindex="0">Ferramentas</li>
-    <li id="tab2" class="tablist__tab" aria-controls="panel3" aria-selected="false" role="tab" tabindex="0">Estudos</li>
+    <li id="tab3" class="tablist__tab" aria-controls="panel3" aria-selected="false" role="tab" tabindex="0">Ferramentas</li>
+    <li id="tab4" class="tablist__tab" aria-controls="panel4" aria-selected="false" role="tab" tabindex="0">Estudos</li>
 </ul>
 
 <div id="panel1" class="tablist__panel" aria-labelledby="tab1" aria-hidden="false" role="tabpanel">
@@ -70,7 +70,7 @@ title: Blog
     </div>
 </div>
 
-<div id="panel3" class="tablist__panel is-hidden" aria-labelledby="tab3" aria-hidden="true" role="tabpanel">
+<div id="panel4" class="tablist__panel is-hidden" aria-labelledby="tab4" aria-hidden="true" role="tabpanel">
     <h3>Estudos</h3>
     <div class="posts">
         {% for post in site.posts %} {% if post.category == "Estudos" %}
