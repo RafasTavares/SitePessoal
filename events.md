@@ -6,7 +6,6 @@ title: Events
     PARTICIPATIONS AND ORGANIZATIONS 
 </p>
 
-<img src="http://www.bomber.com.br/img/agenda-de-eventos.png" alt="logo agenda de eventos" hidden="hidden">
 ---
 ## Upcoming Events
 ---
