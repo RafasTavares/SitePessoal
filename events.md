@@ -15,8 +15,8 @@ title: Events
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
 * **Participante**
 
-## [FLISoL](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
-* **Quando:** 23, 24 e 25 de abril
+## [FLISoL - Festival Latino Americano de Instalação de Software Livre](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
+* **Quando:** 25 de abril
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
 * **Participante**
 ---
