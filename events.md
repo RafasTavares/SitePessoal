@@ -3,18 +3,20 @@ layout: page
 title: Events
 ---
 <p class="lead">
-    HOLDINGS AND ORGANIZATIONS
+    PARTICIPATIONS AND ORGANIZATIONS 
 </p>
 
+<img src="http://www.bomber.com.br/img/agenda-de-eventos.png" alt="logo agenda de eventos" hidden="hidden">
 ---
 ## Upcoming Events
 ---
-## [II SEMPESCOMP - Seminário de Pesquisa em Computação](http://gpitic.com.br/sempescom/?page_id=21)
+...
+## [II SEMPESCOMP Seminário de Pesquisa em Computação](http://gpitic.com.br/sempescom/?page_id=21)
 * **Quando:** 23, 24 e 25 de abril
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
 * **Participante**
 
-## [FLISoL 2015 - Festival Latino Americano de Instalação de Software Livre](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
+## [FLISoL - Festival Latino Americano de Instalação de Software Livre](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
 * **Quando:** 25 de abril
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
 * **Participante**
