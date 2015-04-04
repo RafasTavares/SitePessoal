@@ -10,6 +10,15 @@ title: Events
 ## Upcoming Events
 ---
 ...
+## [II SEMPESCOMP](http://gpitic.com.br/sempescom/?page_id=21)
+* **Quando:** 23, 24 e 25 de abril
+* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+* **Participante**
+
+## [II SEMPESCOMP](http://gpitic.com.br/sempescom/?page_id=21)
+* **Quando:** 23, 24 e 25 de abril
+* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+* **Participante**
 ---
 ## Past Events
 ---
