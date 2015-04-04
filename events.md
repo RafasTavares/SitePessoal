@@ -15,7 +15,7 @@ title: Events
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
 * **Participante**
 
-## [II SEMPESCOMP](http://gpitic.com.br/sempescom/?page_id=21)
+## [FLISoL](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
 * **Quando:** 23, 24 e 25 de abril
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
 * **Participante**
