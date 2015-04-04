@@ -9,13 +9,12 @@ title: Events
 ---
 ## Upcoming Events
 ---
-...
 ## [II SEMPESCOMP Seminário de Pesquisa em Computação](http://gpitic.com.br/sempescom/?page_id=21)
 * **Quando:** 23, 24 e 25 de abril
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
 * **Participante**
 
-## [FLISoL - Festival Latino Americano de Instalação de Software Livre](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
+## [FLISoL 2015 - Festival Latino Americano de Instalação de Software Livre](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
 * **Quando:** 25 de abril
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
 * **Participante**
