@@ -10,7 +10,7 @@ title: Events
 ## Upcoming Events
 ---
 ...
-## [II SEMPESCOMP](http://gpitic.com.br/sempescom/?page_id=21)
+## [II SEMPESCOMP Seminário de Pesquisa em Computação](http://gpitic.com.br/sempescom/?page_id=21)
 * **Quando:** 23, 24 e 25 de abril
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
 * **Participante**
