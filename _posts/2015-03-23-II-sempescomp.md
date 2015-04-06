@@ -14,7 +14,9 @@ category: Eventos
 </p>
 
 Para mais detalhes acesse: [Inscrições](http://gpitic.com.br/sempescom/)
+<br/>
 Conheca também o Grupo de Pesquisa dos Cursos de Computação : [GPITIC](http://gpitic.com.br)
+<br/>
 [Grupo reconhecido pelo CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/2586629911844504)
 
 <figure>
