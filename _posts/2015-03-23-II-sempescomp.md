@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Webmaker PAPI UNIT"
+title: "II SEMPESCOMP"
 date: 2015-03-23 18:00
 category: Eventos
 ---
 
-<<p class="txt-post">
+<p class="txt-post">
     Está programada a segunda semana de pesquisa em computração um colaboração da Coordenação dos cursos de computação da UNIT, professores e principalmente os alunos.
 </p>
 
