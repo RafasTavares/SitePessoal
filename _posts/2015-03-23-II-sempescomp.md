@@ -6,7 +6,7 @@ category: Eventos
 ---
 
 <p class="txt-post">
-    Está programada a segunda semana de pesquisa em computração um colaboração da Coordenação dos cursos de computação da UNIT, professores e principalmente os alunos.
+    Está programada a segunda semana de pesquisa em computação um colaboração da coordenação dos cursos de computação da UNIT, professores e principalmente os alunos.
 </p>
 
 <p class="txt-post">
