@@ -10,6 +10,11 @@ title: Events
 ## Upcoming Events
 ---
 
+## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
+* **Quando:** 18 de abril
+* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+* **Instrutor**
+
 ## [II SEMPESCOMP Seminário de Pesquisa em Computação](http://gpitic.com.br/sempescom/?page_id=21)
 * **Quando:** 23, 24 e 25 de abril
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
