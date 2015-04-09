@@ -29,6 +29,9 @@ i.soc {
 .feed {
   background:      url(../img/feed_48.png);
 }
+.feed {
+  background:      url(../img/globe_48.png);
+}
 aside {
   clear: both;
   padding: 15px 8px;
