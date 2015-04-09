@@ -19,6 +19,11 @@ title: Events
 * **Quando:** 25 de abril
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
 * **Participante**
+
+## [//build/ Tour 15 - São Paulo](https://saopaulo.build15.com/)
+* **Quando:** 21 de maio
+* **Onde:** São Paulo - SP
+* **Participante**
 ---
 ## Past Events
 ---
