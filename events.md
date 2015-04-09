@@ -24,7 +24,7 @@ title: Events
 * **Quando:** 21 de maio
 * **Onde:** São Paulo - SP
 * **Participante**
-* 
+
 ---
 ## Past Events
 ---
