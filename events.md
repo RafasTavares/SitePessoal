@@ -35,6 +35,10 @@ title: Events
 ---
 ~2015
 ---
+## [PAPI Unit](http://www.unit.br/blog/noticias/unit-programa-recepcao-aos-calouros/) - ["Envolva-se"](http://rafastavares.github.io/Talk-Envolva-se/)
+* **Quando:** 23 de janeiro
+* **Onde:** Unit- Farolândia
+* **Palestrante**
 
 ## [Campus Party 2015](http://beta.campus-party.org/ediciones/brasil/)
 * **Quando:** 3 e 8 de fevereiro
@@ -42,10 +46,10 @@ title: Events
 * **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/) / Participante**
 
 
-## [PAPI Unit](http://www.unit.br/blog/noticias/unit-programa-recepcao-aos-calouros/) - ["Envolva-se"](http://rafastavares.github.io/Talk-Envolva-se/)
-* **Quando:** 23 de janeiro
+## [9° SEMEX (Semana de Extensão da Unit) - INTEGRAÇÃO ENTRE FORMAÇÃO PROFISSIONAL E CIDADANIA](http://extensao.unit.br/blog/2015/02/20/semex-2015/)
+* **Quando:** 16 à 20 de março
 * **Onde:** Unit- Farolândia
-* **Palestrante**
+* **Participante**
 
 ---
 ~2014
