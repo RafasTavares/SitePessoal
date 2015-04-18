@@ -46,6 +46,6 @@ title: Presentations
 
 ### 06 DEZ 2013 - Projetos WEB II - Party Control
 ---
-<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/38j2nplf5uck/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0#"></iframe>
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/uzvtfrucdmxc/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0#"></iframe>
 <h5>Apresnação do projeto de conclu~sao de curso da disciplina Projetos WEB II, com o projeto Party Control.</h5>
 ---
