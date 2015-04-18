@@ -10,12 +10,12 @@ title: Presentations
 
 ---
 ### 18 ABR 2015 - S2B Unit
-<iframe src="http://rafastavares.github.io/Talk-SB2-M-TI-AJU/" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="http://rafastavares.github.io/Talk-SB2-M-TI-AJU/" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 <h5>Apresentação para os participantes do S2B 2015.</h5>
 
 ---
 ### 23 JAN 2015 - Envolva-se com a Mozilla
-<iframe src="http://rafastavares.github.io/Talk-Envolva-se/" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="http://rafastavares.github.io/Talk-Envolva-se/" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 <h5>Apresentação para os calouros dos cursos de computação da UNIT 2015.1.</h5>
 ---
 ~2014
@@ -23,12 +23,13 @@ title: Presentations
 
 ### 22 NOV 2014 - Falsificação de solicitação entre sites - CSRF
 ---
-<iframe src="//www.slideshare.net/slideshow/embed_code/41874521" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/41874521" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 <h5>Trabalho da disciplina de Segurança de aplicações WEB, ministrada pelo professos Jornando em 2014.2.</h5>
 ---
 ---
 ### 08 AGO 2014 - Webmaker PAPI Unit
-<iframe src="https://prezi.com/baqrtsgql4io/present/?follow=ja5ruoaageew&auth_key=yc5kdit#22" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/baqrtsgql4io/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0#"></iframe>
+
 <h5>Apresentação para os Webmaker PAPI unit.</h5>
 ---
 
