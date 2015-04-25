@@ -7,11 +7,17 @@ title: Presentations
 ~2015
 ---
 
+---
+### 25 ABR 2015 - FLISOL Aracaju
+<iframe src="http://rafastavares.github.io/Talk-Comunidade-Software-Livre-e-Mozilla" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<h5>Apresentação Sobre a comunidade de software livre e a Mozilla.</h5>
+---
 
 ---
 ### 18 ABR 2015 - S2B Unit
 <iframe src="http://rafastavares.github.io/Talk-SB2-M-TI-AJU/" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 <h5>Apresentação para os participantes do S2B 2015.</h5>
+---
 
 ---
 ### 27 MAR 2015 - Inclusão Digital para a Terceira Idade

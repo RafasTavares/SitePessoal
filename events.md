@@ -11,14 +11,9 @@ title: Events
 ---
 
 ## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
-* **Quando:** 18 de abril
+* **Quando:** 18 de Abril / Maio
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
 * **Instrutor**
-
-## [II SEMPESCOMP Seminário de Pesquisa em Computação](http://gpitic.com.br/sempescom/?page_id=21)
-* **Quando:** 23, 24 e 25 de abril
-* **Onde:** Aracaju - SE (Universidade Tiradentes) 
-* **Participante**
 
 ## [FLISoL - Festival Latino Americano de Instalação de Software Livre](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
 * **Quando:** 25 de abril
@@ -35,6 +30,11 @@ title: Events
 ---
 ~2015
 ---
+## [II SEMPESCOMP Seminário de Pesquisa em Computação](http://gpitic.com.br/sempescom/?page_id=21)
+* **Quando:** 23, 24 e 25 de abril
+* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+* **Participante**
+
 ## [9° SEMEX (Semana de Extensão da Unit) - INTEGRAÇÃO ENTRE FORMAÇÃO PROFISSIONAL E CIDADANIA](http://extensao.unit.br/blog/2015/02/20/semex-2015/)
 * **Quando:** 16 à 20 de março
 * **Onde:** Unit- Farolândia
