@@ -14,7 +14,7 @@ title: Presentations
 ---
 
 ### 23 à 25 ABR 2015 - II SEMPRESCOMP
-<iframe src="" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/v1vp7uQz2p3pH8" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 <h5>Apresentação para o evento sobre o projeto de Iniciação Científica orientado pela professora Jenifer Toledo com a ajuda e também aluna participante do projeto Larisse. Tema do projeto: Alinhamento de práticas BPM ao Modelo de Gestão PMBOK: uma perspectiva das empresas de desenvolvimento de software de Sergipe.</h5>
 ---
 
