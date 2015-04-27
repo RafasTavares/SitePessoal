@@ -15,11 +15,6 @@ title: Events
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
 * **Instrutor**
 
-## [FLISoL - Festival Latino Americano de Instalação de Software Livre](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
-* **Quando:** 25 de abril
-* **Onde:** Aracaju - SE (Universidade Tiradentes) 
-* **Participante**
-
 ## [//build/ Tour 15 - São Paulo](https://saopaulo.build15.com/)
 * **Quando:** 21 de maio
 * **Onde:** São Paulo - SP
@@ -30,6 +25,11 @@ title: Events
 ---
 ~2015
 ---
+## [FLISoL - Festival Latino Americano de Instalação de Software Livre](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
+* **Quando:** 25 de abril
+* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+* **Participante**
+
 ## [II SEMPESCOMP Seminário de Pesquisa em Computação](http://gpitic.com.br/sempescom/?page_id=21)
 * **Quando:** 23, 24 e 25 de abril
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
