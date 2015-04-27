@@ -5,16 +5,16 @@ date: 2015-01-23 20:00
 category: Eventos
 ---
 <p class="txt-post">
-    Mais uma palestra no PAPI Programa de Apoio Pedagógico e Integração de Calouros da UNIT com os Cursos de Computação, da primeira vez foi um Maker Party o <a href="https://events.webmaker.org/events/4537">PAPI unit</a> agora decidi envolvê-los com a mozilla com o intuito de trazer novos membros para a comunidade, mostrei como eles poderiam colaborar e entrar para a comunidade. A palestra já havia sido criada por outros Mozillians <a href="https://mozillians.org/pt-BR/u/mel/" >Melissa</a> e <a href="https://mozillians.org/pt-BR/u/panaggio/">Panaggio</a> e só fo adaptada à minha necessidade.    
+    Mais uma palestra no PAPI Programa de Apoio Pedagógico e Integração de Calouros da UNIT com os Cursos de Computação, da primeira vez foi um Maker Party o <a href="https://events.webmaker.org/events/4537">PAPI unit</a> agora decidi envolvê-los diretamente com a Mozilla com o intuito de trazer novos membros para a comunidade, mostrei como eles poderiam colaborar e entrar para a comunidade. A palestra já havia sido criada por outros Mozillians <a href="https://mozillians.org/pt-BR/u/mel/" >Melissa</a> e <a href="https://mozillians.org/pt-BR/u/panaggio/">Panaggio</a> e só fo adaptada à minha necessidade.    
 </p>
 
 <p class="txt-post">
-   Mais uma vez percebi que embora sejam menos alunos eles estão cada vez mais interessados, sempre ao conversar com os calouros falo sobre temos ou esclareço dúvidas que gostaria que me falassem quando entrei na Universidade. A oportunidade de começar o curso e conhecer uma comunidade de software livre é fantástico, organizando eventos trocando conhecimentos com pessoas da área. 
-   Para 2015 pretendemos criar grupos de estudo de apps, ferramentas com reuniões mensais (no mínimo) para trocando experiências.
+   Mais uma vez percebi que embora sejam menos alunos eles estão cada vez mais interessados, sempre ao conversar com os calouros falo sobre temas ou esclareço dúvidas que gostaria que me falassem quando entrei na Universidade. A oportunidade de começar o curso e conhecer uma comunidade de software livre é fantástico, organizando eventos trocando conhecimentos com pessoas da área, contribuindo com desenvolvimento, design, tempo, etc.
+   Para 2015 pretendemos criar grupos de desenvolvimento de apps, com reuniões mensais com cursos palestras dos próximos participantes.
 </p>
 
 <p class="txt-post"> 
-   Para minha surpresa das poucas palestras e minicursos que já ministrei foi a que o público estava mais interessado apesar de ser sexta as 20:00 ninguém dormiu ou saiu antes pelo contrário chegou às 22:00 horas e o pessoal ainda queria ficar conversando. Grandes promessas para o curso e o mercado de TI.
+   Para minha surpresa das poucas palestras e minicursos que já ministrei foi a que o público estava mais interessado apesar de ser na sexta à noite começando as 20:00 ninguém dormiu ou saiu antes pelo contrário chegou às 22:00 horas e o pessoal ainda queria ficar conversando. Grandes promessas para o curso e o mercado de TI neste ano.
 </p>
 
 <p class="txt-post">
