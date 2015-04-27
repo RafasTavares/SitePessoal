@@ -13,6 +13,11 @@ title: Presentations
 <h5>Apresentação Sobre a comunidade de software livre e a Mozilla.</h5>
 ---
 
+### 23 à 25 ABR 2015 - II SEMPRESCOMP
+<iframe src="" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<h5>Apresentação para o evento sobre o projeto de Iniciação Científica orientado pela professora Jenifer Toledo com a ajuda e também aluna participante do projeto Larisse. Tema do projeto: Alinhamento de práticas BPM ao Modelo de Gestão PMBOK: uma perspectiva das empresas de desenvolvimento de software de Sergipe.</h5>
+---
+
 ---
 ### 18 ABR 2015 - S2B Unit
 <iframe src="http://rafastavares.github.io/Talk-SB2-M-TI-AJU/" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
