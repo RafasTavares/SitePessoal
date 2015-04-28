@@ -79,38 +79,38 @@ title: Events
 * **Participant**
 
 ## [Hackaju - Primeiro Hackathon de Aracaju](http://hackaju.com.br/)
-* **When:** 13 de agosto
+* **When:** August 13
 * **Where:** Aracaju -SE
 * **Organizer**
 * **#hackaju**
 
 ## [11° SEMINFO(Semana de Informática da UNIT)](http://www.unit.br/blog/noticias/seminfo-em-sua-11a-edicao/)
-* **When:** 11 e 12 de setembro
+* **When:** 11 and 12 September
 * **Where:** Aracaju - SE
 * **Participant and Student Organizer**
 
 ## [PhoneGap Bootcamp - Aracaju](http://phonegapbootcamp.io/#/about)
-* **When:** 07 e 08 de agosto
+* **When:** 07 and 08 August
 * **Where:** Aracaju - SE
 * **Participant**
 
 ## [Front in Aracaju - Rock and Code](http://frontinaracaju.com.br/)
-* **When:** 02 de agosto
+* **When:** August 02
 * **Where:** Aracaju -SE
 * **Participant**
 
 ## [Startup Weekend - Aracaju](http://aracaju.startupweekend.org/)
-* **When:** 30 de maio a 01 de junho
+* **When:** from May 30 from June 01
 * **Where:** Aracaju -SE
 * **Participant**
 
 ## [BRAPPS - Brazilian Applications Seminar](http://brappsbrasil.com/)
-* **When:** 25 e 26 de abril
+* **When:** 25 e 26 April
 * **Where:** Brasilia - DF
 * **Participant Seminar e Hackathon**
 
 ## [8° SEMEX (Semana de Extensão da Unit) - CRIATIVIDADE E INOVAÇÃO PARA O DESENVOLVIMENTO LOCAL](http://ww3.unit.br/semex2014/)
-* **When:** 24 a 28 de março
+* **When:** from 24 to 28 March
 * **Where:** Aracaju - SE
 * **Participant**
 
@@ -118,17 +118,17 @@ title: Events
 ~2013
 ---
 ## [II Encontro de Redes de Computadores - ("Network Optical Day")](http://www.unit.br/blog/noticias/unit-realiza-a-10a-seminfo/)
-* **When:** 30 de novembro
+* **When:** November 30
 * **Where:** Aracaju - SE
 * **Participant**
 
 ## [10° SEMINFO(Semana de Informática da UNIT)](http://www.unit.br/blog/noticias/unit-realiza-a-10a-seminfo/)
-* **When:** 11 e 12 de setembro
+* **When:** 11 and 12 Septenber
 * **Where:** Aracaju - SE
 * **Participant and Student Organizer**
 
 ## [Jornada Adobe - Aracaju](http://jornadaadobe.com/)
-* **When:**  26 and 27 de july
+* **When:** 26 and 27 de july
 * **Where:** Aracaju - SE
 * **Mobile Apps/HTML5 Básico e Avançado**
 * **Participant**
