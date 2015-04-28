@@ -13,7 +13,7 @@ title: Events
 ## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
 * **When:** April, 18 - May 
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
-* **Instrutor**
+* **Instructor**
 
 ## [//build/ Tour 15 - São Paulo](https://saopaulo.build15.com/)
 * **When:** May, 21
