@@ -16,9 +16,9 @@ title: Events
 * **Instrutor**
 
 ## [//build/ Tour 15 - São Paulo](https://saopaulo.build15.com/)
-* **Quando:** 21 de maio
+* **Quando:** May, 21
 * **Onde:** São Paulo - SP
-* **Participante**
+* **Participant**
 
 ---
 ## Past Events
@@ -26,29 +26,29 @@ title: Events
 ~2015
 ---
 ## [FLISoL - Festival Latino Americano de Instalação de Software Livre](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
-* **Quando:** 25 de abril
+* **Quando:** April, 25
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
-* **Participante**
+* **Participant**
 
 ## [II SEMPESCOMP Seminário de Pesquisa em Computação](http://gpitic.com.br/sempescom/?page_id=21)
-* **Quando:** 23, 24 e 25 de abril
+* **Quando:** April, 23 - 25
 * **Onde:** Aracaju - SE (Universidade Tiradentes) 
-* **Participante**
+* **Participant**
 
 ## [9° SEMEX (Semana de Extensão da Unit) - INTEGRAÇÃO ENTRE FORMAÇÃO PROFISSIONAL E CIDADANIA](http://extensao.unit.br/blog/2015/02/20/semex-2015/)
-* **Quando:** 16 à 20 de março
+* **Quando:** March, 16 - 20
 * **Onde:** Unit- Farolândia
-* **Participante**
+* **Participant**
 
 ## [Campus Party 2015](http://beta.campus-party.org/ediciones/brasil/)
-* **Quando:** 3 e 8 de fevereiro
-* **Onde:** São Paulo - SP 
+* **When:** February, 03 and 08
+* **Where:** São Paulo - SP 
 * **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/) / Participante**
 
 ## [PAPI Unit](http://www.unit.br/blog/noticias/unit-programa-recepcao-aos-calouros/) - ["Envolva-se"](http://rafastavares.github.io/Talk-Envolva-se/)
-* **Quando:** 23 de janeiro
-* **Onde:** Unit- Farolândia
-* **Palestrante**
+* **When:** January, 23
+* **Where:** Unit- Farolândia
+* **Palestrant**
 
 ---
 ~2014
@@ -110,7 +110,7 @@ title: Events
 * **Participant Seminar e Hackathon**
 
 ## [8° SEMEX (Semana de Extensão da Unit) - CRIATIVIDADE E INOVAÇÃO PARA O DESENVOLVIMENTO LOCAL](http://ww3.unit.br/semex2014/)
-* **When:** March 24 - 28
+* **When:** March, 24 - 28
 * **Where:** Aracaju - SE
 * **Participant**
 
@@ -128,13 +128,13 @@ title: Events
 * **Participant and Student Organizer**
 
 ## [Jornada Adobe - Aracaju](http://jornadaadobe.com/)
-* **When:** 26 and 27 de july
+* **When:** July, 26 and 27
 * **Where:** Aracaju - SE
 * **Mobile Apps/HTML5 Básico e Avançado**
 * **Participant**
 
 ## [7° SEMEX (Semana de Extensão da Unit) - A DIVERSIDADE NOS MOVE,AS EXTENSÕES NOS CONECTAM](http://ww3.unit.br/semex2014/)
-* **When:** from 11 to 15 March 
+* **When:** March, 11 - 15
 * **Where:** Aracaju - SE
 * **Participant**
 
