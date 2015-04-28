@@ -11,13 +11,13 @@ title: Events
 ---
 
 ## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
-* **Quando:** 18 de Abril / Maio
-* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+* **When:** 18 de Abril / Maio
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Instrutor**
 
 ## [//build/ Tour 15 - São Paulo](https://saopaulo.build15.com/)
-* **Quando:** 21 de maio
-* **Onde:** São Paulo - SP
+* **When:** 21 de maio
+* **Where:** São Paulo - SP
 * **Participante**
 
 ---
@@ -26,142 +26,140 @@ title: Events
 ~2015
 ---
 ## [FLISoL - Festival Latino Americano de Instalação de Software Livre](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
-* **Quando:** 25 de abril
-* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+* **When:** 25 de abril
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Participante**
 
 ## [II SEMPESCOMP Seminário de Pesquisa em Computação](http://gpitic.com.br/sempescom/?page_id=21)
-* **Quando:** 23, 24 e 25 de abril
-* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+* **When:** 23, 24 e 25 de abril
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Participante**
 
 ## [9° SEMEX (Semana de Extensão da Unit) - INTEGRAÇÃO ENTRE FORMAÇÃO PROFISSIONAL E CIDADANIA](http://extensao.unit.br/blog/2015/02/20/semex-2015/)
-* **Quando:** 16 à 20 de março
-* **Onde:** Unit- Farolândia
+* **When:** 16 à 20 de março
+* **Where:** Unit- Farolândia
 * **Participante**
 
 ## [Campus Party 2015](http://beta.campus-party.org/ediciones/brasil/)
-* **Quando:** 3 e 8 de fevereiro
-* **Onde:** São Paulo - SP 
+* **When:** 3 e 8 de fevereiro
+* **Where:** São Paulo - SP 
 * **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/) / Participante**
 
 ## [PAPI Unit](http://www.unit.br/blog/noticias/unit-programa-recepcao-aos-calouros/) - ["Envolva-se"](http://rafastavares.github.io/Talk-Envolva-se/)
-* **Quando:** 23 de janeiro
-* **Onde:** Unit- Farolândia
+* **When:** 23 de janeiro
+* **Where:** Unit- Farolândia
 * **Palestrante**
 
 ---
 ~2014
 ---
 ## [Meetup Mozilla Brasil 2014](https://wiki.mozilla.org/CommunityMeetupBrasil)
-* **Quando:** 13 e 14 de dezembro
-* **Onde:** Ribeirão Preto - SP 
+* **When:** 13 e 14 de dezembro
+* **Where:** Ribeirão Preto - SP 
 * **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/)**
 
 ## [III Encontro de Redes de Computadores - Security Day.]()
-* **Quando:** 06 de dezembro
-* **Onde:** Universidade Tiradentes - Campus Farolândia - Aracaju -SE 
+* **When:** 06 de dezembro
+* **Where:** Universidade Tiradentes - Campus Farolândia - Aracaju -SE 
 * **Participante**
 
 ## [Front in Maceió 2° Edição](http://frontinmaceio.com.br/)
-* **Quando:** 13 à 15 de novembro
-* **Onde:** Maceió - AL
+* **When:** 13 à 15 de novembro
+* **Where:** Maceió - AL
 * **[Mozillan](https://mozillians.org/pt-BR/u/rafasmusic/)**
 
 ## [14° edição da FEIVEST (Feira de Vestibuar da UNIT)](http://ww3.unit.br/feivest2013/)
-* **Quando:** 1° de novembro
-* **Onde:** Stands dos cursos de TI - UNIT Campus farolândia
+* **When:** 1° de novembro
+* **Where:** Stands dos cursos de TI - UNIT Campus farolândia
 * **Aluno Organizador**
 
 ## [DevFest Nordeste - Aracaju](http://2014.devfestne.com.br/)
-* **Quando:** 18 de outubro
-* **Onde:** Aracaju - SE
+* **When:** 18 de outubro
+* **Where:** Aracaju - SE
 * **Participante**
 
 ## [Hackaju - Primeiro Hackathon de Aracaju](http://hackaju.com.br/)
-* **Quando:** 13 de agosto
-* **Onde:** Aracaju -SE
+* **When:** 13 de agosto
+* **Where:** Aracaju -SE
 * **Organizador**
 * **#hackaju**
 
 ## [11° SEMINFO(Semana de Informática da UNIT)](http://www.unit.br/blog/noticias/seminfo-em-sua-11a-edicao/)
-* **Quando:** 11 e 12 de setembro
-* **Onde:** Aracaju - SE
+* **When:** 11 e 12 de setembro
+* **Where:** Aracaju - SE
 * **Participante e Aluno Organizador**
 
 ## [PhoneGap Bootcamp - Aracaju](http://phonegapbootcamp.io/#/about)
-* **Quando:** 07 e 08 de agosto
-* **Onde:** Aracaju - SE
+* **When:** 07 e 08 de agosto
+* **Where:** Aracaju - SE
 * **Participante**
 
 ## [Front in Aracaju - Rock and Code](http://frontinaracaju.com.br/)
-* **Quando:** 02 de agosto
-* **Onde:** Aracaju -SE
+* **When:** 02 de agosto
+* **Where:** Aracaju -SE
 * **Participante**
 
 ## [Startup Weekend - Aracaju](http://aracaju.startupweekend.org/)
-* **Quando:** 30 de maio a 01 de junho
-* **Onde:** Aracaju -SE
+* **When:** 30 de maio a 01 de junho
+* **Where:** Aracaju -SE
 * **Participante**
 
 ## [BRAPPS - Brazilian Applications Seminar](http://brappsbrasil.com/)
-* **Quando:** 25 e 26 de abril
-* **Onde:** Brasilia - DF
+* **When:** 25 e 26 de abril
+* **Where:** Brasilia - DF
 * **Participante Seminário e Hackathon**
 
 ## [8° SEMEX (Semana de Extensão da Unit) - CRIATIVIDADE E INOVAÇÃO PARA O DESENVOLVIMENTO LOCAL](http://ww3.unit.br/semex2014/)
-* **Quando:** 24 a 28 de março
-* **Onde:** Aracaju - SE
+* **When:** 24 a 28 de março
+* **Where:** Aracaju - SE
 * **Participante**
 
 ---
 ~2013
 ---
 ## [II Encontro de Redes de Computadores - ("Network Optical Day")](http://www.unit.br/blog/noticias/unit-realiza-a-10a-seminfo/)
-* **Quando:** 30 de novembro
-* **Onde:** Aracaju - SE
+* **When:** 30 de novembro
+* **Where:** Aracaju - SE
 * **Participante**
 
 ## [10° SEMINFO(Semana de Informática da UNIT)](http://www.unit.br/blog/noticias/unit-realiza-a-10a-seminfo/)
-* **Quando:** 11 e 12 de setembro
-* **Onde:** Aracaju - SE
+* **When:** 11 e 12 de setembro
+* **Where:** Aracaju - SE
 * **Participante e Aluno Organizador**
 
 ## [Jornada Adobe - Aracaju](http://jornadaadobe.com/)
-* **Quando:** 26 e 27 de julho
-* **Onde:** Aracaju - SE
+* **When:** 26 e 27 de julho
+* **Where:** Aracaju - SE
 * **Mobile Apps/HTML5 Básico e Avançado**
 * **Participante**
 
 ## [7° SEMEX (Semana de Extensão da Unit) - A DIVERSIDADE NOS MOVE,AS EXTENSÕES NOS CONECTAM](http://ww3.unit.br/semex2014/)
-* **Quando:** 11 a 15 de março
-* **Onde:** Aracaju - SE
+* **When:** 11 a 15 de março
+* **Where:** Aracaju - SE
 * **Participante**
 
 ---
 ~2012
 ---
 ## [6° SEMEX (Semana de Extensão da Unit) - DESENVOLVIMENTO INFANTIL E SEUS TRANSTORNOS](http://ww3.unit.br/semex/)
-* **Quando:** 12 a 16 de março
-* **Onde:** Aracaju - SE
+* **When:** 12 a 16 de março
+* **Where:** Aracaju - SE
 * **Participante**
 
 ---
 ~2011
 ---
 ## [3Kg de TI v3](https://www.facebook.com/events/216807091697061/)
-* **Quando:** 12 e 13 de agosto
-* **Onde:** Aracaju - SE
+* **When:** 12 e 13 de agosto
+* **Where:** Aracaju - SE
 * **Participante Seminário**
 
 ## [5° SEMEX (Semana de Extensão da Unit) - EXTENSÃO UNIVERSITÁRIA: A PRÁTICA ACADÊMICA MUDANDO CAMINHOS](http://ww3.unit.br/semex/)
-* **Quando:** 11 a 15 de abril
-* **Onde:** Aracaju - SE
+* **when:** 11 a 15 de abril
+* **Where:** Aracaju - SE
 * **Participante**
 
 ## [3Kg de TI v3](https://www.facebook.com/events/216807091697061/)
-* **Quando:** 24 a 26 de março
-* **Onde:** Aracaju - SE
+* **When:** 24 a 26 de março
+* **Where:** Aracaju - SE
 * **Participante Seminário**
-
-
