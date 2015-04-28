@@ -2,7 +2,7 @@
 layout: post
 title: Resumo aula servlet WEB III
 date: 2015-02-10 21:00
-category: Estudos
+category: Studies
 ---
 <p class="txt-post">
 Servlet é uma interface definida no pacote javax.servlet usado para estender as funcionalidades de um servidor. Sendo que um Servlet container é o recipiente para servlets dentro de um Servidor Web que é o responsável por gerar páginas Java, dinâmicas para o usuário.

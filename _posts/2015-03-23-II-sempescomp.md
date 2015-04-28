@@ -2,7 +2,7 @@
 layout: post
 title: "II SEMPESCOMP"
 date: 2015-03-23 18:00
-category: Eventos
+category: Events
 ---
 
 <p class="txt-post">

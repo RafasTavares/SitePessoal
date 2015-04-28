@@ -2,7 +2,7 @@
 layout: post
 title: "2° - Dia Hackathon Front In Maceió"	
 date: 2014-11-14 09:00
-category: Eventos
+category: Events
 ---
 
 <p class="txt-post">

@@ -2,7 +2,7 @@
 layout: post
 title: "Campus Party BR8"
 date: 2015-02-08 20:00
-category: Eventos
+category: Events
 ---
 
 <p class="txt-post">

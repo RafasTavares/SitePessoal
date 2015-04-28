@@ -7,17 +7,17 @@ title: Blog
 
 
 <ul class="tablist" role="tablist">
-    <li id="tab1" class="tablist__tab is-active" aria-controls="panel1" aria-selected="true" role="tab" tabindex="0">Eventss</li>
+    <li id="tab1" class="tablist__tab is-active" aria-controls="panel1" aria-selected="true" role="tab" tabindex="0">Events</li>
     <li id="tab2" class="tablist__tab" aria-controls="panel2" aria-selected="false" role="tab" tabindex="0">Personal</li>
     <li id="tab3" class="tablist__tab" aria-controls="panel3" aria-selected="false" role="tab" tabindex="0">Tools</li>
     <li id="tab4" class="tablist__tab" aria-controls="panel4" aria-selected="false" role="tab" tabindex="0">Studies</li>
 </ul>
 
 <div id="panel1" class="tablist__panel" aria-labelledby="tab1" aria-hidden="false" role="tabpanel">
-    <h3>Eventos</h3> 
+    <h3>Events</h3> 
     <div class="posts">
         {% for post in site.posts %}
-            {% if post.category == "Eventos" %}
+            {% if post.category == "Events" %}
         <hr>
         <div class="post">
             <h1 class="post-title">
@@ -33,10 +33,10 @@ title: Blog
     </div> 
 </div>
 <div id="panel2" class="tablist__panel is-hidden" aria-labelledby="tab2" aria-hidden="true" role="tabpanel">
-    <h3>Pessoais</h3>
+    <h3>Personal</h3>
     <div class="posts">
         {% for post in site.posts %}
-            {% if post.category == "Pessoais" %}
+            {% if post.category == "Personal" %}
         <hr>
         <div class="post">
             <h1 class="post-title">
@@ -45,7 +45,7 @@ title: Blog
       </a>
     </h1>
             <span class="post-date">{{ post.date | date_to_string }} / {{ post.category}}</span> {{ post.excerpt }}
-            <h6><a href="{{ site.url }}{{post.url}}">Leia mais...</a></h6>
+            <h6><a href="{{ site.url }}{{post.url}}">Read more...</a></h6>
         </div>
             {% endif %}
         {% endfor %}
@@ -53,9 +53,9 @@ title: Blog
 </div>
 
 <div id="panel3" class="tablist__panel is-hidden" aria-labelledby="tab3" aria-hidden="true" role="tabpanel">
-    <h3>Ferramentas</h3>
+    <h3>Tools</h3>
     <div class="posts">
-        {% for post in site.posts %} {% if post.category == "Ferramentas" %}
+        {% for post in site.posts %} {% if post.category == "Tools" %}
         <hr>
         <div class="post">
             <h1 class="post-title">
@@ -64,16 +64,16 @@ title: Blog
       </a>
     </h1>
             <span class="post-date">{{ post.date | date_to_string }} / {{ post.category}}</span> {{ post.excerpt }}
-            <h6><a href="{{ site.url }}{{post.url}}">Leia mais...</a></h6>
+            <h6><a href="{{ site.url }}{{post.url}}">Read more...</a></h6>
         </div>
         {% endif %} {% endfor %}
     </div>
 </div>
 
 <div id="panel4" class="tablist__panel is-hidden" aria-labelledby="tab4" aria-hidden="true" role="tabpanel">
-    <h3>Estudos</h3>
+    <h3>Studies</h3>
     <div class="posts">
-        {% for post in site.posts %} {% if post.category == "Estudos" %}
+        {% for post in site.posts %} {% if post.category == "Studies" %}
 
         <hr>
         <div class="post">
@@ -83,7 +83,7 @@ title: Blog
       </a>
     </h1>
             <span class="post-date">{{ post.date | date_to_string }} / {{ post.category}}</span> {{ post.excerpt }}
-            <h6><a href="{{ site.url }}{{post.url}}">Leia mais...</a></h6>
+            <h6><a href="{{ site.url }}{{post.url}}">Read more...</a></h6>
         </div>
      {% endif %} {% endfor %}
     </div>
