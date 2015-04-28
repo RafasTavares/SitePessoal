@@ -11,13 +11,13 @@ title: Events
 ---
 
 ## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
-* **Quando:** 18 de Abril / Maio
-* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+* **When:** April, 18 - May 
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Instrutor**
 
 ## [//build/ Tour 15 - São Paulo](https://saopaulo.build15.com/)
-* **Quando:** May, 21
-* **Onde:** São Paulo - SP
+* **When:** May, 21
+* **Where:** São Paulo - SP
 * **Participant**
 
 ---
@@ -26,18 +26,18 @@ title: Events
 ~2015
 ---
 ## [FLISoL - Festival Latino Americano de Instalação de Software Livre](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
-* **Quando:** April, 25
-* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+* **When:** April, 25
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Participant**
 
 ## [II SEMPESCOMP Seminário de Pesquisa em Computação](http://gpitic.com.br/sempescom/?page_id=21)
-* **Quando:** April, 23 - 25
-* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+* **When:** April, 23 - 25
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Participant**
 
 ## [9° SEMEX (Semana de Extensão da Unit) - INTEGRAÇÃO ENTRE FORMAÇÃO PROFISSIONAL E CIDADANIA](http://extensao.unit.br/blog/2015/02/20/semex-2015/)
-* **Quando:** March, 16 - 20
-* **Onde:** Unit- Farolândia
+* **When:** March, 16 - 20
+* **Where:** Unit- Farolândia
 * **Participant**
 
 ## [Campus Party 2015](http://beta.campus-party.org/ediciones/brasil/)
