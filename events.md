@@ -128,13 +128,13 @@ title: Events
 * **Participant and Student Organizer**
 
 ## [Jornada Adobe - Aracaju](http://jornadaadobe.com/)
-* **When:** 26 e 27 de julho
+* **When:**  26 and 27 de july
 * **Where:** Aracaju - SE
 * **Mobile Apps/HTML5 Básico e Avançado**
 * **Participant**
 
 ## [7° SEMEX (Semana de Extensão da Unit) - A DIVERSIDADE NOS MOVE,AS EXTENSÕES NOS CONECTAM](http://ww3.unit.br/semex2014/)
-* **When:** 11 a 15 de março
+* **When:** from 11 to 15 March 
 * **Where:** Aracaju - SE
 * **Participant**
 
@@ -142,7 +142,7 @@ title: Events
 ~2012
 ---
 ## [6° SEMEX (Semana de Extensão da Unit) - DESENVOLVIMENTO INFANTIL E SEUS TRANSTORNOS](http://ww3.unit.br/semex/)
-* **When:** 12 a 16 de março
+* **When:** from 12 to 16 March
 * **Where:** Aracaju - SE
 * **Participant**
 
@@ -150,17 +150,17 @@ title: Events
 ~2011
 ---
 ## [3Kg de TI v3](https://www.facebook.com/events/216807091697061/)
-* **When:** 12 e 13 de agosto
+* **When:** 12 and 13 de August
 * **Where:** Aracaju - SE
 * **Participant Seminar**
 
 ## [5° SEMEX (Semana de Extensão da Unit) - EXTENSÃO UNIVERSITÁRIA: A PRÁTICA ACADÊMICA MUDANDO CAMINHOS](http://ww3.unit.br/semex/)
-* **When:** 11 a 15 de abril
+* **When:** from 11 to 15 de April
 * **Where:** Aracaju - SE
 * **Participant**
 
 ## [3Kg de TI v3](https://www.facebook.com/events/216807091697061/)
-* **When:** 24 a 26 de março
+* **When:** from 24 to 26 March
 * **Where:** Aracaju - SE
 * **Participant Seminar**
 
