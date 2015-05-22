@@ -39,6 +39,13 @@ title: Presentations
 ~2014
 ---
 
+---
+###  DEZ 2014 - Sistemas Operacionais - Firefox OS
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://www.slideshare.net/slideshow/embed_code/key/3cIi4WWt0A1hBy"></iframe>
+
+<h5>Apresentação da disciplina de Sistemas Operacionais da Unit sobre o SO do Firefox OS.</h5>
+---
+
 ### 22 NOV 2014 - Falsificação de solicitação entre sites - CSRF
 ---
 <iframe src="//www.slideshare.net/slideshow/embed_code/41874521" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
