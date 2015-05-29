@@ -19,7 +19,7 @@ title: Events
 * **When:** April, 18 - June 
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Participant**
-* 
+
 ---
 ## Past Events
 ---
