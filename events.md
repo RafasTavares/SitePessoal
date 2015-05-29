@@ -10,21 +10,26 @@ title: Events
 ## Upcoming Events
 ---
 
-## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
-* **When:** April, 18 - May 
+## [Roadsec](http://roadsec.com.br/aracaju2015/)
+* **When:** June, 13
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Instructor**
 
-## [//build/ Tour 15 - São Paulo](https://saopaulo.build15.com/)
-* **When:** May, 21
-* **Where:** São Paulo - SP
+## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
+* **When:** April, 18 - June 
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Participant**
-
+* 
 ---
 ## Past Events
 ---
 ~2015
 ---
+## [//build/ Tour 15 - São Paulo](https://saopaulo.build15.com/)
+* **When:** May, 21
+* **Where:** São Paulo - SP
+* **Participant**
+
 ## [FLISoL - Festival Latino Americano de Instalação de Software Livre](http://www.flisol.info/FLISOL2015/Brasil/Aracaju)
 * **When:** April, 25
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
