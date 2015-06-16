@@ -10,13 +10,8 @@ title: Events
 ## Upcoming Events
 ---
 
-## [Roadsec](http://roadsec.com.br/aracaju2015/)
-* **When:** June, 13
-* **Where:** Aracaju - SE (Universidade Tiradentes) 
-* **Instructor**
-
 ## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
-* **When:** April, 18 - June 
+* **When:** April, 18 - June / July
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Participant**
 
@@ -25,6 +20,16 @@ title: Events
 ---
 ~2015
 ---
+## [Encontro Webmaker Br.]()
+* **When:** June, 14
+* **Where:** São Paulo - SP (EZ.) 
+* **Instructor**
+
+## [Roadsec](http://roadsec.com.br/aracaju2015/)
+* **When:** June, 13
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
+* **Instructor**
+
 ## [//build/ Tour 15 - São Paulo](https://saopaulo.build15.com/)
 * **When:** May, 21
 * **Where:** São Paulo - SP
