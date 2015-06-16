@@ -10,7 +10,17 @@ title: Events
 ## Upcoming Events
 ---
 
-## [Webmaker SP]()
+## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
+* **When:** April, 18 - June 
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
+* **Instructor**
+
+---
+## Past Events
+---
+~2015
+---
+## [Encontro Webmaker SP]()
 * **When:** June, 14
 * **Where:** São Paulo - SP 
 * **Mozillian**
@@ -20,16 +30,6 @@ title: Events
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Instructor**
 
-## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
-* **When:** April, 18 - June 
-* **Where:** Aracaju - SE (Universidade Tiradentes) 
-* **Participant**
-
----
-## Past Events
----
-~2015
----
 ## [//build/ Tour 15 - São Paulo](https://saopaulo.build15.com/)
 * **When:** May, 21
 * **Where:** São Paulo - SP
