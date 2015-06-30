@@ -11,7 +11,7 @@ title: Events
 ---
 
 ## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
-* **When:** April, 18 - June 
+* **When:** April, 18 - June / July
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Instructor**
 
@@ -20,10 +20,17 @@ title: Events
 ---
 ~2015
 ---
+<<<<<<< HEAD
 ## [Encontro Webmaker SP]()
 * **When:** June, 14
 * **Where:** São Paulo - SP 
 * **Mozillian**
+=======
+## [Encontro Webmaker Br.]()
+* **When:** June, 14
+* **Where:** São Paulo - SP (EZ.) 
+* **Instructor**
+>>>>>>> origin/master
 
 ## [Roadsec](http://roadsec.com.br/aracaju2015/)
 * **When:** June, 13
