@@ -367,4 +367,6 @@ figcaption {
 
 .foto {
     border-radius: 100px;
+    width: 178px; 
+    height: 178px;
 }
