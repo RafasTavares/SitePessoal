@@ -6,7 +6,7 @@ category: Studies
 ---
 
 <p class="text-post">
-    Depois de trabalhar com MVC 3 da Microsoft na SGN Soluções busquei sempre tentar ficar atualizado com a tecnologia, e hoje voltando a trabalhar com WebForms busco estudar sobre as novidades da linguagem e este é um 'guia' de estudo passado pelo meu ex companheiro de trabalho Alison Buss o qual trabalhamos juntos na SGN.
+    Depois de trabalhar com MVC 3 da Microsoft na SGN Soluções busquei sempre tentar ficar atualizado com a tecnologia, e hoje voltando a trabalhar com WebForms busco estudar sobre as novidades da linguagem e este é um 'guia' de estudo passado pelo meu ex companheiro de trabalho <a href="https://github.com/alisonbuss">Alison Buss</a>.
 </p>
 </br>
 
