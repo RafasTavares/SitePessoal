@@ -49,7 +49,7 @@ title: Presentations
 ### 22 NOV 2014 - Falsificação de solicitação entre sites - CSRF
 ---
 <iframe src="//www.slideshare.net/slideshow/embed_code/41874521" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-<h5>Trabalho da disciplina de Segurança de aplicações WEB, ministrada pelo professos Jornando em 2014.2.</h5>
+<h5>Trabalho da disciplina de Segurança de aplicações WEB, ministrada pelo professor Jornando em 2014.2.</h5>
 ---
 
 ---
@@ -65,5 +65,5 @@ title: Presentations
 ### 06 DEZ 2013 - Projetos WEB II - Party Control
 ---
 <iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/uzvtfrucdmxc/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0#"></iframe>
-<h5>Apresnação do projeto de conclu~sao de curso da disciplina Projetos WEB II, com o projeto Party Control.</h5>
+<h5>Apresnação do projeto de conclusão de curso da disciplina Projetos WEB II, com o projeto Party Control.</h5>
 ---
