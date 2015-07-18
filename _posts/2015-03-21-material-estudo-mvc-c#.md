@@ -45,13 +45,13 @@ Gerenciamento de Sistema REGISTRA não em Asp.NET MVC 5 (Se encaixa perfeitament
 </br></br>
 <strong>Parte 1</strong>
 </br>
-[http://thirteendaysaweek.com/2012/09/25/custom-error-page-with-asp-net-mvc-4](http://thirteendaysaweek.com/2012/09/25/custom-error-page-with-asp-net-mvc-4/)
+[http://thirteendaysaweek.com/2012/09/25/custom-error-page-with-asp-net-mvc-4](thirteendaysaweek.com/2012/09/25/custom-error-page-with-asp-net-mvc-4/)
 </br></br>
 <strong>Parte 2</strong>
 </br>
-[http://thirteendaysaweek.com/2012/09/25/custom-error-page-with-asp-net-mvc-4/](http://thirteendaysaweek.com/2013/12/17/revisiting-mvc-custom-error-handling/)
+[http://thirteendaysaweek.com/2012/09/25/custom-error-page-with-asp-net-mvc-4/](thirteendaysaweek.com/2013/12/17/revisiting-mvc-custom-error-handling/)
 </br></br>
 <strong>Projeto</strong>
 </br>
-[https://github.com/13daysaweek/Mvc4CustomErrorPage](https://github.com/13daysaweek/Mvc4CustomErrorPage)    
+[https://github.com/13daysaweek/Mvc4CustomErrorPage](github.com/13daysaweek/Mvc4CustomErrorPage)    
 </p>
