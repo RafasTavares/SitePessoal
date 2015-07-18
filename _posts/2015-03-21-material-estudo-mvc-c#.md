@@ -13,7 +13,7 @@ category: Studies
 <strong>Curso:</strong>
 </br>
 Tutorial ASP.NET MVC 5 + DDD + EF + AutoMapper + IoC + Dicas e Truques</br>
-http://eduardopires.net.br/2014/10/tutorial-asp-net-mvc-5-ddd-ef-automapper-ioc-dicas-e-truques/
+[http://eduardopires.net.br/2014/10/tutorial-asp-net-mvc-5-ddd-ef-automapper-ioc-dicas-e-truques/](tutorial-asp-net-mvc-5-ddd-ef-automapper-ioc-dicas-e-truques)
 </br></br>
 Uma INTRODUÇÃO Muito boa em Asp.NET MVC 5, no sítio oficial TEM Uma Opção parágrafo Tradução:
 </br></br>
@@ -26,20 +26,20 @@ Ciclo de vida do Asp.NET MVC</br>
 [http://www.macoratti.net/13/12/mvc_cvr1.htm](http://www.macoratti.net/13/12/mvc_cvr1.htm)</br>
 </br></br>
 Tutorial oficial da Microsoft:</br>
-http://www.asp.net/mvc/overview/getting-started/introduction/getting-started</br>
+[http://www.asp.net/mvc/overview/getting-started/introduction/getting-started](http://www.asp.net/mvc/overview/getting-started/introduction/getting-started)</br>
 </br></br>
 Criando Componentes não "HTML Helpers" para ASP.NET MVC (Pesquisar SE TEM Uma forma de Melhor USAR ISSO não MVC 5)</br>
-https://www.simple-talk.com/dotnet/asp.net/writing-custom-html-helpers-for-asp.net-mvc/</br>
-http://www.codeproject.com/Articles/32356/Custom-controls-in-ASP-NET-MVC</br>
+[https://www.simple-talk.com/dotnet/asp.net/writing-custom-html-helpers-for-asp.net-mvc/](https://www.simple-talk.com/dotnet/asp.net/writing-custom-html-helpers-for-asp.net-mvc/)</br>
+[http://www.codeproject.com/Articles/32356/Custom-controls-in-ASP-NET-MVC](http://www.codeproject.com/Articles/32356/Custom-controls-in-ASP-NET-MVC)</br>
 </br></br>
 Criando Modelos Dinâmicos não Asp.NET MVC (Pesquisar SE TEM Uma forma de Melhor USAR ISSO não MVC 5)</br>
-http://weblogs.asp.net/scottgu/asp-net-mvc-3-layouts-and-sections-with-razor</br>
+[http://weblogs.asp.net/scottgu/asp-net-mvc-3-layouts-and-sections-with-razor](http://weblogs.asp.net/scottgu/asp-net-mvc-3-layouts-and-sections-with-razor)</br>
 </br></br>
 Gerenciamento de Sistema REGISTRA não em Asp.NET MVC 5 (Se encaixa perfeitamente no MVC 5)
-http://www.andyfrench.info/2014/07/configuring-elmah-to-use-sql-server.html
-http://www.devbition.com/implementing-elmah-in-an-asp-net-mvc-4-application/
-http://www.erikojebo.se/Code/Details/607
-https://github.com/alexbeletsky/elmah-mvc
+[http://www.andyfrench.info/2014/07/configuring-elmah-to-use-sql-server.html](http://www.andyfrench.info/2014/07/configuring-elmah-to-use-sql-server.html)
+[http://www.devbition.com/implementing-elmah-in-an-asp-net-mvc-4-application/](http://www.devbition.com/implementing-elmah-in-an-asp-net-mvc-4-application/)
+[http://www.erikojebo.se/Code/Details/607](http://www.erikojebo.se/Code/Details/607)
+[https://github.com/alexbeletsky/elmah-mvc](https://github.com/alexbeletsky/elmah-mvc)
 </br></br>
 ##Elegante Tratamento de Exceções e Paginas 404 nenhum Sistema (Se encaixa perfeitamente no MVC 5)
 </br></br>
