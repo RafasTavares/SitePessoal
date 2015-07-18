@@ -10,17 +10,28 @@ title: Events
 ## Upcoming Events
 ---
 
+<<<<<<< HEAD
 ## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
 * **When:** April, 18 - June / July
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Instructor**
 
+=======
+>>>>>>> 396b4d8bcf2c8140e628a021181e6af74ba4893d
 ---
 ## Past Events
 ---
 ~2015
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
+* **When:** April, 18 - June 
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
+* **Instructor**
+
+>>>>>>> 396b4d8bcf2c8140e628a021181e6af74ba4893d
 ## [Encontro Webmaker SP]()
 * **When:** June, 14
 * **Where:** São Paulo - SP 

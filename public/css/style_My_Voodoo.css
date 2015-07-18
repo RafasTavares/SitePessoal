@@ -60,7 +60,7 @@
   width: 150px;
   height: 600px;
   margin: 0 auto;
-  background: #ff5200;
+  background: #68217A;
   border-radius: 10%;
   position: relative;
   z-index: 2;
@@ -379,7 +379,7 @@
 }
 .music-note {
   position: absolute;
-  font-size: 150px;
+  font-size: 90px;
   color: #FCB040;
   width: 1px;
   left: 50%;
@@ -424,8 +424,7 @@
   -webkit-animation: text-anim 0.7s 3.1s 1 ease;
 }
 .shirt-text:nth-of-type(2) {
-  color: red;
-  animation: text-anim 0.7s 3.2s 1 ease;
+   animation: text-anim 0.7s 3.2s 1 ease;
   -webkit-animation: text-anim 0.7s 3.2s 1 ease;
 }
 .shirt-text:nth-of-type(4) {
@@ -455,7 +454,7 @@
   z-index: 2;
   margin: 0 auto;
   border-radius: 20%;
-  background: #ff5200;
+  background: #68217A;
   top: -200px;
   animation: body-enter 0.7s 0.2s 1 ease;
   animation-fill-mode: forwards;
