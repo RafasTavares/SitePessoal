@@ -9,21 +9,28 @@ title: Events
 ---
 ## Upcoming Events
 ---
+## [TDC 2015 | São Paulo Online](http://www.thedevelopersconference.com.br/tdc/2015/saopaulo/online)
+* **When:** July, 21 - 25 
+* **Where:** Online (SP) 
+* **Participante**
+
 
 ---
 ## Past Events
 ---
 ~2015
 ---
+
+=======
 ## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
 * **When:** April, 18 - June 
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Instructor**
 
-## [Encontro Webmaker SP]()
+## [Encontro Webmaker Br.]()
 * **When:** June, 14
-* **Where:** São Paulo - SP 
-* **Mozillian**
+* **Where:** São Paulo - SP (EZ.) 
+* **Instructor**
 
 ## [Roadsec](http://roadsec.com.br/aracaju2015/)
 * **When:** June, 13
