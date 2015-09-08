@@ -8,6 +8,12 @@ title: Presentations
 ---
 
 ---
+### 08 à 12 ABR 2015 - 12 SEMINFO
+<iframe src="http://rafastavares.github.io/Talk-Hackaju" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<h5>Apresentação Sobre a Hackaju na abertura da seminfo.</h5>
+---
+
+---
 ### 25 ABR 2015 - FLISOL Aracaju
 <iframe src="http://rafastavares.github.io/Talk-Comunidade-Software-Livre-e-Mozilla" width="555" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 <h5>Apresentação Sobre a comunidade de software livre e a Mozilla.</h5>
