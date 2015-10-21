@@ -11,7 +11,6 @@ Criando tabs no padrão do Foundadion aplicando o css no componente asp RadioBut
 </br>
 <p class="txt-post">
 Componente ASP
-<pre class="prettyprint">
 <asp:RadioButtonList ID="rblExemplo" CssClass="tabs" runat="server" RepeatDirection="Horizontal">
     <asp:ListItem Selected="True">Primeira Aba</asp:ListItem>
     <asp:ListItem>Segunda Aba</asp:ListItem>
@@ -19,10 +18,8 @@ Componente ASP
     <asp:ListItem>Quarta Aba</asp:ListItem>
     <asp:ListItem Enabled="False">Aba Desativada</asp:ListItem>
 </asp:RadioButtonList>
-</pre>
 </br></br>
 CSS</br>
-<pre class="prettyprint">
 .tabs {
     position: relative;
     clear: both;
@@ -74,5 +71,4 @@ td [type=radio] {
 [type=radio]:disabled ~ label {
     color: #ccc;
 }
-</ pre>
 </p>
