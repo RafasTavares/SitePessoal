@@ -11,67 +11,58 @@ Criando tabs no padrão do Foundadion aplicando o css no componente asp RadioBut
 </br>
 <p class="txt-post">
 Componente ASP
-<asp:RadioButtonList ID="rblExemplo" CssClass="tabs" runat="server" RepeatDirection="Horizontal">
-    <asp:ListItem Selected="True">Primeira Aba</asp:ListItem>
-    <asp:ListItem>Segunda Aba</asp:ListItem>
-    <asp:ListItem>Terceira Aba</asp:ListItem>
-    <asp:ListItem>Quarta Aba</asp:ListItem>
-    <asp:ListItem Enabled="False">Aba Desativada</asp:ListItem>
-</asp:RadioButtonList>
-
+<pre  style="font-family:arial;font-size:12px;border:1px dashed #CCCCCC;width:99%;height:auto;overflow:auto;background:#f0f0f0;;background-image:URL(http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif);padding:0px;color:#000000;text-align:left;line-height:20px;"><code style="color:#000000;word-wrap:normal;"> &lt;asp:RadioButtonList ID="rblExemplo" CssClass="tabs" runat="server" RepeatDirection="Horizontal"&gt;  
+   &lt;asp:ListItem Selected="True"&gt;Primeira Aba&lt;/asp:ListItem&gt;  
+   &lt;asp:ListItem&gt;Segunda Aba&lt;/asp:ListItem&gt;  
+   &lt;asp:ListItem&gt;Terceira Aba&lt;/asp:ListItem&gt;  
+   &lt;asp:ListItem&gt;Quarta Aba&lt;/asp:ListItem&gt;  
+   &lt;asp:ListItem Enabled="False"&gt;Aba Desativada&lt;/asp:ListItem&gt;  
+ &lt;/asp:RadioButtonList&gt;  
+</code></pre>
 </br></br>
 CSS</br>
-[code language="css"]
-.tabs {
-    position: relative;
-    clear: both;
-    margin: 0;
-    padding: 0 !important;
-    border: 0;
-}
-
-.tabs tr td {
-    padding-bottom: 0 !important;
-}
-
-tr {
-    float: left;
-    margin: 0;
-}
-
-td {
-    margin: 0;
-    padding-left: 1%;
-    padding-top: 1%;
-    padding-right: 1%;
-    padding-bottom: 0;
-}
-
-td label {
-    background: #eee;
-    padding: 10px;
-    text-align: center;
-    width: 100%;
-}
-
-td [type=radio] {
-    display: none;
-    padding: 0 !important;
-}
-
-[type=radio]:checked ~ label {
-    background: #008316;
-    border: 1px solid #008316;
-    z-index: 2;
-    color: #ffffff;
-}
-
-    [type=radio]:checked ~ label ~ .content {
-        z-index: 1;
-    }
-
-[type=radio]:disabled ~ label {
-    color: #ccc;
-}
-[/code]
+<pre  style="font-family:arial;font-size:12px;border:1px dashed #CCCCCC;width:99%;height:auto;overflow:auto;background:#f0f0f0;;background-image:URL(http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif);padding:0px;color:#000000;text-align:left;line-height:20px;"><code style="color:#000000;word-wrap:normal;"> .tabs {  
+   position: relative;  
+   clear: both;  
+   margin: 0;  
+   padding: 0 !important;  
+   border: 0;  
+ }  
+ .tabs tr td {  
+   padding-bottom: 0 !important;  
+ }  
+ tr {  
+   float: left;  
+   margin: 0;  
+ }  
+ td {  
+   margin: 0;  
+   padding-left: 1%;  
+   padding-top: 1%;  
+   padding-right: 1%;  
+   padding-bottom: 0;  
+ }  
+ td label {  
+   background: #eee;  
+   padding: 10px;  
+   text-align: center;  
+   width: 100%;  
+ }  
+ td [type=radio] {  
+   display: none;  
+   padding: 0 !important;  
+ }  
+ [type=radio]:checked ~ label {  
+   background: #008316;  
+   border: 1px solid #008316;  
+   z-index: 2;  
+   color: #ffffff;  
+ }  
+   [type=radio]:checked ~ label ~ .content {  
+     z-index: 1;  
+   }  
+ [type=radio]:disabled ~ label {  
+   color: #ccc;  
+ }  
+</code></pre>
 </p>
