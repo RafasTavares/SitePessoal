@@ -16,7 +16,7 @@ echo "FILE_NAME" >> .gitignore
 git rm --cached FILE_NAME
 git add -u
 git commit -m "removing files from version control"
-# Sync with your git server, pull to sync and push to register your local change
+Sincronize com o servidor git, puxe' e empurre' para registrar sua mudança local
 git pull origin BRANCH
 git push origin BRANCH
 </code>
