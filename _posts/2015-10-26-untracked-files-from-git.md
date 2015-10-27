@@ -7,8 +7,7 @@ category: Studies
 <p class="txt-post">
 Comandos básicos para 'desversionar' arquivos do git.
 </p>
-<br />
-<br />
+
 <p class="txt-post">
 <pre>
 <code>
