@@ -11,7 +11,7 @@ Criando tabs no padrão do Foundadion aplicando o css no componente asp RadioBut
 
 <p class="txt-post">
 Componente ASP
-<pre  style="font-family:arial;font-size:12px;border:1px dashed #CCCCCC;width:99%;height:auto;overflow:auto;background:#f0f0f0;;background-image:URL(http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif);padding:0px;color:#000000;text-align:left;line-height:20px;"><code style="color:#000000;word-wrap:normal;"> &lt;asp:RadioButtonList ID="rblExemplo" CssClass="tabs" runat="server" RepeatDirection="Horizontal"&gt;  
+<pre><code> &lt;asp:RadioButtonList ID="rblExemplo" CssClass="tabs" runat="server" RepeatDirection="Horizontal"&gt;  
    &lt;asp:ListItem Selected="True"&gt;Primeira Aba&lt;/asp:ListItem&gt;  
    &lt;asp:ListItem&gt;Segunda Aba&lt;/asp:ListItem&gt;  
    &lt;asp:ListItem&gt;Terceira Aba&lt;/asp:ListItem&gt;  
@@ -24,7 +24,7 @@ Componente ASP
 
 <p class="txt-post">
 CSS</br>
-<pre  style="font-family:arial;font-size:12px;border:1px dashed #CCCCCC;width:99%;height:auto;overflow:auto;background:#f0f0f0;;background-image:URL(http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif);padding:0px;color:#000000;text-align:left;line-height:20px;"><code style="color:#000000;word-wrap:normal;"> .tabs {  
+<pre><code> .tabs {  
    position: relative;  
    clear: both;  
    margin: 0;  
