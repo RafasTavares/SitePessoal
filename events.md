@@ -9,6 +9,12 @@ title: Events
 ---
 ## Upcoming Events
 ---
+
+## [Rock and Code <ARENA/>](http://www.frontinaracaju.com.br/)
+* **When:** November, 28
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
+* **Participant**
+
 ## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
 * **When:** November, 07 - December 
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
@@ -28,7 +34,7 @@ title: Events
 ## [TDC 2015 | São Paulo Online](http://www.thedevelopersconference.com.br/tdc/2015/saopaulo/online)
 * **When:** July, 21 - 25 
 * **Where:** Online (SP) 
-* **Participante**
+* **Participant**
 
 ## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
 * **When:** April, 18 - June 
