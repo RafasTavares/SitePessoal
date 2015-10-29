@@ -20,7 +20,7 @@ title: Events
 ~2015
 ---
 
-## [12 SEMINFO "Internet das Coisas"](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
+## [12 SEMINFO "Internet das Coisas"](http://12seminfo.azurewebsites.net/)
 * **When:** September, 08 - 12 
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Instructor - App móveis com FFx OS**
