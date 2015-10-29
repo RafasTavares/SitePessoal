@@ -9,11 +9,10 @@ title: Events
 ---
 ## Upcoming Events
 ---
-## [TDC 2015 | São Paulo Online](http://www.thedevelopersconference.com.br/tdc/2015/saopaulo/online)
-* **When:** July, 21 - 25 
-* **Where:** Online (SP) 
-* **Participante**
-
+## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
+* **When:** November, 07 - December 
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
+* **Instructor**
 
 ---
 ## Past Events
@@ -21,7 +20,16 @@ title: Events
 ~2015
 ---
 
-=======
+## [12 SEMINFO "Internet das Coisas"](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
+* **When:** September, 08 - 12 
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
+* **Instructor - App móveis com FFx OS**
+
+## [TDC 2015 | São Paulo Online](http://www.thedevelopersconference.com.br/tdc/2015/saopaulo/online)
+* **When:** July, 21 - 25 
+* **Where:** Online (SP) 
+* **Participante**
+
 ## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
 * **When:** April, 18 - June 
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
