@@ -373,25 +373,25 @@ figcaption {
 
 
 
-    .foto{
-    /* transições (animações)*/
+ /*   .foto{
+     transições (animações)
     -webkit-transition: all 500ms ease;
     -moz-transition: all 500ms ease;
     -ms-transition: all 500ms ease;
     -o-transition: all 500ms ease;
     transition: all 500ms ease;
 
-    /*qualidade da imagem*/
+    qualidade da imagem
     image-rendering: optimizeQuality;
     }
     .foto:hover{
-    /*rotação*/
+    rotação
     -moz-transform: scale(1.1) rotate(360deg) translateX(1px) translateY(1px) skewX(1deg) skewY(1deg);
     -webkit-transform: scale(1.1) rotate(360deg) translateX(1px) translateY(1px) skewX(1deg) skewY(1deg);
     -o-transform: scale(1.1) rotate(360deg) translateX(1px) translateY(1px) skewX(1deg) skewY(1deg);
     -ms-transform: scale(1.1) rotate(360deg) translateX(1px) translateY(1px) skewX(1deg) skewY(1deg);
     transform: scale(1.1) rotate(360deg) translateX(1px) translateY(1px) skewX(1deg) skewY(1deg);
 
-    }
+    }*/
 
 
