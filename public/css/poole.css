@@ -121,18 +121,6 @@ abbr[title] {
 }
 /* Code */
 
-pre {
-margin: 5px 20px;
-border: 1px dashed #666;
-padding: 5px;
-background: #f8f8f8;
-white-space: pre-wrap;       /* css-3 */
-white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-white-space: -pre-wrap;      /* Opera 4-6 */
-white-space: -o-pre-wrap;    /* Opera 7 */
-word-wrap: break-word;       /* Internet Explorer 5.5+ */
-}
-
 code,
 pre {
     font-family: Menlo, Monaco, "Courier New", monospace;
@@ -385,25 +373,25 @@ figcaption {
 
 
 
-    .foto{
-    /* transições (animações)*/
+ /*   .foto{
+     transições (animações)
     -webkit-transition: all 500ms ease;
     -moz-transition: all 500ms ease;
     -ms-transition: all 500ms ease;
     -o-transition: all 500ms ease;
     transition: all 500ms ease;
 
-    /*qualidade da imagem*/
+    qualidade da imagem
     image-rendering: optimizeQuality;
     }
     .foto:hover{
-    /*rotação*/
+    rotação
     -moz-transform: scale(1.1) rotate(360deg) translateX(1px) translateY(1px) skewX(1deg) skewY(1deg);
     -webkit-transform: scale(1.1) rotate(360deg) translateX(1px) translateY(1px) skewX(1deg) skewY(1deg);
     -o-transform: scale(1.1) rotate(360deg) translateX(1px) translateY(1px) skewX(1deg) skewY(1deg);
     -ms-transform: scale(1.1) rotate(360deg) translateX(1px) translateY(1px) skewX(1deg) skewY(1deg);
     transform: scale(1.1) rotate(360deg) translateX(1px) translateY(1px) skewX(1deg) skewY(1deg);
 
-    }
+    }*/
 
 
