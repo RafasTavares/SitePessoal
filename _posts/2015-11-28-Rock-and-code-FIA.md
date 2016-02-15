@@ -17,7 +17,6 @@ category: Events
 
 <p class="txt-post">
     Além de possuirmos um stand dentro do evento para recrutar novos Mozillians para a região, além de esclarecer dúvidas sobre os projetos da Mozilla e apresentar algumas novidades como: 
-
     <ul>
         <li>
             <a href="http://mozvr.com/">MOZVR</a> <small>(Projeto de Realidade Virtual para WEB e Open Source)</small>;
@@ -35,9 +34,9 @@ category: Events
 </p>
 
 <p class="txt-post">
-Além das atividades da Mozilla durante o evento podemos contar com o planejamento de algumas atividades que pretendemos realizar aqui no Nordeste em 2016. 
-<br/>
-Agradeço muito os Mozillians: <a href="http://andregarzia.com/pages/en/blog/"> André Garzia</a>, <a href="https://mozillians.org/pt-BR/u/Harry32/">Felipe (Harry)</a> e <a href="http://marinalimeira.com/">Marina Limeira</a> pelo apoio e dedicação prestados, que possamos realizar mais ações em favor do <a href="https://www.mozilla.org/pt-BR/about/manifesto/">Futuro da Web</a>.
+    Além das atividades da Mozilla durante o evento podemos contar com o planejamento de algumas atividades que pretendemos realizar aqui no Nordeste em 2016. 
+    <br/>
+    Agradeço muito os Mozillians: <a href="http://andregarzia.com/pages/en/blog/"> André Garzia</a>, <a href="https://mozillians.org/pt-BR/u/Harry32/">Felipe (Harry)</a> e <a href="http://marinalimeira.com/">Marina Limeira</a> pelo apoio e dedicação prestados, que possamos realizar mais ações em favor do <a href="https://www.mozilla.org/pt-BR/about/manifesto/">Futuro da Web</a>.
 </p>
 
 <p class="txt-post">
