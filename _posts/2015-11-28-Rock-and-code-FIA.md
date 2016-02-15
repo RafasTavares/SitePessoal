@@ -35,10 +35,16 @@ category: Events
 </p>
 
 <p class="txt-post">
-Mais informações sobre o evento em: 
-<ul>
-    <li><a href="http://www.frontinaracaju.com.br/">frontinaracaju.com.br</a></li>
-    <li><a href="https://www.facebook.com/frontinaracaju/">fb.com/frontinaracaju</a></li>
-    <li><a href="https://twitter.com/frontinaracaju">@frontinaracaju</a></li>
-</ul>
+Além das atividades da Mozilla durante o evento podemos contar com o planejamento de algumas atividades que pretendemos realizar aqui no Nordeste em 2016. 
+<br/>
+Agradeço muito os Mozillians: <a href="http://andregarzia.com/pages/en/blog/"> André Garzia</a>, <a href="https://mozillians.org/pt-BR/u/Harry32/">Felipe (Harry)</a> e <a href="http://marinalimeira.com/">Marina Limeira</a> pelo apoio e dedicação prestados, que possamos realizar mais ações em favor do <a href="https://www.mozilla.org/pt-BR/about/manifesto/">Futuro da Web</a>.
+</p>
+
+<p class="txt-post">
+    Mais informações e fotos sobre o evento em: 
+    <ul>
+        <li><a href="http://www.frontinaracaju.com.br/">frontinaracaju.com.br</a></li>
+        <li><a href="https://www.facebook.com/frontinaracaju/">fb.com/frontinaracaju</a></li>
+        <li><a href="https://twitter.com/frontinaracaju">@frontinaracaju</a></li>
+    </ul>
 </p>
