@@ -13,18 +13,32 @@ category: Events
 <p class="txt-post">
     Desta vez contamos com o apoio da <b>Mozilla Foundation</b>, com uma palesta do 
     <a href="http://andregarzia.com" >@AndreGarzia</a> com o título: <i>"Retomando o controle da sua experiência Web com Add-ons"</i> e um mini-curso para o desenvolvimento de jogos com HTML5 usando a framework Phaser, que aconteceu na Universidade Tiradentes no dia 27/11/15, um dia antes do evento.
-    <br/>
+</p>
+
+<p class="txt-post">
     Além de possuirmos um stand dentro do evento para recrutar novos Mozillians para a região, além de esclarecer dúvidas sobre os projetos da Mozilla e apresentar algumas novidades como: 
-    
+
     <ul>
-        <li><a href="http://mozvr.com/">MOZVR (Projeto de Realidade Virtual para WEB e Open Source);</a></li>
-        <li><a href="https://www.mozilla.org/pt-BR/firefox/developer/">Firefox Dev. Edition</a> - Edição do Firefox específica para desenvolvedores Web com ótimas ferramentas para debug e diagnosticos, contamos com muitos ineressados e alguns até instalaram no própio stand;</li>
-        <li>Firefox para <a href="https://www.mozilla.org/pt-BR/firefox/android/">Android</a> e <a href="https://www.mozilla.org/pt-BR/firefox/ios/">IOS</a></li>
+        <li>
+            <a href="http://mozvr.com/">MOZVR</a> <small>(Projeto de Realidade Virtual para WEB e Open Source)</small>;
+        </li>
+        <li>
+            <a href="https://www.mozilla.org/pt-BR/firefox/developer/">Firefox Dev. Edition</a> <small>(Edição do Firefox específica para desenvolvedores Web com ótimas ferramentas para debug e diagnosticos, contamos com muitos ineressados e alguns até instalaram no própio stand)</small>;
+        </li>
+        <li>
+            Firefox para <a href="https://www.mozilla.org/pt-BR/firefox/android/">Android</a> e <a href="https://www.mozilla.org/pt-BR/firefox/ios/">IOS</a>
+        </li>
+        <li>
+            Novo App do <a href="https://beta.webmaker.org/">Webmaker</a>
+        </li>
     </ul>
 </p>
-<br />
 
-
-
-
-
+<p class="txt-post">
+Mais informações sobre o evento em: 
+<ul>
+    <li><a href="http://www.frontinaracaju.com.br/">frontinaracaju.com.br</a></li>
+    <li><a href="https://www.facebook.com/frontinaracaju/">fb.com/frontinaracaju</a></li>
+    <li><a href="https://twitter.com/frontinaracaju">@frontinaracaju</a></li>
+</ul>
+</p>
