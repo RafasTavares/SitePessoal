@@ -10,7 +10,7 @@ category: Personal
 <br/><br/>
 Acredito que a única coisa que pode mudar o mundo é o amor e não há uma pessoa se quer que não ame alguma coisa ou alguém, além do mais o amor é muito relativo'!
 <br/><br/>
-Falo simplesmente do sentimento AMOR, a essência divida.
+Falo simplesmente do sentimento AMOR, a essência divina.
 <br/><br/>
 Sem olhar me percebe, sem falar me diz, sem me tocar me abraça. Esse AMOR.
 </p>
