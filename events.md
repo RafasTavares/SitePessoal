@@ -10,21 +10,25 @@ title: Events
 ## Upcoming Events
 ---
 
-## [Rock and Code <ARENA/>](http://www.frontinaracaju.com.br/)
-* **When:** November, 28
-* **Where:** Aracaju - SE (Universidade Tiradentes) 
-* **Participant**
-
-## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
-* **When:** November, 07 - December 
+## [Roadsec](http://roadsec.com.br/aracaju2016/)
+* **When:** June, 07
 * **Where:** Aracaju - SE (Universidade Tiradentes) 
 * **Instructor**
+
+---
+~2016
+---
 
 ---
 ## Past Events
 ---
 ~2015
 ---
+
+## [Student to Business](http://www.microsoft.com/education/pt-br/leadership/Pages/Students-to-Business.aspx)
+* **When:** November, 07 - December 
+* **Where:** Aracaju - SE (Universidade Tiradentes) 
+* **Instructor**
 
 ## [12 SEMINFO "Internet das Coisas"](http://12seminfo.azurewebsites.net/)
 * **When:** September, 08 - 12 
@@ -194,5 +198,3 @@ title: Events
 * **When:** March, 24 - 26
 * **Where:** Aracaju - SE
 * **Participant Seminar**
-
-
