@@ -60,7 +60,7 @@
   width: 150px;
   height: 600px;
   margin: 0 auto;
-  background: #68217A;
+  background: #ff5200;
   border-radius: 10%;
   position: relative;
   z-index: 2;
@@ -420,7 +420,6 @@
   -webkit-animation: text-anim 0.7s 3s 1 ease;
 }
 .shirt-text:nth-of-type(2) {
- color:red;
   animation: text-anim 0.7s 3.1s 1 ease;
   -webkit-animation: text-anim 0.7s 3.1s 1 ease;
 }
