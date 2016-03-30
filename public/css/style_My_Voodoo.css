@@ -60,7 +60,7 @@
   width: 150px;
   height: 600px;
   margin: 0 auto;
-  background: #ff5200;
+  background: #68217A;
   border-radius: 10%;
   position: relative;
   z-index: 2;
@@ -379,7 +379,7 @@
 }
 .music-note {
   position: absolute;
-  font-size: 150px;
+  font-size: 90px;
   color: #FCB040;
   width: 1px;
   left: 50%;
