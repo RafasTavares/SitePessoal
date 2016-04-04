@@ -9,7 +9,7 @@ title: Events
 ---
 ## Upcoming Events
 ---
-## [10° SEMEX (Semana de Extensão da Unit) - EXTENSÃO UNIVERSITÁRIA COMO INSTRUMENTO DE RESPONSABILIDADE.(http://eventos.unit.br/10semex/)
+## [10° SEMEX (Semana de Extensão da Unit) - EXTENSÃO UNIVERSITÁRIA COMO INSTRUMENTO DE RESPONSABILIDADE](http://eventos.unit.br/10semex/)
 * **When:** April, 11 - 15
 * **Where:** Unit- Farolândia
 * **Participant**
