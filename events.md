@@ -13,14 +13,11 @@ title: Events
 * **When:** April, 11 - 15
 * **Where:** Unit- Farolândia
 * **Participant**
-<<<<<<< HEAD
-=======
 
 ## [Unit Game Day](http://unitgameday.azurewebsites.net)
 * **When:** April, 30
 * **Where:** Unit- Farolândia
 * **Participant**
->>>>>>> 41dd022b0cb1fcf9c40b31b06d680c18be368a29
 
 ## [Roadsec](http://roadsec.com.br/aracaju2016/)
 * **When:** June, 07
