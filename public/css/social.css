@@ -6,32 +6,60 @@ i.soc {
   float: left;
   /* -webkit-transition: all .2s ease-in-out; */
 }
-.facebook {
+.facebook48 {
   background:      url(../img/facebook_48.png);
 }
-.twitter {
+.facebook32 {
+  background:      url(../img/facebook_32.png);
+}
+.twitter48 {
   background:      url(../img/twitter_48.png);
 }
-.www {
+.twitter32 {
+  background:      url(../img/twitter_32.png);
+}
+.www48 {
   background:      url(../img/globe_48.png);
 }
-.email {
+.www32 {
+  background:      url(../img/globe_32.png);
+}
+.email48 {
   background:      url(../img/email_48.png);
   margin-left: 10px;
 }
-.github {
+.email32 {
+  background:      url(../img/email_32.png);
+  margin-left: 10px;
+}
+.github48 {
   background:      url(../img/github_48.png);
 }
-.google-plus {
+.github32 {
+  background:      url(../img/github_32.png);
+}
+.google-plus48 {
   background:      url(../img/google-plus_48.png);
   margin-left: 5px;
 }
-.feed {
+.google-plus32 {
+    background: url(../img/google-plus_32.png);
+    margin-left: 5px;
+}
+.feed48 {
   background:      url(../img/feed_48.png);
 }
-.globe {
+.feed32 {
+  background:      url(../img/feed_32.png);
+}
+.globe48 {
   background:      url(../img/globe_48.png);
 }
+.globe32 {
+  background:      url(../img/globe_32.png);
+}
+
+
 aside {
   clear: both;
   padding: 15px 8px;
