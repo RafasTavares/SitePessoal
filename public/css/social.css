@@ -13,7 +13,7 @@ i.soc_32 {
     background-repeat: no-repeat;
     background-position: top left;
     float: left;
-    padding: 5px;
+    margin: 5px;
     /* -webkit-transition: all .2s ease-in-out; */
 }
 
