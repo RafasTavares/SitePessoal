@@ -1,67 +1,90 @@
 i.soc {
-  width: 48px;
-  height: 48px;
-  background-repeat: no-repeat;
-  background-position: top left;
-  float: left;
-  /* -webkit-transition: all .2s ease-in-out; */
+    width: 48px;
+    height: 48px;
+    background-repeat: no-repeat;
+    background-position: top left;
+    float: left;
+    /* -webkit-transition: all .2s ease-in-out; */
 }
+
 .facebook48 {
-  background:      url(../img/facebook_48.png);
+    background: url(../img/facebook_48.png);
 }
+
 .facebook32 {
-  background:      url(../img/facebook_32.png);
+    background: url(../img/facebook_32.png);
+    width: 32px;
 }
+
 .twitter48 {
-  background:      url(../img/twitter_48.png);
+    background: url(../img/twitter_48.png);
 }
+
 .twitter32 {
-  background:      url(../img/twitter_32.png);
+    background: url(../img/twitter_32.png);
+    width: 32px;
 }
+
 .www48 {
-  background:      url(../img/globe_48.png);
+    background: url(../img/globe_48.png);
 }
+
 .www32 {
-  background:      url(../img/globe_32.png);
+    background: url(../img/globe_32.png);
+    width: 32px;
 }
+
 .email48 {
-  background:      url(../img/email_48.png);
-  margin-left: 10px;
+    background: url(../img/email_48.png);
+    margin-left: 10px;
 }
+
 .email32 {
-  background:      url(../img/email_32.png);
-  margin-left: 10px;
+    background: url(../img/email_32.png);
+    width: 32px;
+    margin-left: 10px;
 }
+
 .github48 {
-  background:      url(../img/github_48.png);
+    background: url(../img/github_48.png);
 }
+
 .github32 {
-  background:      url(../img/github_32.png);
+    background: url(../img/github_32.png);
+    width: 32px;
 }
+
 .google-plus48 {
-  background:      url(../img/google-plus_48.png);
-  margin-left: 5px;
-}
-.google-plus32 {
-    background: url(../img/google-plus_32.png);
+    background: url(../img/google-plus_48.png);
     margin-left: 5px;
 }
-.feed48 {
-  background:      url(../img/feed_48.png);
-}
-.feed32 {
-  background:      url(../img/feed_32.png);
-}
-.globe48 {
-  background:      url(../img/globe_48.png);
-}
-.globe32 {
-  background:      url(../img/globe_32.png);
+
+.google-plus32 {
+    background: url(../img/google-plus_32.png);
+    width: 32px;
+    margin-left: 5px;
 }
 
+.feed48 {
+    background: url(../img/feed_48.png);
+}
+
+.feed32 {
+    background: url(../img/feed_32.png);
+    width: 32px;
+}
+
+.globe48 {
+    background: url(../img/globe_48.png);
+}
+
+.globe32 {
+    background: url(../img/globe_32.png);
+    width: 32px;
+}
 
 aside {
-  clear: both;
-  padding: 15px 8px;
-  font: normal small-caps normal 15px/120% Arial, Helvetica, sans-serif;
+    clear: both;
+    padding: 15px 8px;
+    font: normal small-caps normal 15px/120% Arial, Helvetica, sans-serif;
 }
