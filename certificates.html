@@ -1,27 +1,28 @@
 ---
-layout: page
+layout: default
 title: Certificados
 ---
 <div class="row">
     <div class="col-md-3">
      <iframe src="/MVA%20-%20Entendendo%20o%20Windows%20Azure.pdf" width="350" height="248" frameborder="0"></iframe> 
     </div>
-     <div class="col-md-3">
-    </div>
-    <div class="col-md-3">
-    </div>
-    <div class="col-md-3">
-    </div>
-    <div class="col-md-3">
-    </div>
-    <div class="col-md-3">
-    </div>
-    <div class="col-md-3">
-    </div>
-    <div class="col-md-3">
-    </div>
-    <div class="col-md-3">
-    </div>
-    <div class="col-md-3">
-    </div>
+   </div>
+   
+   <div >
+    <h3>Events</h3> 
+    <div class="posts">
+        {% for cert in site.certs %}
+                   <hr>
+        <div class="post">
+            <h1 class="post-title">
+              <a href="{{ site.url }}{{cert.url}}">
+                {{ cert.url }} 
+              </a>
+            </h1>
+            <span class="post-date">{{ cert.url | date_to_string }}</span> {{ cert.excerpt }}
+            <h6><a href="{{ site.url }}{{cert.url}}">Read more...</a></h6>
+        </div>
+           
+        {% endfor %}
+    </div> 
 </div>
