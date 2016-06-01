@@ -164,7 +164,7 @@ title: Events
 ## [8° SEMEX (Semana de Extensão da Unit) - CRIATIVIDADE E INOVAÇÃO PARA O DESENVOLVIMENTO LOCAL](http://ww3.unit.br/semex2014/)
 * **Quando:** Março, 24 - 28
 * **Onde:** Aracaju - SE
-* **Participant**
+* **Participante**
 
 ---
 ~2013
