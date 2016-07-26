@@ -60,7 +60,7 @@
   width: 150px;
   height: 600px;
   margin: 0 auto;
-  background: #808080;/* #68217A;*/
+  background: #A9A9A9;/* #68217A;*/
   border-radius: 10%;
   position: relative;
   z-index: 2;
@@ -454,7 +454,7 @@
   z-index: 2;
   margin: 0 auto;
   border-radius: 20%;
-  background:  #808080;/* #68217A;*/
+  background:  #A9A9A9;/* #68217A;*/
   top: -200px;
   animation: body-enter 0.7s 0.2s 1 ease;
   animation-fill-mode: forwards;
