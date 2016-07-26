@@ -10,9 +10,9 @@ title: Events
 ## Próximos Eventos
 ---
 
-## [Roadsec](http://roadsec.com.br/aracaju2016/)
-* **Quando:** Junho, 07
-* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+## [DevFest NE](https://devfestne.com.br/)
+* **Quando:** Outubro, 21 e 22
+* **Onde:** Maceió - AL 
 * **Participante**
 
 ---
@@ -22,6 +22,11 @@ title: Events
 ---
 ~2016
 ---
+
+## [Roadsec](http://roadsec.com.br/aracaju2016/)
+* **Quando:** Junho, 07
+* **Onde:** Aracaju - SE (Universidade Tiradentes) 
+* **Participante**
 
 ## [10° SEMEX (Semana de Extensão da Unit) - EXTENSÃO UNIVERSITÁRIA COMO INSTRUMENTO DE RESPONSABILIDADE SOCIAL](http://eventos.unit.br/10semex/)
 * **Quando:** Abril, 11 - 15
