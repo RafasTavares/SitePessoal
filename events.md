@@ -12,7 +12,7 @@ title: Events
 
 ## [Front in Aracaju](http://www.frontinaracaju.com.br/)
 * **Quando:** Dezembro, 03
-* **Onde:** Maceió - AL 
+* **Onde:** Aracaju - SE 
 * **Participante**
 
 ---
