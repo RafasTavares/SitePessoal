@@ -10,8 +10,8 @@ title: Events
 ## Próximos Eventos
 ---
 
-## [DevFest NE](https://devfestne.com.br/)
-* **Quando:** Outubro, 21 e 22
+## [Front in Aracaju](http://www.frontinaracaju.com.br/)
+* **Quando:** Dezembro, 03
 * **Onde:** Maceió - AL 
 * **Participante**
 
@@ -22,6 +22,11 @@ title: Events
 ---
 ~2016
 ---
+
+## [DevFest NE](https://devfestne.com.br/)
+* **Quando:** Outubro, 21 e 22
+* **Onde:** Maceió - AL 
+* **Participante**
 
 ## [Roadsec](http://roadsec.com.br/aracaju2016/)
 * **Quando:** Junho, 07
