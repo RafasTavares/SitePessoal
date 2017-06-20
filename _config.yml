@@ -2,7 +2,7 @@
 markdown:         kramdown
 pygments:         true
 google-analytics-tracking-id: UA-57304637-1
-
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
