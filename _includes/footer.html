@@ -1,8 +1,20 @@
-<footer class="footer">
-    <p>&copy; {{site.username}}</p>
-    <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://nrandecker.github.io">Nathan Randecker</a></p>
+<!-- Footer Start -->
+
+<footer>
+
+    {% include social-buttons.html %}
+
+    <p><br><br></p>
+
+    <div class="container text-center">
+        <p>Copyright &copy; {{ site.author }} {{ site.time | date: "%Y" }}</p>
+        {% if site.keybase-in-footer %}
+        <p style="font-size: 16px;"><a href="https://keybase.io/{{site.keybase-username}}" target="_blank"><i
+                class="fa fa-key"></i> {{site.keybase-username}} on Keybase</a></p>
+        {% endif %}
+    </div>
 </footer>
-<script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-<script src="{{ "/assets/js/sweet-scroll.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
-{% include google-analytics.html %}
+
+<p><br><br><br><br><br><br></p>
+
+<!-- Footer End -->
