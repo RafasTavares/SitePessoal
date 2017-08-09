@@ -139,19 +139,19 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
     return array;
   }
 
-  // {% if site.shuffle %}
-  //   shuffle(myQuotes)
-  // {% endif %}
+  {% if site.shuffle %}
+    shuffle(myQuotes)
+  {% endif %}
 
-  //   $(".intro-text").typed({
-  //     strings: myQuotes,
-  //     typeSpeed: {{ site.type-speed }},
-  //     backDelay: {{ site.delete-delay }},
-  //     startDelay: {{ site.start-delay }},
-  //     loop: {{ site..loop }},
-  //     loopCount: {{ site.loop-count }},
-  //     cursorChar: "|"
-  //   });
+    $(".intro-text").typed({
+      strings: myQuotes,
+      typeSpeed: {{ site.type-speed }},
+      backDelay: {{ site.delete-delay }},
+      startDelay: {{ site.start-delay }},
+      loop: {{ site..loop }},
+      loopCount: {{ site.loop-count }},
+      cursorChar: "|"
+    });
   </script>
 
   <!-- Dynamic Typing End  -->
