@@ -146,7 +146,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "rafaeltavaresandrade@gmail.com"
 
 ################
 # Author Blurb #
@@ -157,7 +157,7 @@ email: "your@email.here"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/old/public/img/Rafa.jpg"
 
 ##################
 # Social Buttons #
@@ -165,13 +165,13 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://www.facebook.com/rafael.tavares.andrade"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/rafasmusic"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/RafasTavares/"
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://blockchain.info/address/1AVfUwLhXDPaph83UzmpLw1hFi1GoTcJBq"
   - title: "rss"
     url: "/feed.xml"
 
