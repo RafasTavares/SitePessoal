@@ -34,6 +34,6 @@ github:
   repo:          https://github.com/rafastavares/old
   
 source:     .
-destination: ./_site
+destination: ./old/_site
 paginate_path: '/old/blog/page:num'
 atom_path : /old/atom.xml
