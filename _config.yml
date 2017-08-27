@@ -33,15 +33,15 @@ author: "Rafael Tavares"
 title: "{ Rafael Tavares }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+favicon: "/old/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/old/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../old/img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -95,12 +95,12 @@ web-app-mode: True
 
 # Icons for Web App mode
 
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
+icon-36p: "/old/img/web-app/icon-36p.png"
+icon-48p: "/old/img/web-app/icon-48p.png"
+icon-72p: "/old/img/web-app/icon-72p.png"
+icon-96p: "/old/img/web-app/icon-96p.png"
+icon-144p: "/old/img/web-app/icon-144p.png"
+icon-192p: "/old/img/web-app/icon-192p.png"
 
 ########
 # Blog #
@@ -132,16 +132,16 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/old/img/timeline/spidertocat.png"
     date: "September 2013 - Today"
     description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/old/img/timeline/baracktocat.jpg"
     date: "September 2007 - August 2013"
     description: "Started coding"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/old/img/timeline/default.png"
 
 ###########
 # Contact #
@@ -174,13 +174,13 @@ social:
   - title: "bitcoin"
     url: "https://blockchain.info/address/1AVfUwLhXDPaph83UzmpLw1hFi1GoTcJBq"
   - title: "rss"
-    url: "/feed.xml"
+    url: "/old/feed.xml"
 
 ############
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
+err-404-img: "/old/img/labtocat.png"
 
 ##################
 # GPG on Keybase #
