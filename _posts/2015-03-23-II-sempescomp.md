@@ -20,6 +20,6 @@ category: Events
 * **[Grupo reconhecido pelo CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/2586629911844504)**
 
 <figure>
-    <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/banner-2semprescomp.png" alt="Programação segunda Sempescomp">
+    <img src="http://rafaeltavares.co/public/img/posts/banner-2semprescomp.png" alt="Programação segunda Sempescomp">
     <figcaption>#IISemPesComp</figcaption>
 </figure>

@@ -2,7 +2,7 @@
 markdown:         kramdown
 pygments:         true
 google-analytics-tracking-id: UA-57304637-1
-highlighter:      rouge
+
 
 # Permalinks
 permalink:        pretty
@@ -11,7 +11,7 @@ permalink:        pretty
 title:            Rafael Tavares
 tagline:          rafasmusic
 description:      Web e Mobile Developer
-url:              http://rafaeltavares.tk
+url:              http://rafaeltavares.co
 feedburnerurl: http://feeds.feedburner.com/RafasTavares
 
 # Author
@@ -31,9 +31,9 @@ paginate:         5
 
 # Custom vars
 github:
-  repo:          https://github.com/rafastavares/SitePessoalOld
+  repo:          https://github.com/rafastavares
   
 source:     .
 destination: ./_site
-paginate_path: '/blog/page:num'
+paginate_path: 'blog/page:num'
 atom_path : /atom.xml

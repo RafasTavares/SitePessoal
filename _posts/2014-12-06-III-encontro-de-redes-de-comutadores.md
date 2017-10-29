@@ -11,7 +11,7 @@ category: Events
 
 
 <figure>
-    <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/3-encontro-redes.png" alt="Agenda do evento">
+    <img src="http://rafaeltavares.co/public/img/posts/3-encontro-redes.png" alt="Agenda do evento">
     <figcaption>
         Agenda do evento
     </figcaption>
@@ -27,13 +27,13 @@ category: Events
 </p>
 
 <figure>
-    <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/3-encontro-redes-palestras%20(1).jpg" alt="Participantes das palestras">
+    <img src="http://rafaeltavares.co/public/img/posts/3-encontro-redes-palestras%20(1).jpg" alt="Participantes das palestras">
      <figcaption>
         3° Encontro de Redes de Computadores
     </figcaption>
 </figure>
 <figure>
-    <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/3-encontro-redes-palestras%20(2).jpg" alt="Participantes das palestras">
+    <img src="http://rafaeltavares.co/public/img/posts/3-encontro-redes-palestras%20(2).jpg" alt="Participantes das palestras">
     <figcaption>
         "Participantes" das palestras #2
     </figcaption>
