@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6b51749f1fd7597523399c56f35908de8ce876d9
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -25,6 +28,7 @@ $RECYCLE.BIN/
 # OSX
 # =========================
 
+<<<<<<< HEAD
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -65,8 +69,15 @@ _site
 *~
 
 # OS or Editor folders
+=======
+>>>>>>> 6b51749f1fd7597523399c56f35908de8ce876d9
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
 ._*
+<<<<<<< HEAD
 Thumbs.db
 .cache
 .project
@@ -89,3 +100,20 @@ validation-report.json
 # Folders to ignore
 node_modules
 >>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
+=======
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+>>>>>>> 6b51749f1fd7597523399c56f35908de8ce876d9

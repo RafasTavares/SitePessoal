@@ -3,10 +3,14 @@ markdown:         kramdown
 pygments:         true
 google-analytics-tracking-id: UA-57304637-1
 <<<<<<< HEAD
+<<<<<<< HEAD
 highlighter:      rouge
 =======
 
 >>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
+=======
+highlighter:      rouge
+>>>>>>> 6b51749f1fd7597523399c56f35908de8ce876d9
 
 # Permalinks
 permalink:        pretty
@@ -16,10 +20,14 @@ title:            Rafael Tavares
 tagline:          rafasmusic
 description:      Web e Mobile Developer
 <<<<<<< HEAD
+<<<<<<< HEAD
 url:              http://rafaeltavares.co/old
 =======
 url:              http://rafaeltavares.co
 >>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
+=======
+url:              http://rafaeltavares.co/old
+>>>>>>> 6b51749f1fd7597523399c56f35908de8ce876d9
 feedburnerurl: http://feeds.feedburner.com/RafasTavares
 
 # Author
@@ -40,6 +48,7 @@ paginate:         5
 # Custom vars
 github:
 <<<<<<< HEAD
+<<<<<<< HEAD
   repo:          https://github.com/rafastavares/SitePessoalOld
   
 source:     .
@@ -52,4 +61,11 @@ source:     .
 destination: ./_site
 paginate_path: 'blog/page:num'
 >>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
+=======
+  repo:          https://github.com/rafastavares/SitePessoalOld
+  
+source:     .
+destination: ./_site
+paginate_path: '/blog/page:num'
+>>>>>>> 6b51749f1fd7597523399c56f35908de8ce876d9
 atom_path : /atom.xml
