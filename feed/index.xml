@@ -7,19 +7,19 @@ layout: null
         <id>http://rafaeltavares.co/blog</id>
         <title>Blog - Rafael Tavares</title>
         <icon>http://rafaeltavares.co/public/favicon.ico</icon>
-        <link href="http://rafaeltavares.co/feed/index.xml" rel="self" />
-        <link href="http://rafaeltavares.co/blog" /> {% for post in site.posts limit:10 %} {% if post.layout == 'post' %}
+        <link href="http://rafaeltavares.co/old/feed/index.xml" rel="self" />
+        <link href="http://rafaeltavares.co/old/blog" /> {% for post in site.posts limit:10 %} {% if post.layout == 'post' %}
         <entry>
             <id>http://rafaeltavares.co{{ post.id }}</id>
             <title>{{ post.title | strip_html }}</title>
             <updated>{{ post.date | date_to_xmlschema }}</updated>
-            <link href="http://rafaeltavares.co{{ post.url }}" />
+            <link href="http://rafaeltavares.co/old{{ post.url }}" />
             <author>
                 <name>Rafael Tavares</name>
                 <uri>http://rafaeltavares.co/</uri>
             </author>
             <content type="html">
-                {{ post.content | replace: "src='/assets/", "src='http://rafaeltavares.co/assets/" | xml_escape }}
+                {{ post.content | replace: "src='/old/assets/", "src='http://rafaeltavares.co/old/assets/" | xml_escape }}
             </content>
         </entry>
         {% endif %} {% endfor %}
