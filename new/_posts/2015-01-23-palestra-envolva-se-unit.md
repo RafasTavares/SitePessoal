@@ -56,6 +56,7 @@ category: Events
 <p class="txt-post">
     <h4><b>Fotos da palestra:</b></h4>
     <figure>
+<<<<<<< HEAD
         <img src="http://rafaeltavares.co/public/img/posts/envolva-se-mozilla-unit-1.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
         <figcaption> Envolva-se com a Mozilla</figcaption>
     </figure>
@@ -73,6 +74,25 @@ category: Events
     </figure>
     <figure>
         <img src="http://rafaeltavares.co/public/img/posts/envolva-se-mozilla-unit-5.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+=======
+        <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/envolva-se-mozilla-unit-1.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+        <figcaption> Envolva-se com a Mozilla</figcaption>
+    </figure>
+    <figure>
+        <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/envolva-se-mozilla-unit-2.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+        <figcaption> Envolva-se com a Mozilla</figcaption>
+    </figure>
+    <figure>
+        <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/envolva-se-mozilla-unit-3.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+        <figcaption> Envolva-se com a Mozilla</figcaption>
+    </figure>
+    <figure>
+        <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/envolva-se-mozilla-unit-4.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+        <figcaption> Envolva-se com a Mozilla</figcaption>
+    </figure>
+    <figure>
+        <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/envolva-se-mozilla-unit-5.jpg" alt="Foto da palestra Envolva-se com a mozilla no papi unit"/>
+>>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
         <figcaption> Envolva-se com a Mozilla</figcaption>
     <figure>
 </p>
