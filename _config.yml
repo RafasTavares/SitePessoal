@@ -2,6 +2,10 @@
 markdown:         kramdown
 pygments:         true
 google-analytics-tracking-id: UA-57304637-1
+<<<<<<< HEAD
+=======
+
+>>>>>>> eb204cbdbedf9f038fa8e0f730cb90f6c2fea432
 highlighter:      rouge
 
 # Permalinks
@@ -31,8 +35,16 @@ paginate:         5
 
 # Custom vars
 github:
+<<<<<<< HEAD
   repo:          https://github.com/rafastavares
 source:     .
 destination: ./_site
 paginate_path: 'blog/page:num'
+=======
+  repo:          https://github.com/rafastavares/SitePessoalOld
+  
+source:     .
+destination: ./_site
+paginate_path: '/blog/page:num'
+>>>>>>> eb204cbdbedf9f038fa8e0f730cb90f6c2fea432
 atom_path : /atom.xml
