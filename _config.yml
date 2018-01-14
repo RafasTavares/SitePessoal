@@ -12,7 +12,7 @@ permalink:        pretty
 title:            Rafael Tavares
 tagline:          rafasmusic
 description:      Web e Mobile Developer
-url:              http://rafaeltavares.co
+url:              http://rafastavares.github.io/SitePessoal/
 feedburnerurl: http://feeds.feedburner.com/RafasTavares
 
 # Author
@@ -32,7 +32,7 @@ paginate:         5
 
 # Custom vars
 github:
-  repo:          https://github.com/rafastavares/SitePessoalOld
+  repo:          https://github.com/rafastavares/SitePessoal
   
 source:     .
 destination: ./_site

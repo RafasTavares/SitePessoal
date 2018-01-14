@@ -38,29 +38,21 @@ Primeiro dia de Front In Maceió, já bombando com o hackathon acontecendo simul
 ---
    
 <figure>
-<<<<<<< HEAD
-    <img src="http://rafaeltavares.co/public/img/posts/1_dia_hackathon_front_in_maceio_1.jpg" alt="Pessoal do SENAI no Hackatthon do Front In Maceió">
-    <figcaption>Participantes  desenvolvendo seus apps</figcaption>
-</figure>
-<figure>
-    <img src="http://rafaeltavares.co/public/img/posts/1_dia_hackathon_front_in_maceio_2.jpg" alt="Pessoal do SENAI no Hackatthon do Front In Maceió">
-=======
+
     <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/1_dia_hackathon_front_in_maceio_1.jpg" alt="Pessoal do SENAI no Hackatthon do Front In Maceió">
     <figcaption>Participantes  desenvolvendo seus apps</figcaption>
 </figure>
 <figure>
     <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/1_dia_hackathon_front_in_maceio_2.jpg" alt="Pessoal do SENAI no Hackatthon do Front In Maceió">
->>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
+
     <figcaption> Galera do SENAI participando do Hack do Front In Maceió #hackathon #frontinmaceio #firefoxos</figcaption>
 </figure>
 
 ---
 <figure>
-<<<<<<< HEAD
-    <img src="http://rafaeltavares.co/public/img/posts/1_dia_hackathon_front_in_maceio_3.jpg" alt="Marcus e Melissa desenvolvendo idéias com as equipes do IFAL">
-=======
+
     <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/1_dia_hackathon_front_in_maceio_3.jpg" alt="Marcus e Melissa desenvolvendo idéias com as equipes do IFAL">
->>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
+
     <figcaption>
        Marcus e Melissa discutindo idéias com as equipes do IFAL #hackathon #frontinmaceio #firefoxos
     </figcaption>

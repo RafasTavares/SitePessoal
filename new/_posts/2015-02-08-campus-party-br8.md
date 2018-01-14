@@ -32,11 +32,9 @@ category: Events
     Foi o dia de descobertas, todos os stands abertos com jogos, palestras, etc. Muito difícil, pois queríamos fazer tudo em um dia só... Decidimos só assistir palestras e ir dormir cedo porque dividir a carraca com uma mala e 5 mochilas e muito tenso.
     <br/>
     <figure>
-<<<<<<< HEAD
-         <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_petrobras.jpg" alt="Stand da petrobras na campus party 2015"> 
-=======
+
          <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/cpbr8/cpbr8_petrobras.jpg" alt="Stand da petrobras na campus party 2015"> 
->>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
+
          <figcaption>
              Stand da Petrobras
          </figcaption>
@@ -50,11 +48,9 @@ category: Events
    No terceiro dia já estávamos querendo voltar para casa de tão cansado kkk... Mais foi só um desejozinho rápido quando acordei e vi a arena com todos aqueles conteúdos a vontade logo passou e tiramos o dia para ver algumas palestras e ir à caça de brindes kkkkk... Assistimos o URC o UFC dos robôs na arena do submarino, foi muito show \o/
    <br/>
    <figure>
-<<<<<<< HEAD
-        <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_URC.jpg">
-=======
+
         <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/cpbr8/cpbr8_URC.jpg">
->>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
+
         <figcaption>
             URC
         </figcaption>
@@ -68,19 +64,13 @@ category: Events
     Finalmente ganhei minha miniatura em 3D do Submarino, que ainda esta para chegar estou doido pra ver... Conhecemos o Qwant o qual gostei muito das propostas de premiar quem encontrava bugs, etc. Acredito que precisa evoluir um pouco mais e ter mais diferenciais em relação aos concorrentes. O mais tenso foi voltar para o camping e ver uma conta' kkkkk até asustei mais era um folder de uma empresa kkkkk ótima estratégia.
     <br/>
     <figure>
-<<<<<<< HEAD
-         <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_qwant.jpg">
-         <figcaption>  Stand do Qwant </figcaption>
-     </figure>
-      <figure>
-        <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_conta_barraca.jpg">
-=======
+
          <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/cpbr8/cpbr8_qwant.jpg">
          <figcaption>  Stand do Qwant </figcaption>
      </figure>
       <figure>
         <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/cpbr8/cpbr8_conta_barraca.jpg">
->>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
+
         <figcaption>Conta na barraca </figcaption>
      </figure>
 </p>
@@ -90,11 +80,9 @@ category: Events
     Depois de quatro dias de muitas palestras já estávamos quase esgotados fomos convidados para ir a um paintball, o que foi muito tenso porque a equipe dos convidados da campus party nunca tinha jogado enquanto a outra equipe era com os caras que treinava a policia federal. Embora eles pegaram muito leve ficava um pouco de medo kkkk... Gostaria de agradecer muito a galera da Baidu que foi quem nos convidou e estamos esperando para o próximo ano uma arena de paintball dentro da campus \o/
     <br/>
     <figure>
-<<<<<<< HEAD
-        <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_paintball.jpg">
-=======
+
         <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/cpbr8/cpbr8_paintball.jpg">
->>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
+
         <figcaption>Paintball na cpbr8.</figcaption>
     </figure>
 </p>
@@ -117,11 +105,9 @@ category: Events
     Acredito que um acadêmico de computação DEVE ir pelo menos uma vez para a CP e com certeza não vai uma vez só.... #próóóóóóóóximo #cpbr8 \o/
     <br/>
     <figure>
-<<<<<<< HEAD
-         <img src="http://rafaeltavares.co/public/img/posts/cpbr8/cpbr8_grade.jpg">
-=======
+
          <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/cpbr8/cpbr8_grade.jpg">
->>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
+
          <figcaption>Resumo diário de atividades.</figcaption>
     </figure>
 </p>

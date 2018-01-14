@@ -14,19 +14,13 @@ category: Events
 <hr>
 <h2>Fotos</h2>
 <figure>
-<<<<<<< HEAD
-    <img src="http://rafaeltavares.co/public/img/posts/talk_webmaker_1.jpg" alt="webmaker papi unit">
-    <figcaption>#webmakerpapiunit</figcaption>
-</figure>
-<figure>
-    <img src="http://rafaeltavares.co/public/img/posts/talk_webmaker_2.jpg" alt="webmaker papi unit">
-=======
-    <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/talk_webmaker_1.jpg" alt="webmaker papi unit">
+
+<img src="http://rafastavares.github.io/SitePessoal/public/img/posts/talk_webmaker_1.jpg" alt="webmaker papi unit">
     <figcaption>#webmakerpapiunit</figcaption>
 </figure>
 <figure>
     <img src="http://rafastavares.github.io/SitePessoal/public/img/posts/talk_webmaker_2.jpg" alt="webmaker papi unit">
->>>>>>> ea668221ac1d4719cd0dfe45a07a3090cc239e4c
+
     <figcaption>#webmakerpapiunit</figcaption>
 </figure>
 
