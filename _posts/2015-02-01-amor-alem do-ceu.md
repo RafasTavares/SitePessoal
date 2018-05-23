@@ -18,9 +18,9 @@ Sem olhar me percebe, sem falar me diz, sem me tocar me abraça. Esse AMOR.
 <p class="txt-post">
 Vai além das pessoas...
 <br/><br/>
-Quando vejo borboletas dançando pelo ar percebo o quanto ela ama por ser um grande exemplo de esperança.
+Quando vejo borboletas dançando pelo ar percebo o quanto ela ama, por ser um grande exemplo de esperança.
 <br/><br/>
-O massagear do ar nas pétalas das flores espalhando vida e perfume além das cores...
+O massagear do ar nas pétalas das flores, espalhando vida e perfume além das cores...
  <br/><br/>
 A renovação da chuva que limpa o ambiente trazendo vida nova onde a sente...
  <br/><br/>
@@ -39,6 +39,6 @@ Agora a chuva nos meus olhos cansados chove nos meus mares amados, nascendo em m
  <br/><br/>
 E esse incrível amor...
  <br/><br/>
-E para que venham novos amores para seguirmos com nossa história é preciso devolver nossas joias por um momento para que possamos crescer <b>SEMPRE TODOS JUNTOS... </b>
+E para que venham novos amores, para seguirmos com nossa história é preciso devolver nossas joias por um momento para que possamos crescer <b>SEMPRE TODOS JUNTOS... </b>
 </p>
 <br/> 
